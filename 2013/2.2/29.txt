@@ -1,0 +1,393 @@
+CHAPTER 29
+
+2901.1 Scope. The provisions of this chapter and the
+Cal-.
+
+determined in accordance with Chapter 3.
+
+ifomia Plumbing Code shall govern the erection, installation, alteration, repairs, relocation, replacement, addition to, use or [P] 2902.1.1 Fixture calculations.
+To determine the occu�maintenance of plumbing equipment and systems. Toilet and pant load of each sex, the total occupant load shall be bathing rooms shall be constructed in accordance with Sec�divided in half. To determine the required number of fix�tion 1210. Plumbing systems and equipment shall be con�
+tures, the fixture ratio or ratios for each fixture type shall structed, installed and maintained in accordance with the
+be applied to the occupant load of each sex in accordance California Plumbing Code. Private sewage disposal systems with Table 2902.1. Fractional numbers resulting from � shall conform to the California Private Sewage Disposal applying the fixture ratios of Table 2902.1 shall be Code. � rounded up to the next whole number. For calculations
+involving multiple occupancies, such fractional numbers
+For minimum plumbing fixture requirements, see Table
+
+for each occupancy shall first be summed and then
+422.1 of the California Plumbing Code.
+rounded up to the next whole number.
+
+Exception: The total occupant load shall not be
+SECTION 2902
+
+required to be divided in half where approved statistical MINIMUM PLUMBING FACILITIES data indicate a distribution of the sexes of other than SO
+[P] 2902.1 Minimum number of fiXtures. Plumbing fixtures percent of each sex.
+shall be provided for the type of occupancy and in the mini�
+mum number shown in Table 2902.1. Types of occupancies
+
+[P] TABLE 2902.1
+MINIMUM NUMBER OF REQUIRED PLUMBING FIXTURES"
+(See Sections 2902.2 and 2902.3)
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+CLASSIFICATION
+OCCUPANCY
+
+No.
+A-4
+
+1
+Assembly
+A-5
+Business
+
+2
+B
+
+3
+Educational
+E
+Factory and
+F-1 and F-2
+
+4
+industrial
+1-1
+1-2
+
+5
+Institutional
+1-3
+1-3
+1-4
+
+[P] TABLE 2902.1-(continued)
+MINIMUM NUMBER OF REQUIRED PLUMBING FIXTURES"
+(See Sections 2902.2 and 2902.3)
+
+DESCRIPTION
+Coliseums, arenas, skating rinks, pools and tennis courts for indoor sporting events and activities
+Stadiums, amuse�ment parks, bleachers and grandstands for outdoor sporting events and activi�ties
+Buildings for the transaction of busi�ness, professional services, other ser�vices involving merchandise, office buildings, banks, light indus�trial and similar
+uses
+Educational facili�ties
+Structures in which occupants are engaged in work fabricating, assem�bly or processing of products or materials
+Residential care
+Hospitals, ambula�tory nursing home care recipientb
+Employees, other
+than residential
+careb
+Visitors, other than residential care
+Prisonsb
+Reformatories,
+detention centers
+and correctional
+centersb
+Employeesb
+Adult day care and child day care
+
+WATER CLOSETS (URINALS SEE SECTION 419.2 OF THE
+INTERNATIONAL
+PLUMBING CODE)
+
+
+MALE FEMALE
+1 per 75 for 1 per 40 for the first the first 1,500 and 1 1,520 and 1 per 120 for per 60 for the remain-the remain�der exceed-der exceed�ing 1,500 ing 1,520
+1 per 75 for 1 per 40 for the first the first
+1,500 and 1 1,520 and 1 per 120 for per 60 for the remain-the remain�der exceed-der exceed�ing 1,500 ing 1,520
+1 per 25 for the first 50 and 1 per 50 for the remainder exceeding 50
+1 per 50
+1 per 100
+1 per 10
+1 per per roomc
+1 per 25
+1 per 75
+1 per cell
+1 per 15
+1 per 25
+1 per 15
+(continued)
+LAVATORIES
+MALE FEMALE
+1 per 1 per
+200 150
+1 per 1 per
+200 150
+1 per 40 for the first 80 and 1 per 80 for the remainder exceeding 80
+1 per 50
+1 per 100
+1 per 10
+1 per per roomc
+1 per 35
+1 per 100
+1 per cell
+1 per 15
+1 per 35
+1 per 15
+BATHTUBS/
+SHOWERS
+
+-
+-
+-
+-
+See Sec�tion411 of the Califor�nia Plumb�ing Code
+1 per 8
+1 per 15
+-
+-
+1 per 15
+1 per 15
+-
+1
+DRINKING FOUNTAINS8�1 (SEE SECTION 410.1 OF THE
+INTERNA TIONAL
+PLUMBING
+CODE)
+
+1 per 1,000
+1 per 1,000
+1 per 100
+1 per 100
+1 per 400
+1 per 100
+1 per 100
+1 per 100
+1 per 500
+1 per 100
+1 per 100
+1 per 100
+1 per 100
+OTHER
+1 service sink
+1 service sink
+1 service sinkg
+1 service sink
+1 service sink
+1 service sink
+1 service sink
+-
+-
+1 service sink
+1 service sink
+-
+1 service sink
+2013 CALIFORNIA BUILDING CODE
+
+0
+OCCUPANCY
+CLASSIFICATION
+No.
+
+0
+M
+Mercantile
+6
+R-1
+R-2
+R-2
+7
+Residential
+
+0 	R-3
+R-3
+R-4
+S-1
+Storage
+8
+S-2
+
+
+PLUMBING SYSTEMS
+[P] TABLE 2902.1-continued . MINIMUM NUMBER OF REQUIRED PLUMBING FIXTURES"
+(See Sections 2902.2 and 2902.3)
+DESCRIPTION
+Retail stores, ser�vice stations, shops, salesrooms, markets and shop�ping centers
+Hotels, motels, boarding houses (transient)
+Dormitories, frater�nities, sororities and boarding houses (not tran�sient)
+Apartment house
+One-and two-fam�ily dwellings
+Congregate living facilities with 16 or fewer persons
+Congregate living facilities with 16 or fewer persons
+Structures for the storage of goods, warehouses, store�houses and freight
+depots, low and moderate hazard
+
+WATER CLOSETS
+(URINALS SEE SECTION 419.2 OF LAVATORIES THE CALIFORNIA PLUMBING COOt:)
+MALE FEMALE MALE FEMALE
+1 per 500 1 per 750
+1 per sleeping 1 per sleeping unit unit
+1 per 10 1 per 10
+1 per dwelling 1 per dwelling unit unit
+1 per dwelling 1 per 10 unit
+
+1 per 10 1 per 10
+1 per 10 1 per 10
+1 per 100 1 per 100
+DRINKING FOUNTAINS., ' BATHTUBS
+(SEE SECTION
+OR 	OTHER
+410.1 OF THE
+SHOWERS
+CALIFORNIA PLUMBING COOt:)
+-
+
+1 per 1,000 1 service sinkg
+1 per
+-
+
+. sleeping 1 service sink unit
+1 per 8 1 per 100 1 service sink
+1 kitchen sink per dwelling 1 per unit; 1 auto�
+-
+dwelling 	matic clothes
+
+unit 	washer connec�tion per 20 dwelling units
+1 kitchen sink
+per dwelling
+1 per unit; 1 auto-
+dwelling matic clothes
+
+-
+
+unit 	washer connec�tion per dwelling unit
+1 per 8 1 per 100 1 service sink
+1 per 8 1 per 100 1 service sink
+See Sec�tion 411
+of the Cal�
+
+1 per 1,000 1 service sink
+ifomia
+Plumbing
+Code
+
+
+
+a.
+The fixtures shown are based on one fixture being the minimum required for the number of persons indicated or any fraction of the number of persons indicated. The number of occupants shall be determined by this code.
+
+
+b.
+Toilet facilities for employees shall be separate from facilities for imnates or care recipients.
+
+c.
+A single-occupant toilet room with one water closet and one lavatory serving not more than two adjacent patient sleeping units shall be permitted where such room is provided with direct access from each patient sleeping unit and with provisions for privacy.
+
+d.
+The occupant load for seasonal outdoor seating and entertainment areas shall be included when determining the minimum number of facilities required.
+
+e.
+The minimum number of required drinking fountains shall comply with Table 2902. 1 and Chapter 11.
+
+f.
+Drinking fountains are not required for an occupant load of 15 or fewer.
+
+
+g.
+For business and mercantile occupancies with an occupant load of 15 or fewer, service sinks shall not be required.
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+[P]
+2902.1.2 Family or assisted-use toilet and bath fix�tures. Fixtures located within family or assisted-use toilet and bathing rooms required by Section 1109.2.1 are per�mitted to be included in the number of required fixtures for either the male or female occupants in assembly and mercantile occupancies.
+
+
+[P]
+2902.2 Separate facilities. Where plumbing fixtures are required, separate facilities shall be provided for each sex.
+
+
+
+Exceptions:
+
+1.
+Separate facilities shall not be required for dwelling units and sleeping units.
+
+2.
+Separate facilities shall not be required in structures or tenant spaces with a total occupant load, includ�ing both employees and customers, of 15 or less.
+
+3.
+Separate facilities shall not be required in mercantile occupancies in which the maximum occupant load is 100 or less.
+
+
+
+
+[P]
+2902.2.1 Family or assisted-use toilet facilities serv�ing as separate facilities. Where a building or tenant space requires a separate toilet facility for each sex and each toilet facility is required to have only one water closet, two family/assisted-use toilet facilities shall be per�mitted to serve as the required separate facilities. Family or assisted-use toilet facilities shall not be required to be identified for exclusive use by either sex as required by Section 2902.4.
+
+
+[P]
+2902.3 Employee and public toilet facilities. Customers, patrons and visitors shall be provided with public toilet facili�ties in structures and tenant spaces intended for public utiliza�tion. The number of plumbing fixtures located within the required toilet facilities shall be provided in accordance with Section 2902. 1 for all users. Employees shall be provided with toilet facilities in all occupancies. Employee toilet facili�ties shall either be separate or combined employee and public toilet facilities.
+
+
+Exception: Public toilet facilities shall not be required in open or enclosed parking garages. Toilet facilities shall not be required in parking garages where there are no parking attendants.
+
+[P]
+2902.3.1 Access. The route to the public toilet facili�ties required by Section 2902.3 shall not pass through kitchens, storage rooms or closets. Access to the required facilities shall be from within the building or from the exterior of the building. All routes shall comply with the accessibility requirements of this code. The public shall have access to the required toilet facilities at all times that the building is occupied.
+
+[P]
+2902.3.2 Location of toilet facilities in occupancies other than malls. In occupancies other than covered and open mall buildings, the required public and employee toi�let facilities shall be located not more than one story above or below the space required to be provided with toilet facilities, and the path of travel to such facilities shall not exceed a distance of 500 feet (152 m).
+
+
+
+
+
+
+
+
+
+Exception: The location and maximum travel distances to required employee facilities in factory and industrial occupancies are permitted to exceed that required by this section, provided that the location and maximum travel distance are approved.
+[P]
+2902.3.3 Location of toilet facilities in malls. In cov�ered and open mall buildings, the required public and employee toilet facilities shall be located not more than one story above or below the space required to be provided with toilet facilities, and the path of travel to such facilities shall not exceed a distance of 300 feet (91 440 mm). In mall buildings, the required facilities shall be based on total square footage (m2) within a covered mall building or within the perimeter line of an open mall building, and facilities shall be installed in each individual store or in a central toilet area located in accordance with this section. The maximum travel distance to central toilet facilities in mall buildings shall be measured from the main entrance of any store or tenant space. In mall buildings, where employees' toilet facilities are not provided in the individ�ual store, the maximum travel distance shall be measured from the employees' work area of the store or tenant space.
+
+[P]
+2902.3.4 Pay facilities. Where pay facilities are installed, such facilities shall be in excess of the required minimum facilities. Required facilities shall be free of charge.
+
+[P]
+2902.3.5 Door locking. Where a toilet room is pro�vided for the use of multiple occupants, the egress door for the room shall not be lockable from the inside of the room. This section does not apply to family or assisted-use toilet rooms.
+
+[P]
+2902.4 Signage. Required public facilities shall be desig�nated by a legible sign for each sex. Signs shall be readily visible and located near the entrance to each toilet facility. Signs for accessible toilet facilities shall comply with Section 1110.
+
+[P]
+2902.4.1 Directional signage. Directional signage indicating the route to the public facilities shall be posted in accordance with Section 3107. Such signage shall be located in a corridor or aisle, at the entrance to the facili�ties for customers and visitors.
+
+[P]
+2902.5 Drinking fountain location. Drinking fountains shall not be required to be located in individual tenant spaces provided that public drinking fountains are located within a travel distance of 500 feet of the most remote location in the tenant space and not more than one story above or below the tenant space. Where the tenant space is in a covered or open mall, such distance shall not exceed 300 feet. Drinking foun�tains shall be located on an accessible route.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* �
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE

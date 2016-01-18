@@ -1,0 +1,1661 @@
+C) 
+
+i..
+I 
+
+Californi Title 24, 
+California Build 
+/ \
+''
+. 
+(
+i\ 
+(For Errata 
+
+
+
+0
+
+2013 California Historical Building Code California Code of Regulations, Title 24, Part 8 
+0 
+
+First Printing: July 2013 
+
+
+
+
+0 
+
+Published by 
+International Code Council 
+500 New Jersey Avenue, NW, 6th Floor 
+Washington, D.C. 20001 
+1-888-422-7233 
+
+
+
+COPYRIGHT© 2013 
+held by 
+0
+
+California Building Standards Commission 2525 Natomas Park Drive, Suite 130 Sacramento, California 95833-2936 
+
+(J 
+
+
+
+
+u 
+
+
+
+PRINTED IN THE U.S.A. 
+
+
+PREFACE 
+
+
+
+This document is the 8th of 12 parts of the official triennial compilation and publication of the adoptions, amendments and repeal of administrative regulations to California Code of Regulations, Title 24, also referred to as the California 
+The California Building Standards Code is published in its entirety every three years by order of the California legis­
+0 	lature, with supplements published in intervening years. The California legislature delegated authority to various state 
+agencies, boards, commissions and departments to create building regulations to implement the State's statutes. These building regulations, or standards, have the same force of law, and take effect 180 days after their publication unless oth­erwise stipulated. The California Building Standards Code applies to occupancies in the State of California as annotated. 
+
+
+
+
+
+
+A city, county, or city and county may establish more restrictive building standards reasonably necessary because of local climatic, geological or topographical conditions. Findings of the local condition(s) and the adopted local building standard( s) must be filed with the California Building Standards Commission to become effective and may not be effec­
+tive sooner than the effective date of this edition of the California Building Standards Code. Local building standards that were adopted and applicable to previous editions of the California Building Standards Code do not apply to this edition without appropriate adoption and the required filing. 
+
+
+
+
+
+
+Should you find publication (e.g., typographical) errors or inconsistencies in this code or wish to offer comments toward improving its format, please address your comments to: 
+
+
+
+2525 Natomas Park Drive, Suite 130 Sacramento, CA 95833-2936 
+
+Phone:(916) 263-091 Fax: (916) 263-0959 
+
+Web Page: www.bsc.ca.gov 
+
+ACKNOWLEDGEMENTS 
+The 2013 California Building Standards Code (Code) was developed through the outstanding collaborative efforts of the Department of Housing and Community Development, the Division of State Architect, the Office of the State Fire Marshal, the Office of Statewide Health Planning and Development, the California Energy Commission, the California Department of Public Heatth, the California State Lands Commission, the Board of State and Community Corrections, and the California Building Standards Commission (Commission). 
+This collaborative effort included the assistance of the Commission's Code Advisory Committees and many other vol­unteers who worked tirelessly to assist the Commission in the production of this Code. 
+0 	Governor Edmund G. Brown Jr. 
+Members of the California Building Standards Commission 
+Secretary Anna Caballaro -Chair James Barthman -Vice-Chair 
+0 
+Stephen Jensen Rose Conroy 
+Randy Twist Sheila Lee 
+Richard Sawhill Richard Sierra 
+Kent Sasaki Steven Winkel 
+Erick Mikiten 
+Jim McGowan -Executive Director ( 
+\ Michael L. Nearman -Deputy Executive Director 
+\______) 
+
+
+
+For questions on California state agency amendments, please refer to the contact list on he following page. 
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+PART 8 CONTAINS ALTERNATIVE REGULATIONS FOR 
+QUALIFIED HISTORICAL BUILDINGS 
+
+
+
+
+The California Historical Building Code (CHBC) is unique among state regulations. The authoring of the original CHBC required state agencies promulgating regulations for building construction to work in harmony with representatives of other design and construction disciplines. The result was a totally new approach to building codes for historical structures, which maintains currently acceptable life-safety standards. 
+These regulations are also unique in that they are performance oriented rather than prescriptive. The provisions of the CHBC are to be applied by the enforcing authority of every city, county, city and county,.or state agency in permitting repairs, alterations and additions necessary for the preservation, reha­bilitation, relocation, related construction, change of use or continued use of a qualified historical building. 
+The authority for use of the CHBC is vested in Sections 18950 through 18961 of the Health and Safety Code. Section 18954 states, "The building department of every city or county shall apply the provisions of alternative building standards and building regulations adopted by the CHBC Board pursuant to Section 18959.5 in permitting repairs, alterations and additions necessary for the preservation, restoration, rehabilitation, moving or continued use of an historical building or structure. A state agency shall apply the alternative building regulations adopted by the CHBC Board pursuant to Section 18959.5 in permitting repairs, alterations and additions necessary for the preservation, restoration, rehabilitation, moving or continued use of an historical building or structure." 
+However, be aware that in order to use the CHBC, the structure under consideration must be qualified by being designated as an historical building or structure. Section 18955 states, "For the purposes of this part, a qualified historical building or struc­ture is any structure or collection of structures, and their associ­ated sites deemed of importance to the history, architecture or culture of an area by an appropriate local or state governmental jurisdiction. This shall include structures on existing or future national, state or local historical registers or official invento­ries, such as the National Register of Historic Places, State His­torical Landmarks, State Points of Historical Interest, and city or county registers or inventories of historical or architecturally significant sites, places, historic districts or landmarks." 
+
+
+The regulations of the CHBC have the same authority as state law and are to be considered as such. Liability is the same as for prevailing law. 
+The intent of the CHBC is to save California's architectural heritage by recognizing the unique construction problems inherent in historical buildings and by providing a code to deal with these problems. 
+
+
+
+() 
+
+u 
+
+
+
+
+
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+HISTORICAL PREFACE 
+
+
+
+
+The background of the California Historical Building Code can be traced to December 1973, when the State Departtnent of Parks and Recreation published the California History Plan, Volume I, in which Recommendation No. 11 was proposed by the then California Landmarks Advisory Committee (later to 0 become The State Historical Resources Commission). This proposal expressed a need for a new building code to meet the intent of protecting the public health and safety and also retain "enough flexibility to allow restoration of a Historic feature while still retaining its Historic integrity." No. 11 of this His­tory Plan supported this need by stating that" ... restoration ... 
+() 	is frequently made difficult by unnecessarily rigid interpreta­tion of building ... codes." 
+In March of 1974, the Landmarks Committee by resolution recommended that the Director of the State Departtnent of Parks and Recreation and the State Architect initiate a study to develop this needed code. These two officials accepted this concept and jointly called a statewide meeting in Sacramento on May 14th of that year. Attending were representatives from both the public and private sectors, such as members of the building industry, design professions, local and state building officials, and others interested in this problem. 
+Out of this open conference, a steering committee was formed to explore in depth the ways and means of implementing the new historical building code concept. This ad hoc committee was chaired by a representative from the California Council, American Institute of Architects and composed of a compre­hensive cross section of the professional organizations and government agencies concerned with design and code enforcement. 
+
+Meetings began late in 1974 and continued into early 1975. By April of that year, a legislative subcommittee of the ad hoc group drafted a sample bill for the proposed code and requested that it be carried by Senator James R. Mills, President Pro Tern­
+() 
+pore of the Senate. After further development and refinement, the enacting legislation to create the authority for the code and an advisory board to prepare regulations to implement it (SB 927, Mills) was supported by both the legislature and the pub­lic. It was signed by the governor in September 1975, and became effective January 1, 1976. 
+The members of the advisory board, which were required by law to include local and state building officials, individuals from the building industry and design professions, as well as representatives from city and county governments, were appointed and held their first session in Sacramento, February 24, 1976. This Board's duties included the preparation of code regulations and the review of specific historic building cases, when officially requested by governing bodies. 
+Several of the Board's members were a part of the original ad hoc steering committee and thus provided a continuity and smooth transition from the inception of the code's philosophy to its pragmatic implementation in these performance-oriented regulations. 
+The first comprehensive regulations were codified in August and October 1979, after years of careful deliberation. Those regulations allowed all jurisdictions to utilize them at their dis­cretion in replacing or modifying details of prevailing prescrip­tive codes. 
+Changes made in law in 1984 and 1991, and to the code, make the application of the California Historical Building Code stat­utes and regulations applicable for all agencies and at the dis­cretion of the owner for local jurisdictions when dealing with qualified historical buildings. 
+These current performance regulations were adopted by the Board on June 23, 1998, and approved by the California Build­ing Standards Commission on December 12, 2013. 
+
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+() 
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+
+CALIFORNIA CODE OF REGULATIONS, TITLE 24 
+California Agency Information Contact List 
+
+Board State and Corrections 
+www.csa.ca.gov ............................. (916) 445-5073 Lo cal Adult Jail Standards Lo cal Juvenile Fa cili ty Standards 
+
+Standards Commission 
+
+www.bs c.ca.gov ............................. (916) 263-0916 
+
+
+www.enre gy.ca.gov ............. Energy Hotline (800) 772-3300 Buil ding Efficiency Standards Appliance Efficiency Standards Compliance Manual/Forms 
+
+State Lands Commission 
+www.sl c.ca.gov ............................. (562) 499-6312 Marine Oil Terminals 
+
+State 
+www.library.ca.gov .......................... (916) 654-0266 
+
+
+Consumer 
+Acupuncture Board 
+www.a cupuncture.ca.gov ...................... (916) 515-5200 Office Standards 
+Board of Pharmacy 
+www.pharma cy.ca.gov ........................ (916) 574-7900 Pharmacy Standards 
+Bureau of Barbering and Cosmetology 
+www.barbercosmo.ca.gov ..................... (916) 952-5210 Barber and Beauty Shop, and Colle ge Standards 
+Bureau of Electronic and Appliance Repair, Home Furnishings and Thermal Insulation 
+
+www.bearhfti.ca.gov ......................... (916) 999-2041 Insulation Testing Standards 
+Structural Pest Control Board 
+www.pestboard.ca.gov ........................ (800) 737-8188 Stru ctural Standards 
+
+Veterinary Medical Board 
+www.vmb.ca.gov ............................ (916) 263-2610 Veterinary Hospital Standards 
+Food and 
+www.c dfa.ca.gov Meat & Poultry Pa cking Plant Standards (916) 654-0509 
+
+Dairy Standards (916) 654-0773 
+
+www.hc d.ca.gov ............................. (916) 445-9471 Resi dential-Hotels, Motels, Apartments, Single-Family Dwellings; and Permanent Stru ctures in Mobilehome & Spe cial Oc cupancy Parks 
+(916) 445-3338 
+Fa ctory-Built Housing, Manufa ctured Housing & Commercial Mo dular 
+Mobilehome-Permits & Inspe ctions Northern Re gion-{916) 255-2501 Southern Re gion-{951) 782-4420 
+(916) 445-9471 Employee Housing Standards 
+
+Health 
+www.dph.ca.gov ............................. (916) 449-5661 Organize d Camps Standards Publi c Swimming Pools Standards 
+
+Water Resources 
+www.dwr.ca.gov ............................. (916) 651-9676 Gray Water Information 
+Division the State Architect 
+www.d gs.ca.gov/dsa .......................... (916) 445-8100 
+
+Access Compliance 
+Structural Safety 
+Publi c Schools Standards Essential Servi ces Buil ding Standards Community Colle ge Standards 
+State Historical Building Safety Board 
+Alternative Buil ding Standards 
+
+www.oshp d.ca.gov ........................... (916) 654-3139 Hospital Standards Skille d Nursing Facility Standards & Clini c Standards 
+Permits (916) 654-3362 
+
+State Fire Marshal 
+
+osfm.fire.ca.gov ............................. (916) 445-8200 Co de Development and Analysis Fire Safety Standards Firepla ce Standards Day Care Centers Standards 
+Exit Standards 
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+HOW TO DETERMINE WHERE CHANGES HAVE BEEN MADE 
+
+
+Symbols in the margins indicate where changes have been made or language has been deleted. 
+This symbol indicates that a change has been made. 0
+II 
+> This symbol indicates deletion of language. 
+0 
+
+
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+TABLE OF CONTENTS 
+
+
+
+
+CHAPTERS-I ADMINISTRATION ••••••••••••••• 1 
+Section 8-101 Title, Purpose and Intent. .................... 1 
+8-102 Application ................. . . . . .......... 1 
+8-103 Organization and Enforcement. .. . . . . . . . . . . . . . 1 
+8-104 Review and Appeals ........................ 2 
+8-105 Construction Methods and Materials ........... 2 
+8-106 SHBSB Rulings ........................... 2 
+
+
+CHAPTER 8-2 DEFINITIONS •••••••••••••••••••• 3 
+Section 8-201 Definitions ............................... 3 
+CHAPTER 8-3 USE AND OCCUPANCY ••••••••••• 5 
+Section 8-301 Purpose and Scope ......................... 5 8-302 General .................................. 5 8-303 Residential Occupancies ..................... 5 
+
+CHAPTER 8-4 FIRE PROTECTION ••••••••••••••• 7 
+Section 
+8-401 Purpose, Intent and Scope ................... 7 
+8-402 Fire-resistive Construction ................... 7 
+8-403 Interior Finish Materials . . . . . . . . . . . .......... 7 
+8-404 Wood Lath and Plaster ...................... 7 
+8-405 Occupancy Separation ...................... 7 
+8-406 Maximum Floor Area ....................... 7 
+8-407 Vertical Shafts ............................. 7 
+8-408 Roof Covering ............................ 7 
+8-409 Fire Alarm Systems ........................ 8 
+8-410 Automatic Sprinkler Systems ................. 8 
+8-411 Other Technologies ......................... 8 
+8-412 High-rise Buildings ........................ 8 
+
+
+
+CHAPTER 8-5 MEANS OF EGRESS ••••••••••••••• 9 
+Section 
+8-501 Purpose, Intent and Scope ................... 9 
+8-502 General .................................. 9 
+8-503 Escape or Rescue Windows and Doors ........ 10 
+8-504 Railings and Guardrails .................... 10 
+
+
+CHAPTER 8-6 ACCESSffiiLITY •••••• ••••••.•••• 
+11 
+, Section 8-601 Purpose, Intent and Scope .................. 11 8-602 Basic Provisions .. . . . . . . . . . . . . . . . . . . . . . . . . 11 8-603 Alternatives... . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 8-604 Equivalent Facilitation ........ ............. 12 
+CHAPTER 8-7 STRUCTURAL REGULATIONS •••• 13 
+Section 8-701 Purpose, Intent and Scope .................. 13 
+8-702 	General ....................... ...... .... 13 
+
+8-703 	Structural Survey .............. ........... 13 
+
+8-704 	Nonhistorical Additions and Nonhistorical Alterations .............................. 13 
+8-705 Structural Regulations ..................... 13 
+8-706 Lateral Load Regulations ................... 14 
+
+CHAPTER 8-8 ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION •••••••••••••• 15 
+Section 8-801 Purpose, Intent and Scope ....... ........... 15 
+8-802 General Engineering Approaches .. . . . . . . . . . . . 15 8-803 Nonstructural Archaic Materials .............. 15 8-804 Allowable Conditions for Specific Materials .... 15 8-805 Masonry ................................ 15 8-806 Adobe .................................. 16 8-807 Wood.......................... . . . . . . . . . 16 8-808 Concrete .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 8-809 Steel and Iron ............................ 16 8-810 Hollow Clay Tile ......................... 17 8-811 Veneers ................................. 17 8-812 Glass and Glazing. . . . . . . . . . . . . . . . . . . . . . . . . 17 
+CHAPTER 8-9 MECHANICAL, PLUMBING AND ELECTRICAL REQUIREMENTS •••.•••••••••• 19 . 
+Section 8-901 Purpose, Intent and Scope .................. 19 8-902 Mechanical .............................. 19 
+8-903 	Plumbing...... ..................... .. ... 20 
+
+8-904 	Electrical ................................ 21 
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+CHAPTER 8-10 QUALIFIED ffiSTORICAL DISTRICTS, SITES AND OPEN SPACES o o o o o o o o 23 
+
+
+
+Section 8-1001 Purpose and Scope ........................ 23 8-1002 Application .......... . . . . . . . . . . . . . . . . . . . 23 8-1003 Site Relations ........ . . . . . . . . . . . . . . . . . . . . 23 
+0 
+
+APPENDIX A .................................. 25 
+
+IDSTORY NOTE APPENDIX o o o o o o o o o o o o o o o o o o o o 29 
+0 
+
+
+
+
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+CHAPTER 8·1 
+0 
+
+ADMINIS TRATION 
+Note: The California Historical Building Code, Part 8 of Title 24, governs for all qualified historical buildings or properties in the State of California. 
+0 
+SECTION 8-101 TITLE, PURPOSE AND INTENT 
+0 
+8-101.1 Title. These regulations shall be known as the Califor­nia Historical Building Code and will be referred to herein as "the CHBC." 
+8-101.2 Pt!rpose. The purpose of the CHBC is to provide regu­lations for the preservation, restoration, rehabilitation, reloca­tion or reconstruction of buildings or properties designated as qualified historical buildings or properties (Chapter 8-2). The CHBC is intended to provide solutions for the preservation of qualified historical buildings or properties, to promote sustainability, to provide access for persons with disabilities, to provide a cost-effective approach to preservation, and to pro­vide for the reasonable safety of the occupants or users. The 
+CHBC requires enforcing agencies to accept solutions that are reasonably equivalent to the regular code (as defined in Chap­ter 8-2) when dealing with qualified historical buildings or properties. 
+
+8-101.3 Intent. The intent of the CHBC is to facilitate the pres­ervation and continuing use of qualified historical buildings or properties while providing reasonable safety for the building occupants and access for persons with disabilities. 
+SECTION 8-102 APPLICATION 
+8-102.1 Application. The CHBC is applicable to all issues regarding code compliance for qualified historical buildings or properties. The CHBC may be used in conjunction with the regular code to provide solutions to facilitate the preservation of qualified historical buildings or properties. The CHBC shall be used by any agency with jurisdiction and whenever compli­ance with the code is required for qualified historical buildings 
+0 or properties. 
+1. 
+The state or local enforcing agency shall apply the pro­visions of the CHBC in penirltting repairs, alterations and additions necessary for the preservation, restora­tion, reconstruction, rehabilitation, relocation or con­tinued use of a qualified historical building or property when so elected by the private property owner. 
+
+2. 	
+State agencies. All state agencies shall apply the provi­sions of the CHBC in permitting repairs, alterations and additions necessary for the preservation, restoration, rehabilitation, safety, relocation, reconstruction or con­tinued use of qualified historical buildings or proper­ties. 
+
+
+
+
+8-102.1.1 Additions, alterations and repairs. It is the intent of the CHBC to allow nonhistorical expansion or addition to a qualified historical building or property, pro­
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+vided nonhistorical additions shall conform to the requirements of the regular code. See Chapter 8-2. 
+8-102.1.2 Relocation. Relocated qualified historical build­ings or properties shall be sited to comply with the regular code or with the solutions listed in the CHBC. Nonhistorical new construction related to relocation shall comply with the regular code. Reconstruction and restoration related to relo­cation is permitted to comply with the provisions in the 
+CHBC. 
+
+8-102.1.3 Change 
+of occupancy. For change of use or occupancy, see Chapter 8-3, Use and Occupancy. 
+8-102.1.4 Continued use. Qualified historical buildings or properties may have their existing use or occupancy contin­ued if such use or occupancy conformed to the code or to the standards of construction in effect at the time of construc­tion, and such use or occupancty does not constitute a dis­tinct hazard to life safety as defined in the CHBC. 
+8-102.1.5 Unsafe buildings or properties. When a quali­fied historical building or property is determined to be unsafe as defined in the regular code, the requirements of the CHBC are applicable to the work necessary to correct the unsafe conditions. Work to remediate the buildings or properties need only address the correction of the unsafe conditions, and it shall not be required to bring the entire qualified historical building or property into compliance with regular code. 
+8-102.1.6 Additional work. Qualified historical buildings or properties shall not be subject to additional work required by the regular code, regulation or ordinance beyond that required to complete the work undertaken. Certain excep­tions for accessibility and for distinct hazards exist by man­date and may require specific action, within the parameters of theCHBC. 
+SECTION 8-103 
+ORGANIZATION AND ENFORCEMENT 
+
+
+
+8-103.1 Authority. The state or local enforcing agency, pursu­ant to authority provided Under Section 18954 of the Health and Safety Code, shall administer and enforce the provisions of the CHBC in permitting repairs, alterations and additions nec­essary for the preservation, restoration, reconstruction, reha­bilitation, relocation or continued use of a qualified historical building or property. 
+8-103.2 State enforcement. All state agencies pursuant to authority provided under Section 18954 and Section 18961 of the Health and Safety Code shall administer and enforce the 
+CHBC with respect to qualified historical buildings or proper­ties under their respective jurisdiction. 
+
+
+
+
+
+
+ADMINISTRATION 
+8-103.3 Liability. Prevailing law regarding immunity of build­ing officials is unaffected by the use and enforcement of the CHBC. 
+SECTION 8-104 
+REVIEW AND APPEALS 
+
+8-104.1 State Historical Building Safety Board (SHBSB). In 
+order to provide for interpretation of the provisions of the CHBC and to hear appeals, the SHBSB shall act as an appeal and review body to state and local agencies or any affected party. 
+8-104.2 SHBSB review. When a proposed design, material or method of construction is being considered by the enforcing agency, the agency chief, the building official or the local board of appeals may file a written request for opinion to the SHBSB for its consideration,· advice or findings. In considering such request, the SHBSB may seek the advice of other appropriate private or public boards, individuals, or state or local agencies. The SHBSB shall, after considering all of the facts presented, including any recommendation of other appropriate boards, agencies or other parties, determine ·if, for the purpose intended, the proposal is reasonably equivalent to that allowed by these regulations in proposed design, material or method of construction, and it shall transmit such findings and its decision to the enforcing agency for its application. The Board may recover the costs of such reviews and shall report the decision in printed form, copied to the California Building Standards Commission. 
+8-104.2.1 State agencies. All state agencies with ownership of, or that act on behalf of state agency owners of, qualified historical buildings or properties, shall consult and obtain SHBSB review prior to taking action or making decisions or appeals that affect qualified historical buildings or proper­ties, per Section 18961 of the Health and Safety Code. 
+
+8-104.2.2 Imminent threat. Where an emergency is declared and a qualified historical building or property is declared an imminent threat to life and safety, the state agency assessing such a threat shall consult with the SHBSB before any demolition is undertaken, per Section 18961 of the Health and Safety Code. 
+8-104.3 SHBC appeals. If any local agency administering and enforcing the CHBC or any person adversely affected by any regulation, rule, omission, interpretation, decision or practice of the agency enforcing the CHBC wishes to appeal the issue for resolution to the SHBSB, either of these parties may appeal directly to the Board. The Board may accept the appeal only if it determines that issues involved are of statewide significance. The Board may recover the costs of such reviews and shall make available copies of decisions in printed form at cost, cop­ied to the California Building Standards Commission. 
+8-104.4 Local agency fees. Local agencies, when actively involved in the appeal, may also charge affected persons rea­sonable fees not to exceed the cost of obtaining reviews and appeals from the Board. 
+
+SECTION 8-105 
+CONSTRUCTION METHODS AND MATERIALS 
+
+
+8-105.1 Repairs. Repairs to any portion of a qualified histori­cal building or property may be made in-kind with historical materials and the use of original or existing historical methods of construction, subject to conditions of the CHBC. (See Chap­ter 8-8.) 
+
+
+8-105.2 Solutions to the California Historical Building 
+()
+
+Code. Solutions provided in the CHBC, or any other acceptable regulation or methodology of design or construction and used in whole or in part, with the regular code, or with any combina­
+tion of the regular code and the CHBC, shall be allowed. ·The CHBC does not preclude the use of any proposed alternative or method of design or construction not specifically prescribed or otherwise allowed by these regulations. Any alternative may be submitted for evaluation to the appropriate enforcing agency for review and acceptance. The enforcing agency may request that sufficient evidence or proof be submitted to substantiate any claims that may be made regarding such solutions. Any alternative offered in lieu of that prescribed or allowed in the CHBC shall be reasonably equivalent in quality, strength, effectiveness, durability and safety to that of the CHBC. 
+
+SECTION 8-106 SHBSB RULINGS 
+
+8-106.1 General. Rulings of the SHBSB (i.e., formal appeals, 
+case decisions, code interpretations and administrative resolu­
+tions, etc.) that are issues of statewide application are required 0 
+to be submitted to the California Building Standards Commis­
+sion in printed form. These rulings may be used to provide 
+guidance for similar cases or issues. 
+
+
+
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+0 
+CHAPTER 8·2 
+
+DEFINITIONS 
+SECTION 8-201 0 DEFINITIONS 
+For the purpose of the CHBC, certain terms and phrases, words and their derivatives shall be construed as specified in this chapter. Additional definitions and/or terms may appear in the various other chapters relative to terms or phrases primarily applicable thereto. Any reference to "authority having jurisdic­0 tion" does not necessarily preclude the appellate process of Section 8-104.3. 
+ADDITION. A nonhistorical extension or increase in floor area or height of a building or property. 
+ALTERATION. A modification to a qualified historical build­ing or property that affects the usability of the building or property, or part thereof. Alterations include, but are not lim­ited to, remodeling, renovation, rehabilitation, reconstruction, historical restoration, changes or rearrangement of the struc­tural parts or elements, and changes or rearrangements in the plan configuration of walls and full-height partitions. 
+
+BUILDING STANDARD. Any guideline, regulation or code that may be applied to a qualified historical building or property. 
+CHARACTER-DEFINING FEATURE. Those visual aspects and physical elements that comprise the appearance of a historical building or property, and that are significant to its historical, architectural and cultural values, including the over­all shape of the historical building or property, its materials, craftsmanship, decorative details, interior spaces and features, as well as the various aspects of its site and environment. 
+CULTURAL RESOURCE. Building, site, property, object or district evaluated as having significance in prehistory or history. 
+DISTINCT HAZARD. Any clear and evident condition that exists as an immediate danger to the safety of the occupants or public right of way. Conditions that do not meet the require­ments of current regular codes and ordinances do not, of them­selves, constitute a distinct hazard. Section 8-104.3, SHBC appeals, remains applicable. 
+
+ENFORCING AGENCY, Authority Having Jurisdiction, Local Agency with Jurisdiction. An entity with the responsibil­ity for regulating, enforcing, reviewing or otherwise that exerts control of or administration over the process of gaining per­mits, approvals, decisions, variances, appeals for qualified his­torical buildings or properties. 
+
+EXIT LADDER DEVICE. An exit ladder device is a perma­nently installed, fixed, folding, retractable or hinged ladder intended for use as a means of emergency egress from areas of the second or third stories. Unless approved specifically for a longer length, the ladder shall be limited to 25 feet (7620 mm) in length. Exit ladders are permitted where the area served by the ladder has an occupant load less than 10 persons. 
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+-
+
+FIRE HAZARD. Any condition which increases or may con­tribute to an increase in the hazard or menace of fire to a greater degree than customarily recognized by the authority having jurisdiction, or any condition or act which could obstruct, delay, hinder or interfere with the operations of firefighting personnel or the egress of occupants in the event of fire. Section 8-104.3, SHBC appeals, remains applicable. 
+HISTORICAL FABRIC OR MATERIALS. Original and later-added historically significant construction materials, architectural finishes or elements in a particular pattern or con­figuration which form a qualified historical property, as deter­mined by the authority having jurisdiction. 
+HISTORICAL SIGNIFICANCE. Importance for which a property has been evaluated and found to be historical, as deter­mined by the authority having jurisdiction. 
+IMMINENT THREAT. Any condition within or affecting a qualified historical building or property which, in the opinion of the authority having jurisdiction, would qualify a building or property as dangerous to the extent that the life, health, prop­erty or safety of the public, its occupants or those performing necessary repair, stabilization or shoring work are in immedi­ate peril due to conditions affecting the building or property. Potential hazards to persons using, or improvements within, the right -of -way may not be construed to be "imminent threats" solely for that reason if the hazard can be mitigated by shoring, stabilization, barricades or temporary fences. 
+INTEGRITY. Authenticity of a building or property's his­torical identity, evidenced by the survival of physical charac­teristics that existed during the property's historical or prehistorical period of significance. 
+LIFE-SAFETY EVALUATION. An evaluation of the life-safety hazards of a qualified historical building or property based on procedures similar to those contained in NFPA 909, 
+Standard for the Protection of Cultural Resources, Appendix B, Fire Risk Assessment in Heritage Premises. 
+LIFE SAFETY HAZARD. See Distinct Hazard. 
+PERIOD OF SIGNIFICANCE. The period of time when a qualified historical building or property was associated with important events, activities or persons, or attained the charac­teristics for its listing or registration. 
+PRESERVATION. The act or process of applying measures necessary to sustain the existing form, integrity and materials of a qualified historical building or property. Work, including preliminary measures to protect and stabilize the property, gen­erally focuses upon the ongoing maintenance and repair of his­toric materials and features rather than extensive replacement and new construction. New exterior additions are not within the scope of this treatment; however, the limited and sensitive upgrading of mechanical, electrical and plumbing systems and other code-related work to make properties functional is appro­priate within a preservation project. 
+
+
+DEFINITIONS 
+
+
+
+QUALIFIED HISTORICAL BUILDING OR PROP­ERTY. As defmed in Health and Safety Code Section 18955 as "Qualified Historical Building or Property." Any building, site, object; place, location, district or collection of structures, and their associated sites, deemed of importance to the history, architecture or culture of an area by an appropriate local, state or federal governmental jurisdiction. This shall include histori­cal buildings or properties on, or determined eligible for, national, state or local historical registers or inventories, such 
+
+
+
+0 
+as the National Register of Historic Places, California Register of Historical Resources, State Historical Landmarks, State Points of Historical Interest, and city or county registers, inven­tories or surveys of historical or architecturally significant sites, places or landmarks. 
+RECONSTRUCTION. The act or process of depicting, by means of new construction, the form, features and detailing of a nonsurviving site, landscape, building, property or object for the purpose of replicating its appearance at a specific period of time. 
+
+
+REGULAR CODE. The adopted regulations that govern the design and construction or alteration of nonhistorical buildings and properties within the jurisdiction of the enforcing agency. 
+REHABILITATION. The act or process of making possible a compatible use for qualified historical building or property through repair, alterations and additions while preserving those portions or features which convey its qualified historical, cul­tural or architectural values. 
+
+
+
+RELOCATION. The act or process of moving any qualified historical building or property or a portion of a qualified histor­ical building or property to a new site, or a different location on the same site. 
+
+
+REPAIR. Renewal, reconstruction or renovation of any por­tion of an existing property, site or building for the purpose of its continued use. 
+RESTORATION. The act or process of accurately depicting the form, features and character of a qualified building or property as it appeared at a particular period of time by the means of the removal of features from other periods in its his­tory and reconstruction of missing features from the restoration period. The limited and sensitive upgrading of mechanical, electrical and plumbing systems and other code-required work to make properties functional is appropriate within a restora­
+0
+
+tion project. 
+STRUCTURE. That which is built or constructed, an edifice or a building of any kind, or any piece of work artificially built up or composed of parts joined together in some definite manner. 
+TREATMENT. An act of work to carry out preservation, res­toration, stabilization, rehabilitation or reconstruction. 
+
+
+
+
+
+
+
+CHAPTER 8-3 
+
+USE AND OCCUPANCY 
+
+
+
+0 
+SECTION 8-301 PURPOSE AND SCOPE 
+8-301.1 Purpose. The purpose of the CHBC is to provide reg­ulations for the determination of occupancy classifications and conditions of use for qualified historical buildings or properties. 
+8-301.2 Scope. Every qualified historical building or property 0 for which a permit or approval has been requested shall be clas­sified prior to permit issuance according to its use or the char­acter of its occupancy in accordance with the regular code and applicable provisions of this chapter. 
+SECTION 8-302 GENERAL 
+8-302.1 Existing use. The use or character of occupancy of a qualified historical building or property, or portion thereof, shall be permitted to continue in use regardless of any period of time in which it may have remained unoccupied or in other uses, provided such building or property otherwise conforms to all applicable requirements of the CHBC. 
+
+8-302.2 Change in occupancy. The use or character of the occupancy of a qualified historical building or property may be changed from or returned to its historical use or character, pro­vided the qualified historical building or property conforms to the requirements applicable to the new use or character of occupancy as set forth in the CHBC. Such change in occupancy shall not mandate conformance with new construction require­ments as set forth in regular code. 
+8-302.3 Occupancy separations. Required occupancy sepa­rations of more than one hour may be reduced to one-hour fire-resistive construction with all openings protected by not less than three-fourths-hour fire-resistive assemblies of the self-closing or automatic-closing type when the building is provided with an automatic sprinkler system throughout the entire building in accordance with Section 8-410.4. Doors equipped with automatic-closing devices shall be of a type which will function upon activation of a device which responds to products of combustion other than heat. 
+
+Required occupancy separations of one hour may be omitted when the building is provided with an automatic sprinkler sys­tem throughout. 
+
+8-302.4 Maximum floor area. Regardless of the use or char­acter of occupancy, the area of a one-story qualified historical building or property may have, but shall not exceed, a floor area of 15,000 square feet (1393.5 m2) unless such an increase is otherwise permitted in regular code. Multistory qualified his­torical buildings (including basements and cellars) shall be in 
+accordance with regular code requirements. 
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+Exception: Historical buildings may be unlimited in floor area without fire-resistive area separation walls: 
+
+
+1. 
+When provided with an automatic sprinkler, or 
+
+
+2. 	
+Residential occupancies of two stories or less when pro­vided with a complete fire alarm and annunciation sys­tem and where the exiting system conforms to regular code. 
+
+
+8-302.5 Maximum height. The maximum height and number of stories of a qualified historical building or property shall not be limited because of construction type, provided such height or number of stories does not exceed that of its historical design. 
+8-302.5.1 High-rise buildings. Occupancies B, F-1, F-2 or Sin high-rise buildings with floors located more than 
+75 feet above the lowest floor level having building access may be permitted with only the stories over 75 feet provided with an automatic fire sprinkler system if: 
+1. 	
+The building construction type and the exits con­form to regular code, and 
+
+2. 	
+A complete building fire alarm and annunciation system is installed, and 
+
+3. 	
+A fire barrier is provided between the sprinklered and nonsprinklered floors. 
+
+
+8-302.6 Fire-resistive construction. See Chapter 8-4. 
+8-302.7 Light and ventilation. Existing provisions for light and ventilation which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain. See Section 8-303.6 for residential requirements. See Section 8-503 for Escape or Rescue Windows and Doors. 
+SECTION 8-303 
+RESIDENTIAL OCCUPANCIES 
+
+
+8-303.1 Purpose. The purpose of this section is to provide reg­ulations for those buildings designated as qualified historical buildings or properties and classified as occupancies. The CHBC requires enforcing agencies to accept any reasonably equivalent to the regular code when dealing with qualified his­torical buildings and properties. 
+8-303.2 Intent. The intent of the CHBC is to preserve the integrity of qualified historical buildings and properties while maintaining a reasonable degree of protection of life, health and safety for the occupants. 
+8-303.3 Application and scope. The provisions of this section shall apply to all qualified historical buildings used for human habitation. Those dwelling units intended only for display, or public use with no residential use involved, need not comply with the requirements of this section. 
+
+
+
+
+
+USE AND OCCUPANCY 
+8-303.4 Fire escapes. See Chapter 8-5. 
+8-303.5 Room dimensions. Rooms used for sleeping purposes may contain a minimum of 50 square feet (4.6 m2) floor area, provided there is maintained an average ceiling height of 7 feet (2134 mm). Other habitable rooms need only be of adequate size to be functional for the purpose intended. 
+8-303.6 Light and ventilation. Windows in habitable rooms shall have an area of 6 percent of the floor area, or 6 square feet 
+(0.56 m2), whichever is greater. Windows in sleeping rooms shall be openable (see Section 8-503). Residential occupancies need not be provided with electrical lighting. 
+8-303.7 Alteration and repair. The alteration and repair of qualified historical buildings or properties may permit the replacement, retention and extension of original materials and the continued use of original methods of construction, pro­vided a life-safety hazard is not created or continued. Alter­ations and repairs shall be consistent with the CHBC. 
+The amount of alterations and repairs is not limited, pro­vided there is no nonhistorical increase in floor area, volume or size of the building or property. 
+8-303.8 Exiting. See Chapter 8-5. 
+0 
+0 
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 8-4 
+
+FIRE PROTECTION 
+0 
+SECTION 8-401 
+
+PURPOSE, INTENT AND SCOPE 
+8-401.1 Purpose. The purpose of this chapter is to provide for fire protection of qualified historical buildings or properties. The CHBC requires enforcing agencies to accept any reason­ably equivalent to the regular code when dealing with qualified historical buildings or properties. 
+
+8-401.2 Intent. The intent of the CHBC is to preserve the integrity of qualified historical buildings or properties while maintaining a reasonable degree of fire protection based primarily on the life safety of the occupants and firefighting personnel. 
+8-401.3 Scope. This chapter shall apply when required by the provisions of Section 8-102. 
+SECTION 8-402 FIRE-RESISTIVE CONSTRUCTION 
+
+8-402.1 Exterior wall construction. The fire-resistance requirement for existing exterior walls and existing opening protection may be satisfied when an automatic sprinkler sys­tem designed for exposure protection is installed per the CHBC. The automatic sprinklers may be installed on the exte­rior with at least one sprinkler located over each opening required to be protected. Additional sprinklers shall also be dis­tributed along combustible walls under the roof lines that do not meet the fire-resistive requirement due to relationship to property lines as required by regular code. Such sprinkler sys­tems may be connected to the domestic water supply on the supply-main side of the building shut-off valve. A shut-off valve may be installed for the sprinkler system, provided it is locked in an open position. 
+CJ 
+8-402.2 One-hour construction. Upgrading an existing quali­fied historical building or property to one-hour fire-resistive 
+construction and one-hour fire-resistive corridors shall not be required regardless of construction or occupancy when one of the following is provided: 
+1. 	An automatic sprinkler system throughout. See Section 8-410.2 for automatic sprinkler systems. 
+
+2. An approved life-safety evaluation. 
+3. 	Other alternative measures as approved by the enforc­ing agency. 
+8-402.3. Openings in fire-rated systems. Historical glazing materials and solid wood unrated doors in interior walls required to have one-hour fire rating may be approved when operable windows and doors are provided with appropriate smoke seals and when the area affected is provided with an automatic sprinkler system. See Section 8-410 for automatic sprinkler systems. 
+
+SECTION 8-403 
+INTERIOR FINISH MATERIALS 
+
+
+New nonhistorical interior wall and ceiling finish shall con­form to the provisions of the regular code. Existing noncon­forming materials used for wood lath and plaster walls, see Section 8-404. 
+Exception: When an automatic sprinkler system is pro­vided throughout the building, existing finishes shall be approved. 
+SECTION 8-404 
+WOOD LATH AND PL ASTER 
+
+
+Wood lath and plaster walls may be considered in accordance with codes, standards and listings published prior to 1943 whereby a wood stud wall assembly with gypsum or lime plas­ter on hand split or sawn wooden lath obtains a one-half-hour 
+fire-resistive rating. This rating may be increased for interior walls to as much as one hour by filling the wall with mineral fiber or glass fiber. 
+SECTION 8-405 
+OCCUPANCY SEPARATION 
+
+
+See Chapter 8-3. 
+SECTION 8-406 
+MAXIMUM FLOOR AREA 
+
+
+See Chapter 8-3. 
+SECTION 8-407 
+VERTICAL SHAFTS 
+
+
+Vertical shafts need not be enclosed when such shafts are blocked at every floor level by the installation of not less than 2 full inches (51 rom) of solid wood or equivalent construction installed so as to prevent the initial passage of smoke and flame. Automatic sprinkler systems or other solutions may be consid­ered on a case-by-case basis, in lieu of enclosure of vertical shafts and stairwells. 
+SECTION 8-408 
+ROOF COVERING 
+
+
+Existing or original roofing materials may be repaired or recon­structed subject to the following requirements: 
+1. 	
+The original or historical roofing system shall be detailed or modified as necessary in order to be capable of providing shelter while preserving the historical materials and appearance of the roof. 
+
+2. 	
+Wooden roof materials may be utilized where fire resis­tance is required, provided they are treated with 
+
+
+
+
+
+
+
+
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE FIRE PROTECTION 
+
+
+
+
+fire-retardant treatments to achieve a Class "B" roof covering rating. Wood roofing in state designated Urban Wildland and High Fire Zones shall be permitted when installed in class ''A" assemblies. 
+3. 	Jurisdictions that prohibit wood roofing materials for application as roof coverings and roof assemblies shall submit documentation for the adoption. Express Terms, statement ofreasons and minutes of the action by the adopting authority Health and Safety Code, Section 
+. 
+18959(f). 
+SECTION 8-409 
+FIRE ALARM SYSTEMS 
+
+Every qualified historical building or property . shall be pro­vided with fire alarm systems as required for the use or occu­pancy by the regular code or other approved alternative. 
+SECTION 8-410 
+AUTOMATIC SPRINKLER SYSTEMS 
+
+8-410.1 Every qualified historical building or property which cannot be made to conform to the construction requirements specified in the regular code for the occupancy or use, and which constitutes a distinct fire hazard (for definition of "dis­tinct hazard," see Chapter 8-2), shall be deemed to be in com­pliance if provided with an automatic sprinkler system or a life-safety system or other technologies as approved by the enforcing agency. ("Automatic" is defined in the regular code. Sprinkler System is defined in this section.) 
+8-410.2 When required by the CHBC, an automatic sprinkler systems is defined by the following standards (for nonhazard­ous occupancies). 
+1. 	
+Buildings of four stories or less: NFPA 13R, 2002 edi­tion. 
+
+2. 	
+For floors above the fourth, NFPA 13, 2002, SFM amended edition. 
+
+3. 	
+Buildings with floors above 75 feet, NFPA 13, 2002 edition. 
+
+4. 	
+When the building is free standing or with property line separation, two floors and 1500 sf per floor or less, NFPA 13D, 2002 Edition. 
+
+5. 	
+For exterior wall and opening protection. As required by this section. 
+
+
+Exception: When the automatic sprinkler systems are used to reach compliance using this code, in three or more occasions, the system shall be NFPA standard 
+13D shall be increased to NFPA 13R Standard, or NFPA 13R standard shall be increased to a NFPA 13 standard. 
+8-410.3 Automatic sprinkler systems shall not be used to sub­stitute for or act as an alternate to the required number of exits from any facility. (See Chapter 8-5 for exiting requirements.) 
+
+8-410.4 An automatic sprinkler system shall be provided in all detention facilities. 
+
+
+SECTION 8-41 1 OTHER TECHNOLOGIES 
+
+Fire alarm systems, smoke and heat detection systems, occu­pant notification and annunciation systems, smoke control sys­tems and fire modeling, times egress analysis and modeling, as well as other engineering methods and technologies may be accepted by the enforcing agency to address areas of non­conformance. 
+
+SECTION 8-412 HIGH-RISE BUILDINGS 
+
+Qualified historical buildings having floors for human occu­pancy located more than 7 5 feet above the lowest floor level having building access shall conform to the provisions of the 0 regular code for existing high-rise buildings as amended by the CHBC. 
+
+
+
+
+
+u 
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+CHAPTER 8-5 
+
+MEANS OF EGRESS 
+
+SECTION 8-501 PURPOSE, INTENT AND SCOPE 
+8-501.1 Purpose. The purpose of this chapter is to establish minimum means of egress regulations for qualified historical buildings or properties. The CHBC requires enforcing agen­cies to accept reasonably equivalent alternatives to the means of egress requirements in the regular code. 
+8-501.2 Intent. The intent of these regulations is to provide an 
+(_) 
+adequate means of egress . 
+8-501.3 Scope. Every qualified historical building or portion thereof shall be provided with exits as required by the CHBC when required by the provisions of Section 8-102. 
+SECTION 8-502 GENERAL 
+8-502.1 General. The enforcing agency shall grant reasonable exceptions to the specific provisions of applicable egress regu­lations where such exceptions will not adversely affect life safety. 
+
+8-502.2. Existing door openings and corridor widths of less than dimensions required by regular code shall be permitted where there is sufficient width and height for the occupants to pass through the opening or traverse the exit. 
+8-502.3 Stairs. Existing stairs having risers and treads or width at variance with the regular code are allowed if deter­mined by the enforcing agency to not constitute a distinct haz­ard. Handrails with nonconforming grip size or extensions are allowed if determined by the enforcing agency to not constitute a distinct hazard. 
+8-502.4 Main entry doors. The front or main entry doors need not be rehung to swing in the direction of exit travel, pro­vided other means or conditions of exiting, as necessary to serve the total occupant load, are provided. 
+
+8-502.5 Existing fire escapes. Existing previously approved fire escapes and fire escape ladders shall be acceptable as one of the required means of egress, provided they extend to the ground and are easily negotiated, adequately signed and in good working order. Access shall be by an opening having a minimum width of 29 inches (737mm) when open with a sill no more than 30 inches (762mm) above the adjacent floor, landing or approved step. 
+
+8-502.6 New fire escapes and fire escape ladders. New fire escapes and fire escape ladders which comply with this section shall be acceptable as one of the required means of egress. New fire escapes and new fire escape ladders shall comply with the following: 
+
+1. Access from a corridor shall not be through an interven­ing room. 
+2. 	All openings within 10 feet (3048 mm) shall be pro­tected by three-fourths-hour fire assemblies. When located within a recess or vestibule, adjacent enclosure walls shall be of not less than one-hour fire-resistive construction. 
+
+
+3. 	
+Egress from the building shall be by a clear opening having a minimum dimension of not less than 29 inches (737 mm). Such openings shall be openable from the inside without the use of a key or special knowledge or effort. The sill of an opening giving access shall not be more than 30 inches (737 mm) above the floor, step or landing of the building or balcony. 
+
+4. 	
+Fire escape stairways and balconies shall support the dead load plus a live load of not less than 100 pounds per square foot (4.79 kN/m2) and shall be provided with a top and intermediate handrail on each side. The pitch of.the stairway shall not exceed 72 degrees with a mini­mum width of 18 inches (457 mm). Treads shall not be less than 4 inches (102 mm} in width, and the rise between treads shall not exceed 10 inches (254 mm). All stair and balcony railings shall support a horizontal force of not less than 50 pounds per lineal foot (729.5 N/m2) of railing. 
+
+5. 	
+Balconies shall not be less than 44 inches (1 118 mm) in width with no floor opening other than the stairway opening greater than 5/8 inch (15.9 mm) in width. Stair­way openings in such balconies shall not be less than 22 inches by 44 inches (559 by 1118 mm). The balustrade of each balcony shall not be less than 36 inches (914 mm) high with not more than 9 inches (287 mm) between balusters. 
+
+6. 	
+Fire escapes shall extend to the roof or provide an approved gooseneck ladder between the top floor land­ing and the roof when serving buildings four or more stories in height having roofs with less than 4 units ver­tical in 12 units horizontal (33.3 percent slope). Fire escape ladders shall be designed and connected to the building to withstand a horizontal force of 100 pounds ( 445 N) placed anywhere on the rung. All ladders shall be at least 15 inches (381 mm) wide, located within 12 inches (305 mm) of the building. Ladder rungs shall be 3/4 inch (19.1 mm) in diameter and shall be located 12 inches (305 mm) on center. Openings for roof access ladders through cornices and similar projections shall have minimum dimensions of 30 inches by 33 inches (762 by 838 mm). 
+
+The length of fire escapes and exit ladder devices shall be limited to that approved by the building offi­cial based on products listed by a recognized testing laboratory. 
+
+7. 	
+The lowest balcony shall not be more than 18 feet ( 5486 mm) from the ground. Fire escapes shall extend to the ground or be provided with counterbalanced stairs reaching to the ground. 
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE MEANS OF EGRESS 
+
+9. 	Fire escapes shall be kept clear and unobstructed at all 
+times and maintained in good working order. 
+
+SECTION 8-503 
+ESC APE OR RESCUE WINDOWS AND DOORS 
+
+0 
+
+Basements in dwelling units and every sleeping room below the fourth floor shall have at least one openable window or door approved for emergency escape which shall open directly into a public street, public way, yard or exit court. Escape or rescue windows or doors shall have a minimum clear area of 3.3 square feet (0.31 m2) and a minimum width or height dimen­0 sion of 18 inches ( 457 mm) and be operable from the inside to provide a full, clear opening without the use of special tools. 
+SECTION 8-504 
+RAILINGS AND GUARDRAILS 
+
+The height of railings and guard railings and the spacing of bal­usters may continue in their historical height and spacing unless a distinct hazard has been identified or created by a change in use or occupancy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 8-6 
+
+ACCESSIBILITY 
+
+
+
+0 SECTION 8-601 PURPOSE, INTENT AND SCOPE 
+8-601.1 Purpose. The purpose of the CHBC is to provide alter­native regulations to facilitate access and use by persons with disabilities to and throughout facilities designated as qualified historical buildings or properties. These regulations require enforcing agencies to accept alternatives to regular code when dealing with qualified historical buildings or properties. 
+
+8-601.2 Intent. The intent of this chapter is to preserve the 
+integrity of qualified historical buildings and properties while 
+providing access to and use by persons with disabilities. 
+8-601.3 Scope. The CHBC shall apply to every qualified his­torical building or property that is required to provide access to persons with disabilities. 
+1. 
+Provisions of this chapter do not apply to new construc­tion or reconstruction/replicas of historical buildings. 
+
+2. 
+Where provisions of this chapter apply to alteration of qualified historical buildings or properties, alteration is defined in California Building Code (CBC), Chapter 2, Definitions and Abbreviations. 202 -A. Alter or Alter­ation. 
+
+
+
+8-601.4 General application. The provisions in the CHBC apply to local, state and federal governments (Title IT entities); alteration of commercial facilities and places of public accom­modation (Title ill entities); and barrier removal in commercial facilities and places of public accommodation (Title ill enti­ties). Except as noted in this chapter. 
+SECTION 8-602 BASIC PROVISIONS 
+8-602.1 Regular code. The regular code for access for people 
+0 	with disabilities (Title 24, Part 2, Vol. 1, Chapter 11B) shall be applied to qualified historical buildings or properties unless strict compliance with the regular code will threaten or destroy the historical significance or character-defining features of the building or property. 
+0 8-602.2 Alternative provisions. If the historical significance or character-defining features are threatened, alternative provi­sions for access may be applied pursuant to this chapter, pro­vided the following conditions are met: 
+(j 
+
+1. These provisions shall be applied only on an item-by-item or a case-by-case basis. 
+2. Documentation is provided, including meeting minutes or letters, stating the reasons for the application of the alternative provisions. Such documentation shall be retained in the permanent ftle of the enforcing agency. 
+
+
+SECTION 8-603 
+ALTERNATIVES 
+
+
+
+8-603.1 Alternative minimum standards. The alternative minimum standards for alterations of qualified historical build­ings or facilities are contained in Section 4.1. 7 (3) of ADA Stan­
+dards for Accessible Design, as incorporated and set forth in 8-603.2 Entry. These alternatives do not allow exceptions for the requirement of level landings in front of doors, except as provided in Section 8-603.4. 
+
+
+1. 
+Access to any entrance used by the general public and no further than 200 feet (60 960 mm) from the primary entrance. 
+
+2. 
+Access at any entrance not used by the general public but open and unlocked with directional signs at the pri­mary entrance and as close as possible to, but no further than 200.feet (60 960 mm) from, the primary entrance. 
+
+3. 
+The accessible entrance shall have a notification sys­tem. Where security is a problem, remote monitoring may be used. 
+
+
+
+
+
+8-603.3 Doors. Alternatives listed in order of priority are: 
+1. 	
+Single-leaf door which provides a minimum 30 inches (762 mm) of clear opening. 
+
+2. 
+Single-leaf door which provides 	a minimum 291/2 inches (749 mm) clear opening 
+
+3. 	
+Double door, one leaf of which provides a minimum 291/2 inches (749 mm) clear opening. 
+
+4. 
+Double doors operable with a power-assist device to provide a minimum 291/2 inches (749 mm) clear open­ing when both doors are in the open position. 
+
+
+8-603.4 Power-assisted doors. Power-assisted door or doors may be considered an equivalent alternative to level landings, strikeside clearance and door-opening forces required by the regular code. 
+8-603.5 Toilet rooms. In lieu of separate-gender toilet facili­ties as required in the regular code, an accessible unisex toilet facility may be designated. 
+8-603.6 Exterior and interior ramps and lifts. Alternatives listed in order of priority are: 
+1. 	
+A lift or a ramp of greater than standard slope but no greater than 1: 10, for horizontal distances not to exceed 5 feet (1525 mm). Signs shall be posted at upper and lower levels to indicate steepness of the slope. 
+
+2. 
+Access by ramps of 1:6 slope for horizontal distance not to exceed 13 inches (330 mm). Signs shall be posted at upper and lower levels to indicate steepness of the slope. 
+
+
+
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE ACCESSIBILITY 
+SECTION 8-604 
+EQUIVALENT FACILITATION 
+
+
+
+Use of other designs and technologies, or deviation from par­ticular technical and scoping requirements, are permitted if the application of the alternative provisions contained in Section 8-603 would threaten or destroy the historical significance or character-defining features of the historical building or property. 
+
+0 
+1. 	
+Such alternatives shall be applied only on an item-by­
+item or a case-by-case basis. 
+
+
+2. 	
+Access provided by experiences, services, functions, 
+materials and resources through methods including, but 
+not limited to, maps, plans, videos, virtual reality and 
+related equipment, at accessible levels. The alternative 
+design and/or technologies used will provide substan­
+tially equivalent or greater accessibility to, and usability 
+of, the facility. 
+
+
+3. 	
+The official charged with the enforcement of the stan­
+dards shall document the reasons for the application of 
+the design and/or technologies and their effect on the 
+historical significance or character-defining features. 
+Such documentation shall be in accordance with Sec­
+tion 8-602.2, Item 2, and shall include the opinion and 
+comments of state or local accessibility officials, and 
+the opinion and comments of representative local 
+groups of people with disabilities. Such documentation 
+shall be retained in the permanent file of the enforcing 
+agency. Copies of the required documentation should 
+be available at the facility upon request. 
+
+
+
+
+
+
+
+
+Note: For commercial facilities and places of public 
+accommodation (Title ill entities). 
+
+Equivalent facilitation for an element of a building or prop­erty when applied as a waiver of an ADA accessibility require­ment will not be entitled to the Federal Department of Justice certification of this code as rebuttable evidence of compliance for that element. 
+
+
+
+
+
+
+
+
+
+CHAPTER 8-7 
+
+STRUCTURAL REGULATIONS 
+SECTION 8-701 PURPOSE, INTENT AND SCOPE 
+0 	8-701.1 Purpose. The purpose of the CHBC is to provide alter­native regulations to the regular code for the structural safety of buildings designated as qualified historical buildings or prop­erties. The CHBC requires enforcing agencies to accept any reasonably equivalent alternatives to the regular code when dealing with qualified historical buildings or properties. 
+.
+() 	8-701.2 Intent. The intent of this chapter is to encourage the preservation of qualified historical buildings or structures while providing standards for a minimum level of building per­formance with the objective of preventing partial or total struc­tural collapse such that the overall risk of life-threatening injury as a result of structural collapse is low. 
+8-701.3 Application. The alternative structural regulations provided by Section 8-705 are to be applied in conjunction with the regular code whenever a structural upgrade or reconstruc­tion is undertaken for qualified historical buildings or proper­ties. 
+
+SECTION 8-702 GENERAL 
+8-702.1 The CHBC shall not be construed to allow the enforcing agency to approve or permit a lower level of safety of structural design and construction than that which is reason­ably equivalent to the regular code provisions in occupancies which are critical to the safety and welfare of the public at large, including, but not limited to, public and private schools, hospi­tals, municipal police and fire stations and essential services facilities. 
+8-702.2 Nothing in these regulations shall prevent voluntary and partial seismic upgrades when it is demonstrated that such upgrades will improve life safety and when a full upgrade would not otherwise be required. 
+
+SECTION 8-703 STRUCTURAL SURVEY 
+8-703.1 Scope. When a structure or portion of a structure is to be evaluated for structural capacity under the CHBC, it shall be surveyed for structural conditions by an architect or engineer 
+() 	knowledgeable in historical structures. The survey shall evalu­ate deterioration or signs of distress. The survey shall deter­mine the details of the structural framing and the system for resistance of gravity and lateral loads. Details, reinforcement and anchorage of structural systems and veneers shall be deter­mined and documented where these members are relied on for seismic lateral resistance. 
+
+8-703.2 The results of the survey shall be utilized for evaluating the structural capacity and for designing modifications to the structural system to reach compliance with this code. 
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+
+8-703.3 Historical records. Past historical records of the structure or similar structures may be used in the evaluation, including the effects of subsequent alterations. 
+SECTION 8-704 
+NONHISTORICAL ADDITIONS AND 
+NONHISTORICAL ALTERATIONS 
+
+
+8-704.1 New nonhistorical additions and nonhistorical alter­ations which are structurally separated from an existing histori­cal building or structure shall comply with regular code requirements. 
+8-704.2 New nonhistorical additions which impose vertical or lateral loads on an existing structure shall not be permitted unless the affected part of the supporting structure is evaluated and strengthened, if necessary, to meet regular code require­ments. 
+Note: For use of archaic materials, see Chapter 8-8. 
+SECTION 8-705 
+STRUCTURAL REGULATIONS 
+
+
+8-705.1 Gravity loads. The capacity of the structure to resist gravity loads shall be evaluated and the structure strengthened as necessary. The evaluation shall include all parts of the load path. Where no distress is evident, and a complete load path is present, the structure may be assumed adequate by having withstood the test of time if anticipated dead and live loads will not exceed those historically present. 
+8-705.2 Wind and seismic loads. The ability of the structure to resist wind and seismic loads shall be evaluated. Wind loads shall be considered when appropriate, but need not exceed 75% of the wind loads prescribed by the regular code. The evalua­tion shall be based on the requirements of Section 8-706. 
+8.705.2.1 Any unsafe conditions in the lateral-load-resisting system shall be corrected, or alternative resistance shall be pro­vided. When strengthening is required, additional resistance shall be provided to meet the minimum requirements of the CHBC. The strengthening measures shall be selected with the intent of meeting the performance objectives set forth in Sectio 8-701.2. The evaluation of structural members and structural systems for seismic loads shall consider the inelastic perfor­mance of structural members and their ability to maintain load-carrying capacity during the seismic loadings prescribed by the regular code. 
+8.705.2.2 The architect or engineer shall consider additional measures with minimal loss of, and impact to, historical mate­rials which will reduce damage and needed repairs in future earthquakes to better preserve the historical structure in perpetuity. These additional measures shall be presented to the owner for consideration as part of the rehabilitation or restoration. 
+
+STRUCTURAL REGULATIONS 
+
+SECTION 8-706 
+LATERAL LOAD REGULATIONS 
+
+8-706.1 Seismic forces. Strength-level seismic forces used to evaluate the structure for resistance to seismic loads shall be based on the R-values tabulated in the regular code for similar lateral-force-resisting systems including consideration of the structural detailing of the members where such R-values exist. Where such R-values do not exist, an appropriate R-value shall be rationally assigned considering the structural detailing of the members. 
+Exceptions: 
+1. 
+The forces need not exceed 0.75 times the seismic forces prescribed by the regular code requirements. 
+
+2. 
+For Occupancy Category I, II 	or III structures, near-fault increases in ground motion (maximum considered earthquake ground motion of 0.2 second spectral response greater than 150 percent at 5 percent damping) need not be considered when the funda­mental period of the building is 0.5 seconds in the direction under consideration. 
+
+3. 
+For Occupancy Category I or II structures, the seismic base shear need not exceed 0.30W. 
+
+4. 
+For Occupancy Category ill or IV structures, the seis­mic base shear need not exceed 0.40W. 
+
+
+8-706.1.1 When a building is to be strengthened with the addition of a new lateral force resisting system, the R value of the new system can be used when the new lateral force resisting system resists at least 75 percent of the building's base shear regardless of its relative rigidity. 
+8-706.1.2 Unreinforced masonry bearing wall buildings shall comply with the California Existing Building Code (CEBC), Appendix Chapter A1, 2010 Edition, and as modi­fied by the CHBC. Alternative standards may be used on a case-by-case basis when approved by the authority having jurisdiction. It shall be permitted to exceed the strength limi­tation of 100 psi in Section A108.2 of the CEBC when test data and building configuration supports higher values sub­ject to the approval of the authority having jurisdiction. 
+8-706.1.3 All deviations from the detailing provisions of the lateral-force-resisting systems shall be evaluated for stabil­ity and the ability to maintain load-carrying capacity at the expected inelastic deformations. 
+8-706.2 Existing building performance. The seismic resis­tance may be based upon the ultimate capacity of the structure to perform, giving due consideration to ductility and reserve strength of the lateral-force-resisting system and materials while maintaining a reasonable factor of safety. Broad judgment may be exercised regarding the strength and perfor­mance of materials not recognized by regular code require­ments. (See Chapter 8-8, Archaic Materials and Methods of Construction.) 
+8-706.2.1All structural materials or members that do not 
+comply with detailing and proportioning requirements of 
+the regular code shall be evaluated for potential seismic per­
+formance and the consequence of non-compliance. All 
+members that would be reasonably expected to fail and lead 
+to collapse or life threatening injury when subjected to seis­
+mic demands shall be judged unacceptable, and appropriate 
+structural strengthening shall be developed. 
+
+
+
+8-706.3 Load path. A complete and continuous load path, including connections, from every part or portion of the struc­ture to the ground shall be provided for the required forces. It shall be verified that the structure is adequately tied together to perform as a unit when subjected to earthquake forces. 
+8-706.4 Parapets. Parapets and exterior decoration shall be investigated for conformance with regular code requirements for anchorage and ability to resist prescribed seismic forces. 
+
+
+An exception to regular code requirements shall be permit­ted for those parapets and decorations which are judged not to be a hazard to life safety. 
+8-706.5 Nonstructural features. Nonstructural features of historical structure, such as exterior veneer, cornices and deco­rations, which might fall and create a life-safety hazard in an earthquake, shall be evaluated. Their ability to resist seismic forces shall be verified, or the feature shall be strengthened with improved anchorage when appropriate. 
+8-706.5.1 Partitions and ceilings of corridors and stairways 
+serving an occupant load of 30 or more shall be investigated 
+to determine their ability to remain in place when the build­
+ing is subjected to earthquake forces. 
+
+
+
+
+u 
+
+
+
+
+
+CHAPTER 8-8 
+
+ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION 
+
+SECTION 8-801 PURPOSE, INTENT AND SCOPE 
+0 	8-801.1 Purpose. The purpose of the CHBC is to provide regu­lations for the use of historical methods and materials of con­struction that are at variance with regular code requirements or are not otherwise codified, in buildings or structures desig­nated as qualified historical buildings or properties. The CHBC require enforcing agencies to accept any reasonably equivalent 
+0 	alternatives to the regular code when dealing with qualified his­torical buildings or properties. 
+8-801.2 Intent. It is the intent of the CHBC to provide for the use of historical methods and materials of construction that irre at variance with specific code requirements or are not other­wise codified. 
+8-801.3 Scope. Any construction type or material that is, or was, part of the historical fabric of a structure is covered by this chapter. Archaic materials and methods of construction present in a historical structure may remain or be reinstalled or be installed with new materials of the same class to match existing conditions. 
+
+SECTION 8-802 GENERAL ENGINEERING APPROACHES 
+
+Strength values for archaic materials shall be assigned based upon similar conventional codified materials, or on tests as hereinafter indicated. The archaic materials and methods of construction shall be thoroughly investigated for their details of construction in accordance with Section 8-703. Testing shall be performed when applicable to evaluate existing conditions. The architect or structural engineer in responsible charge of the project shall assign allowable stresses or strength levels to archaic materials. Such assigned strength values shall not be greater than those provided for in the following sections with­out adequate testing, and shall be subject to the concurrence of the enforcing agency. 
+
+SECTION 8-803 NONSTRUCTURAL ARCHAIC MATERIALS 
+Where nonstructural historical materials exist in uses which do not meet the requirements of the regular code, their continued use is allowed by this code, provided that any public health and life-safety hazards are mitigated subject to the concurrence of the enforcing agency. 
+
+SECTION 8-804 ALLOWABLE CONDITIONS FOR SPECIFIC MATERIALS 
+Archaic materials which exist and are to remain in qualified historical buildings or structures shall be evaluated for their condition and for loads required by this code. The structural survey required in Section 8-703 of the CHBC shall document existing conditions, reinforcement, anchorage, deterioration and other factors pertinent to establishing allowable stresses, strength levels and adequacy of the archaic materials. The remaining portion of this chapter provides additional specific requirements for commonly encountered archaic materials. 
+
+
+
+
+
+
+SECTION 8-805 
+MASONRY 
+
+
+For adobe, see Section 8-806. 
+8-805.1 Existing solid masonry. Existing solid masonry walls 
+of any type, except adobe, may be allowed, without testing, a maximum ultimate strength of nine pounds per square inch 
+( 62.1 kPa) in shear where there is a qualifying statement by the 
+architect or engineer that an inspection has been made, that mortar joints are filled and that both brick and mortar are rea­sonably good. The shear stress above applies to unreinforced masonry, except adobe, where the maximum ratio of unsup­ported height or length to thickness does not exceed 13, and where minimum quality mortar is used or exists. Wall height or length is measured to supporting or resisting elements that are at least twice as stiff as the tributary wall. Stiffness is based on the gross section. Shear stress may be increased by the addition of 10 percent of the axial direct stress due to the weight of the wall directly above. Higher-quality mortar may provide a greater shear value and shall be tested in accordance with Appendix A, Chapter A1 of the California Existing Building Code (CEBC) 2010 edition, and as modified by the CHBC. 
+
+
+8-805.2 Stone masonry. 
+
+
+8-805.2.1 Solid-backed stone masonry. Stone masonry solidly backed with brick masonry shall be treated as solid 
+· brick masonry as described in Section 8-805.1 and in the 2009 IEBC, provided representative testing and inspection verifies solid collar joints between stone and brick and that a reasonable number of stones lap with the brick wythes as headers or that steel anchors are present. Solid stone masonry where the wythes of stone effectively overlap to provide the equivalent header courses may also be treated as solid brick masonry. 
+
+
+8-805.2.2 Independent wythe stone masonry. Stone masonry with independent face wythes may be treated as solid brick masonry as described in Section 8-805.1 and the CEBC, provided representative testing and inspection ver­ify that the core is essentially solid in the masonry wall and that steel ties are epoxied in drilled holes between outer 
+
+stone wythes at floors, roof and not to exceed 4 feet (1219 mm) on center in each direction, between floors and roof. A reinforcing element shall exist or be provided at or near the 
+top of all stone masonry walls. 8-805.2.3 Testing of stone masonry. Testing of stone masonry shall be similar to the 2010 CEBC requirements 
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION 
+
+for brick masonry, except that representative stones which are not interlocked shall be pulled outward from the wall and shear area appropriately calculated after the test. 
+8-805.3 Reconstructed walls. Totally reconstructed walls uti­lizing original brick or masonry, constructed similar to origi­nal, shall be constructed in accordance with the regular code. Repairs or infills may be constructed in a similar manner to the original walls without conforming to the regular code. 
+
+SECTION 8·806 
+ADOBE 
+
+8-806.1 General. Unburned clay masonry may be constructed, reconstructed, stabilized or rehabilitated subject to this chapter. Alternative approaches which provide an equivalent or greater level of safety may be used, subject to the concurrence of the enforcing agency. 
+8-806.2 Moisture protection. Provisions shall be in-place to protect adobe structures from deterioration due to moisture penetration. Adobe shall be maintained in reasonably good condition. Particular attention shall be given to moisture con­tent of adobe walls. Unmaintained walls or ruins shall be evalu­ated for safety based on their condition and stability. Additional protection measures may be appropriate subject to the concurrence of the enforcing agency. 
+8-806.3 Height to thickness ratio. Unreinforced new or exist­ing adobe walls shall meet these criteria need not be evaluated for out of plane failure. Where existing dimensions do not meet these conditions, additional strengthening measures, such as a bond beam, may be appropriate. Existing sod or rammed earth walls shall be considered similar to the extent these provisions apply. 
+1. 	
+One-story adobe load-bearing walls shall not exceed a height-to-thickness ratio of 6. 
+
+2. 
+Two-story 	adobe buildings or structures' height­to-thickness wall ratio shall not exceed 6 at the ground floor and 5 atthe second floor, and shall be measured at floor-to-floor height when the second floor and attic ceiling/roof are connected to the wall as described below. 
+
+
+8-806.4 Nonload-bearing adobe. Nonload-bearing adobe partitions and gable end walls shall be evaluated for stability and anchored against out-of-plane failure if necessary. 
+8-806.5 Bond beam. Where provided, a bond beam or equiva­lent structural element shall be located at the top of all adobe walls, and at the second floor for two-story buildings or struc­tures. The size and configuration of the structural element shall be sufficient to provide an effective brace for the wall, to tie the building together and to connect the wall to the floor or roof. 
+8-806.6 Repair or reconstruction. Repair or reconstruction of wall area may utilize unstabilized brick or adobe masonry designed to be compatible with the constituents of the existing adobe materials. 
+8-806.7 Shear values. Existing adobe may be allowed a maxi­mum strength level of twelve pounds per square inch (82.7 kPa) for shear. 
+
+
+
+
+8-806.8 Mortar. Mortar may be of the same soil composition as that used in the existing wall, or in new walls as necessary to be compatible with the adobe brick. 
+
+SECTION 8-807 WOOD 
+
+8-807.1 Existing wood diaphragms or walls. Existing wood 
+0
+
+diaphragms or walls of straight or diagonal sheathing shall be assigned shear resistance values appropriate with the fasteners and materials functioning in conjunction with the sheathing. The structural survey shall determine fastener details and spac­ings and verify a load path through floor construction. Shear values of Tables 8-8-A and 8-8-B. 
+8-807.2 Wood lath and plaster. Wood lath and plaster walls and ceilings may be utilized using the shear values referenced in Section 8-807 .I. 
+
+
+8-807.3 Existing wood framing. Existing wood framing members may be assigned allowable stresses consistent with codes in effect at the time of construction. Existing or new replacement wood framing may be of archaic types originally used if properly researched, such as balloon and single wall. Wood joints such as dovetail and mortise and tenon types may be used structurally, provided they are well made. Lumber selected for use and type need not bear grade marks, and greater or lesser species such as low-level pine and fir, box­wood and indigenous hardwoods and other variations may be used for specific conditions where they were or would have been used. 
+
+
+Wood fasteners such as square or cut nails may be used with a maximum increase of 50 percent over wire nails for shear. 
+SECTION 8-808 CONCRETE 
+
+8-808.1 Materials. Natural cement concrete, unreinforced rubble concrete and similar materials may be utilized wherever that material is used historically. Concrete of low strength and with less reinforcement than required by the regular code may remain in place. The architect or engineer shall assign appro­priate values of strength based on testing of samples Of the materilils. Bond and development lengths shall be determined based on historical information or tests. 
+0 
+
+8-808.2 Detailing. The architect or engineer shall carefully evaluate all detailing provisions of the regular code which are not met and shall consider the implications of these variations on the ultimate performance of the structure, giving due con­sideration to ductility and reserve strength. 
+
+SECTION 8-809 STEEL AND IRON 
+
+The hand-built, untested use of wrought or black iron, the use of cast iron or grey iron, and the myriad of joining methods that are not specifically allowed by code may . be used wherever applicable and wherever they have proven their worth under the considerable span of years involved with most qualified histor­ical buildings or structures. Uplift capacity should be evaluated 
+
+
+
+
+
+
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE 
+
+16 
+ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION 
+
+and strengthened where necessary. Fixed conditions 
+or midheight lateral loads on cast iron columns that could cause failure should be taken into account. Existing structural wrought, forged steel or grey iron may be assigned the maxi­mum working stress prevalent at the time of original construc­tion. 
+() 
+SECTION 8-810 HOLLOW CLAY TILE 
+The historical performance of hollow clay tile in past earth­quakes shall be carefully considered in evaluating walls of hollow clay tile construction. Hollow clay tile bearing walls shall be evaluated and strengthened as appropriate for lateral loads and their ability to maintain support of gravity loads. Suitable protective measures shall be provided to prevent blockage of exit stairways, stairway enclosures, exit ways and public ways as a result of an earthquake. 
+
+SECTION 8-811 VENEERS 
+8-811.1 Terra cotta and stone. Terra cotta, cast stone and nat­ural stone veneers shall be investigated for the presence of suit­able anchorage. Steel anchors shall be investigated for deterio­ration or corrosion. New or supplemental anchorage shall be provided as appropriate. 
+8-811.2 Anchorage. Brick veneer with mechanical anchorage at spacings greater than required by the regular code may remain, provided the anchorages have 
+
+not corroded. Nail strength in withdrawal in wood sheathing may be utilized to its capacity in accordance with code values. 
+
+
+8-812.1 Glazing subject to human impact. Historical glazing material located in areas subject to human impact may be approved subject to the concurrence of the enforcing agency when alternative protective measures are provided. These mea­sures may include, but not be limited to, additional glazing pan­els, protective film, protective guards or systems, and devices or signs which would provide adequate public safety. 
+
+
+8-812.2 Glazing in tire-rated systems. See Section 8-402.3. 
+
+
+
+
+
+
+
+
+TABLES-SA 
+STRENGTH VALUES FOR EXISTING MATERIALS 
+
+
+
+
+/ \(
+.7) 
+( 
+
+\ 
+\_) 
+
+
+
+
+ARCHAIC MATERIALS AND METHODS OF CONSTRUCTION 
+
+
+TABLE 8·8B 
+STRENGTH VALUES OF NEW MATERIALS USED IN CONNECTION WITH EXISTING CONSTRUCTION 
+
+
+
+
+
+
+
+
+
+'Other bolt sizes, values and installation methods may be used provided a testing program is conducted in accordance with regular code standards. Bolt spacing shall not exceed 6 feet. (1830 mm) on center and shall not be less than 12 inches (305) mm) on center 
+60ther masonry based on tests or other substantiated data. 
+7Embedded bolts to be tested as specified in regular code standards. 
+'Stresses given may be increased for combinations of loads as specified in the regular code. 
+9Adhesives shall be approved by the enforcing agency and installed in accordance with the manufacturer's recommendations. All drilling dust shall be removed from drilled holes prior to installation. 
+
+
+
+
+
+CHAPTER 8·9 
+
+MECHANICAL, PLUMBING AND ELECTRICAL REQUIREMENTS 
+
+0 
+SECTION 8-901 
+PURPOSE, INTENT AND SCOPE 
+() 
+8-901.1 Purpose. The purpose of the CHBC is to provide regu­lations for the mechanical, plumbing and electrical systems of buildings designated as qualified historical buildings or prop­erties. The CHBC requires enforcing agencies to accept any reasonable equivalent solutions to the regular code when deal­
+ing with qualified historical buildings or properties. 
+8-901.2 Intent. The intent of the CHBC is to preserve the integrity of qualified historical buildings or properties while providing a reasonable level of protection from fire, health and life-safety hazards (hereinafter referred to as safety hazards) for the building occupants. 
+8-901.3 Scope. The CHBC shall be applied in conjunction with the regular code whenever compliance with the regular code is required for qualified historical buildings or properties. 
+8-901.4 Safety hazard. No person shall permit any safety haz­ard to exist on premises under their control, or fail to take immediate action to abate such hazard. Existing systems which constitute a safety hazard when operational may remain in place, provided they are completely and permanently rendered inoperative. Safety hazards created by inoperative systems shall not be permitted to exist. Requirements of the regular code concerning general regulations shall be complied with, except that the enforcing agency shall accept solutions which do not cause a safety hazard. 
+
+
+0 
+8-901.5 Energy conservation. Qualified historical buildings or properties covered by this part are exempted from compli­ance with energy conservation standards. When new nonhistorical lighting and space conditioning system compo­nents, devices, appliances and equipment are installed, they shall comply with the requirements of Title 24, Part 6, The Cal­ifornia Energy Code, except where the historical significance or character-defining features are threatened. 
+SECTION 8-902 MECHANICAL 
+
+8-902.1 General. Mechanical systems shall comply with the regular code unless otherwise modified by this chapter. 
+8-902.1.1 The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, reloca­tion, replacement or addition of any heating, ventilating, air conditioning, domestic incinerators, kilns or miscellaneous heat-producing appliances or equipment within or attached 
+( 
+
+' 
+to a historical building. 
+
+
+\_____) 
+8-902.1.2 Existing systems which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain in use. 
+
+
+
+8-902.1.3 The enforcing agency may approve any alterna­tive to the CHBC which would achieve equivalent life safety. 
+
+
+8-902.2 Heating facilities. All dwelling-type occupancies covered under this chapter shall be provided with heating facil­ities. Wood-burning or pellet stoves or fireplaces may be acceptable as heating facilities. 
+8-902.3 Fuel oil piping and tanks. Fuel oil piping and tanks shall comply with regular code requirements except that the enforcing agency may waive such requirements where the lack of compliance does not create a safety or environmental hazard. 
+8-902.4 Heat-producing and cooling equipment. Heat-pro­ducing and cooling equipment shall comply with the regular code requirements governing equipment safety, except that the enforcing agency may accept alternatives which do not create a safety hazard. 
+8-902.5 Combustion air. 
+8-902.5.1 All fuel-burning appliances and equipment shall be provided a sufficient supply of air for proper fuel com­bustion, ventilation and draft hood dilution. 
+8-902.5.2 The enforcing agency may require operational tests for combustion air systems which do not comply with applicable requirements of the regular code. 
+8-902.6 Venting of appliances. 
+
+8-902.6.1 Every appliance required to be vented shall be connected to an approved venting system. Venting systems shall develop a positive flow adequate to convey all combus­tion products to the outside atmosphere. 
+8-902.6.2 Masonry chimneys in structurally sound condi­tion may remain in use for all fuel-burning appliances, pro­vided the flue is evaluated and documentation provided that the masonry and grout are in good condition. Terra cotta chimneys and Type C metallic vents installed in concealed spaces shall not remain in use unless otherwise mitigated and approved on a case-by-case basis. 
+8-902.6.3 The enforcing agency may require operational tests for venting systems which do not comply with applica­ble requirements of the regular code. 
+8-902.7 Ducts. 
+8-902.7.1 New ducts shall be constructed and installed in accordance with applicable requirements of the regular code. 
+8-902.7.2 Existing duct systems which do not comply with applicable requirements of the regular code and do not, in the opinion of the enforcing agency, constitute a safety or health hazard may remain in use. 
+8-902.8 Ventilating systems. 
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE MECHANICAL, PLUMBING AND ELECTRICAL REQUIREMENTS 
+
+8-902.8.1 Ventilating systems shall be installed so that no safety hazard is created. 
+8-902.8.2 Grease hoods and grease hood exhaust systems shall be furnished and installed in accordance with applica­ble requirements of the regular code. Existing systems which are altered shall comply with the regular code. 
+8-902.9 Miscellaneous equipment requirements. 
+8-902.9.1 The following appliances and equipment shall be installed so that no safety hazard is created: warm air fur­naces, space heating equipment, vented decorative appli­ances, floor furnaces, vented wall furnaces, unit heaters, room heaters, absorption units, refrigeration equipment, duct furnaces, infrared radiant heaters, domestic incinera­tors, miscellaneous heat-producing appliances and water heaters. 
+
+8-902.9.2 Storage-type water heaters shall be equipped with a temperature-and pressure-relief valve in accordance with applicable requirements of the regular code. 
+SECTION 8-903 
+PLUMBING 
+
+8-903.1 General. Plumbing systems shall comply with the reg­ular code unless otherwise noted. 
+8-903.1.1 The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, reloca­tion, replacement or addition of any plumbing system or equipment within or attached to a historical building. 
+8-903.1.2 Existing systems which do not, in the opinion of the enforcing agency, constitute a safety hazard may remain in use. 
+8-903.1.3 The enforcing agency may approve any alterna­tive to these regulations which achieves reasonably equiva­lent life safety. 
+8-903.2 Residential occupancies. 
+8-903.2.1 Where toilet facilities are provided, alternative sewage disposal methods may be acceptable if approved by the local health department. In hotels, where private facili­ties are not provided, water closets at the ratio of one for each 15 rooms may be acceptable. 
+8-903.2.2 Toilet facilities are not required to be on the same floor or in the same building as sleeping rooms. Water-flush toilets may be located in a building immediately adjacent to the sleeping rooms. When alternative sewage disposal methods are utilized, they shall be located a minimum dis­tance from the sleeping rooms or other locations as approved by the local health department. 
+8-903.2.3 Kitchen sinks shall be provided in all kitchens. The sink and countertop may be of any smooth nonabsorbent finish which can be maintained in a sanitary condition. 
+8-903.2.4 Hand washing facilities shall be provided for each dwelling unit and each hotel guest room. A ·basin and pitcher may be acceptable as adequate hand washing facilities. 
+
+
+8-903.2.5 Hot or cold running water is not required for each 
+plumbing fixture, provided a sufficient amount of water is 
+supplied to permit the fixture's normal operation. 
+
+
+
+8-903.2.6 Bathtubs and lavatories with filler spouts less than 
+1 inch (25.4 mm) above the fixture rim may remain in use, 
+provided there is an acceptable overflow below the rim. 
+
+8-903.2.7 Original or salvage water closets, urinals and 
+flushometer valves shall be permitted in qualified historical 
+buildings or properties. Historically accurate reproduction, 
+nonlow-consumption water closets, urinals and flushometer 
+valves shall be permitted except where historically accurate 
+fixtures that comply with the regular code are available. 
+
+
+
+8-903.3 Materials. New nonhistorical materials shall comply 0 with the regular code requirements. The enforcing agency shall accept alternative materials which do not create a safety hazard where their use is necessary to maintain the historical integrity of the building. 
+8-903.4 Drainage and vent systems. Plumbing fixtures shall be connected to an adequate drainage and vent system. The enforcing agency may require operational tests for drainage and vent systems which do not comply with applicable require­ments of the regular code. Vent terminations may be installed in any location which, in the opinion of the enforcing agency, does not create a safety hazard. 
+8-903.5 Indirect and special wastes. Indirect and special waste systems shall be installed so that no safety hazard is cre­ated. Chemical or industrial liquid wastes which may detri­mentally affect the sanitary sewer system shall be pretreated to render them safe prior to discharge. 
+
+
+8-903.6 Traps and interceptors. Traps and interceptors shall comply with the regular code requirements except that the enforcing agency shall accept solutions which do not increase the safety hazard. Properly maintained "S" and drum traps may remain in use. 
+8-903.7 Joints and connections. 
+8-903.7.1 Joints and connections in new plumbing systems 
+shall comply with applicable requirements of the regular 
+code. 
+
+8-903.7.2 Joints and connections in existing or restored sys­0 tems may be of any type that does not create a safety hazard. 
+8-903.8 Water distribution. Plumbing fixtures shall be con­nected to an adequate water distribution system. The enforcing agency may require operational tests for water distribution sys­tems which do not comply with applicable requirements of reg­ular code. Prohibited (unlawful) connections and cross connections shall not be permitted. 
+
+
+8-903.9 Building sewers and private sewage disposal sys­tems. New building sewers and new private sewage disposal systems shall comply with applicable requirements of the regu­lar code. 
+
+CJ 
+
+8-903.10 Fuel-gas piping. Fuel-gas piping shall comply with the regular code requirements except that the enforcing agency shall accept solutions which do not increase the safety hazard. 
+20 
+SECTION 8-904 ELECTRICAL 
+8-904.1 General. Electrical systems shall comply with the regular code unless otherwise permitted by this code, or approved by the authority having jurisdiction. 
+0 
+8-904.1.1 The provisions of the CHBC shall apply to the acceptance, location, installation, alteration, repair, reloca­
+tion, replacement or addition of any electrical system or por­tion thereof, the premise wiring, or equipment fixed in place as related to restoration within or attached to a qualified his­torical building or property. 
+0 
+8-904.1.2 Existing systems, wiring methods and electrical equipment which do not, in the opinion of the enforcing 
+agency, constitute a safety hazard may remain in use. 
+8-904.1.3 The enforcing agency may approve any alterna­tive to the CHBC which achieves equivalent safety. 
+8-904.1.4 Archaic methods that do not appear in present codes may remain and may be extended if, in the opinion of the enforcing agency, they constitute a safe installation. 
+8-904.2 Wiring methods. 
+8-904.2.1 Where existing branch circuits do not include an equipment grounding conductor and, in the opinion of the enforcing agency, it is impracticable to connect an equip­ment grounding conductor to the grounding electrode sys­tem, receptacle convenience outlets may remain the 
+· 
+nongrounding type. 
+8-904.2.2 Ground fault circuit interrupter (GFCI) protected receptacles shall be installed where replacements are made at receptacle outlets that are required to be so protected by the regular code in effect at the time of replacement. Metal­lic face plates shall either be grounded to the grounded metal outlet box or be grounded to the grounding-type device when used with devices supplied by branch circuits without equipment grounding conductors. 
+8-904.2.3 Groundingtype receptacles shall not be used without a grounding means in an existing receptacle outlet unless GFCI protected. Existing nongrounding receptacles shall be permitted to be replaced with nongrounding or grounding-type receptacles where supplied through a ground fault circuit interrupter. 
+8-904.2.4 Extensions of existing branch circuits without equipment-grounding conductors shall be permitted to sup­ply grounding-type devices only when the equipment grounding conductor of the new extension is grounded to any accessible point on the grounding electrode system. 
+8-904.2.5 Receptacle outlet spacing and other related dis­tance requirements shall be waived or modified if deter­mined to be impracticable by the enforcing agency. 
+8-904.2.6 For the replacement of lighting fixtures on an existing nongrounded lighting outlet, or when extending an existing nongrounding lighting outlet, the following shall 
+( \ 
+apply : 
+1. 	The exposed conductive parts of lighting fixtures 
+shall be connected to any acceptable point on the grounding electrode system, or 
+MECHANICAL, PLUMBING AND ELECTRICAL REQUIREMENTS 
+2. 	The lighting fixtures shall be made of insulating material and shall have no exposed conductive parts. 
+Exception: Lighting fixtures mounted on electri­cally nonconductive ceilings or walls where located not less than either 8 feet (2438 mm) verti­cally or 5 feet (1524 mm) horizontally from grounded surfaces. 
+8-904.2.7 Lighting load calculations for services and feed­ers may be based on actual loads as installed in lieu of the "watts per square foot" method. 
+8-904.2.8 Determination of existing loads may be based on 
+maximum demand recordings in lieu of calculations, pro­
+vided all of the following are met: 
+
+1. 	
+Recordings are provided by the serving agency. 
+
+2. 	
+The maximum demand data is available for a one-year period. 
+
+
+Exception: If maximum demand data for a one-year period is not available, the maximum demand data shall be permitted to be based on the actual amperes continuously recorded over a mini­mum 30-day period by a recording ammeter con­nected to the highest loaded phase of the feeder or service. The recording should reflect the maxi­mum demand when the building or space is occu­pied and include the measured or calculated load at the peak time of the year, including the larger of the heating or cooling equipment load. 
+3. 	
+There has been no change in occupancy or character of load during the previous 12 months. 
+
+4. 	
+The anticipated load will not change, or the existing demand load at 125 percent plus the new load does not exceed the ampacity of the feeder or rating of the service. 
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+22 
+0 
+CHAPTER 8-10 
+QUALIFIED HISTORICAL DISTRICTS, SITES AND OPEN SPACES 
+0 
+SECTION 8-1 001 PURPOSE AND SCOPE 
+CJ 
+8-1001.1 Purpose. The purpose of this chapter is to provide regulations for the preservation, rehabilitation, restoration and reconstruction of associated historical features of qualified his­torical buildings, properties or districts (as defined in Chapter 8-2), and for which Chapters 8-3 through 8-9 of the CHBC may not apply. 
+8-1001.2 Scope. This chapter applies to the associated histori­cal features of qualified historical buildings or properties such as historical districts that are beyond the buildings themselves which include, but are not limited to, natural features and designed site and landscape plans with natural and man-made landscape elements that support their function and aesthetics. This may include, but will not be limited to: 
+1. 	
+Site plan layout configurations and relationships (pedestrian, equestrian and vehicular site circulation, topographical grades and drainage, and use areas). 
+
+2. 	
+Landscape elements (plant materials, site structures other than the qualified historical building, bridges and their associated structures, lighting, water features, art ornamentation, and pedestrian, equestrian and vehicu­lar surfaces). 
+
+3. 	
+Functional elements (utility placement, erosion control and environmental mitigation measures). 
+
+
+
+SECTION 8-1 002 APPLICATION 
+8-1002.1 The CHBC shall apply to all sites and districts and their features associated with qualified historical buildings or qualified historical districts as outlined in 8-1001.2 Scope. 
+
+
+(_) 
+
+8-1002.2 Where the application of regular code may impact the associated features of qualified historical properties beyond their footprints, by work performed secondarily, those impacts shall also be covered by the CHBC. 
+8-1002.3 This chapter shall be applied for all issues regarding code compliance or other standard or regulation as they affect . the purpose of this chapter. 
+8-1002.4 The application of any code or building standard shall not unduly restrict the use of a qualified historical build­ing or property that is otherwise permitted pursuant to Chapter 8-3 and the intent of the State Historical Building Code, Sec­tion 18956. 
+SECTION 8-1 003 
+SITE RELATIONS 
+
+
+The relationship between a building or property and its site, or the associated features of a district (including qualified histori­cal landscape ), site, objects and their features are critical com­ponents that may be one of the criteria for these buildings and properties to be qualified under the CHBC. The CHBC recog­nizes the importance of these relationships. This chapter shall be used to provide context sensitive solutions for treatment of qualified historical buildings, properties, district or their asso­ciated historical features, or when work to be performed sec­ondarily impacts the associated historical features of a qualified historical building or property. 
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+() 
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+APPENDIX A 
+
+
+CHAPTER S-1 	serving, Rehabilitating, Restoring and Reconstructing Historic Buildings and the Secretary of Interior's Standards for the 
+When modification must be made to qualified historical build­Treatment of Historic Properties with Guidelines for the Treat­ings and properties, the CHBC is intended to work in conjunc­ment of Cultural Landscapes. 
+tion with the United States Secretary of Interior Standards for 0 the Treatment of Historic Properties with Guidelines for Pre-
+
+
+CHAPTER S-6 
+TABLE 1-PROVISION APPLICABILITY 
+0 Title Ill Title II Title Ill 
+Barrier Public Entities Private Entities 
+Removal 
+
+SECTION 8-601 PURPOSE, INTENT, SCOPE 	Applies Applies 
+Applies 
+
+8-601.1 Purpose. The purpose of the CHBC is to provide alternative regulations to 
+facilitate access and use by persons with disabilities to and throughout facilities 
+designated as qualified historical buildings or properties. These regulations require 
+enforcing agencies to accept alternatives to regular code when dealing with qualified 
+historical buildings or properties. 
+8-601.2 Intent. The intent of this chapter is to preserve the integrity of qualified historical 
+buildings and properties while providing access to and use by people with disabilities. 
+
+8-601.3 Scope. The CHBC shall apply to every qualified historical building or property 
+that is required to provide access to people with disabilities. 
+
+1. 	
+Provisions of this chapter do not apply to new construction or 
+reconstruction/replicas of historical buildings. 
+
+
+2. 	
+Where provisions of this chapter apply to alteration of qualified historical buildings 
+or properties, alteration is defined in California Buil ding Co de (CBC), Chapter 2, 
+Definitions and Abbreviations. 202 -A. Alter or Alteration. 
+
+
+
+8-601.4 General application. The provisions in the CHBC apply to local, state and federal 
+governments (Title II entities); alteration of commercial facilities and places of public 
+accommodation (Title Ill entities); and barrier removal in commercial facilities and places 
+of public accommodation (Title III entities). Except as noted in this chapter. 
+
+Applies
+
+SECTION 8-602 -BASIC PROVISIONS 	Applies Applies 
+8-602.1 Regular code. The regular code for access for people with disabilities (Title 24, 
+Part 2, Vol.l, Chapter llB) shall be applied to qualified historical buildings or properties 
+unless strict compliance with the regular code will threaten or destroy the historical 
+significance or character-defining features of the building or property. 
+
+8-602.2 Alternative provisions. If the historical significance or character-defining 
+0 features are threatened, alternative provisions for access may be applied pursuant to this 
+chapter, provided the following conditions are met: 
+1. 	
+These provisions shall be applied only on an item-by-item or case-by-case basis. 
+
+2. 	
+Documentation is provided, including meeting minutes or letters, stating the 
+reasons for the application of the alternative provisions. Such documentation shall 
+be retained in the permanent file of the enforcing agency. 
+
+
+
+0 
+
+(continue d) 
+. 
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE APPENDIX A 
+TABLE 1-PROVISION APPLICABILITY-continued 
+SECTION 8-603 -ALTERNATIVES 8-603.1 Alternative minimum standards. The alternative minimum standards for alterations of qualified historical buildings or facilities are contained in Section 4.1.7(3) 
+of ADA Standards for Accessible Design, as incorporated and set forth in federal regulation 28 C.F.R. Pt. 36. 8-603.2 Entry. These alternatives do not allow exceptions for the requirement of level 
+landings in front of doors, except as provided in Section 8-603.4. 
+1. 	
+Access to any entrance used by the general public and no further than 200 feet (60 960 mm) from the primary entrance. 
+
+2. 	
+Access at any entrance not used by general public but open and unlocked with directional signs at the primary entrance and as close as possible to, but no further than 200 feet (60 960 mm) from, the primary entrance. 
+
+3. 	
+The accessible entrance shall have a notification system. Where security is a problem, remote monitoring may be used. 
+
+
+Title Ill 
+Title II Title Ill 
+Barrier 
+Public Entities Private Entities 
+Removal 
+Applies Applies 
+Applies 
+Applies Applies 
+Applies 
+Applies apply apply 
+
+8-603.3 Doors. Alternatives listed in order of priority are: 	Does not Does not 
+1. 	
+Single-leaf door which provides a minimum 30 inches (762 mm) of clear opening. 
+
+2. 	
+Single-leaf door which provides a minimum 291/2 inches (749 mm) clear opening. 
+
+
+Double door; one leaf of which provides a minimum 291/2 inches (749 mm) clear 
+opening. 
+
+4. 	Double doors operable with a power-assist device to provide a minimum 291/2 
+inches (749 mm) clear opening when both doors are in the open position. 
+Exception: Alternatives inthis section do not apply to alteration of commercial facil­ities and places of public accommodation (Title Ill entities). 
+
+8-603.4 Power-assisted doors. Power-assisted door or doors may be considered an Applies Applies Applies equivalent alternative to level landings, strikeside clearance and door-opening forces required by regular code. 
+8-603.5 Toilet rooms. In lieu of separate-gender toilet facilities as required in the regular Applies Applies Applies code, an accessible unisex toilet may be designated. 
+8-603.6 Exterior and interior ramps and lifts. Alternatives listed in order of priority Applies Applies Applies are: 
+1. 	
+A lift or a ramp of greater than standard slope but no greater than 1: 10, for 
+horizontal distances not to exceed 5 feet (1525 mm). Signs shall be posted at upper 
+and lower levels to indicate steepness of the slope. 
+
+
+2. 	
+Access by ramps of 1:6 slope for horizontal distance not to exceed 13 inches (330 
+mm). Signs shall be posted at upper and lower levels to indicate steepness of the 
+slope. 
+
+
+
+
+
+(continue d) 
+u 
+
+
+
+APPENDIX A 
+TABLE 1-PROVISION APPLICABILITY-continued 
+(\
+\ J
+
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+HISTORY NOTE APPENDIX 
+CAliFORNIA HISTORICAL BUILDING CODE (Title 24, Part 8, California Code of Regulations) 
+For prior history, see History Note Appendix to the California 
+Historical Building Code, 2010 Triennial Edition, effective 
+January 1, 2011. 
+
+0 	1. Editorial correction to Chapter 8-8, Section 8-812, Tables 8-8A and 8-8B. Include missing tables in 2007 annual code adoption supplement. 
+2. SHBSB 01/10-Repeal and amend Chapters 8-7 and 8-8 
+of the 2010 California Historical Building Code, CCR, Title 
+24, Part 8 regulated by the State Historical Building Safety 
+
+0 Board, effective on July 1, 2012. 
+3. Repeal the 2010 California Historical Building Code, 
+CCR, Title 24, Part 8 and adopt the 2013 California Historical 
+Building Code, CCR, Title 24, Part 8 approved by the Building 
+Standards Commission on December 12, 2012. Published on 
+July 1, 2013 and effective on January 1, 2014 . 
+
+
+
+
+. ···· \
+(.___./ j 
+
+
+\ 
+\__/ 
+
+
+2013 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+
+0 
+0 
+
+201 0 CALIFORNIA HISTORICAL BUILDING CODE 
+
+
+
+
+

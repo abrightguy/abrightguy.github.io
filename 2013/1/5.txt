@@ -1,0 +1,334 @@
+
+CHAPTER 5
+
+
+
+
+
+
+ACCESS TO PUBLIC BUILDINGS BY PERSONS WITH DISABILITIES
+
+ARTICLE 1
+COMPLIANCE PROCEDURES
+
+
+5-101. Purpose. These regulations implement Sections 4450 et seq. ofthe Government Code to ensure that where state funds are utilized for the construction or alteration of any public building or facility or where the funds of counties, municipalities or other political subdivisions are utilized for the construction or alteration of elementary, secondary or community college buildings and facilities that the plans and specifications for such buildings and facilities are reviewed by the Division of the State Architect (DSA) and certified to be in compliance with California law requiring access for persons with disabilities prior to a contract being awarded.
+Authority: Government Code Sections 4450, 4453 and 4454.
+Reference: Government Code Section 4454.
+HISTORY:
+l. 	New Group 2 (81 through 86) filed 3-5-71 as an emergency; effective on filing. Certificate ofCompliance included (Register 71, No. 10). For history of former Group 2 see Register 66, No. 38.
+2. 	Amendment filed 11-24-78; designated effective 1-1-79 (Register 78, No. 47).
+
+5-102. General. For the purpose of assuring compliance with minimum requirements for accessibility by persons with disabilities, the governmental agency controlling the appropriation from which the project is funded shall submit an application, together with plans and full, complete and accurate specifications and filing fee, to the State Architect. The DSA will process the documents. Written approval shall be obtained prior to award of a construction contract.
+Authority: Government Code Section 4453.
+Reference: Government Code Section 4454.
+
+HISTORY:
+1. 	Amendment filed 11-24-78; designated effective 1-1-79 (Register 78, No. 47).
+
+5-103. Application. For each project to be reviewed and certified, a separate application (Form DSA-1) shall be submitted to the DSA. The application shall be accompanied by a complete set ofproject plans and specifications and an appropriate filing fee (see Section 5-104).
+The above documents shall be submitted to one of the following regional offices:
+DIVISION OF THE STATE ARCHITECT
+OAKLAND REGIONAL OFFICE
+1515 Clay Street, Suite 1201
+Oakland, CA 94612
+
+DIVISION OF THE STATE ARCHITECT
+SAN DIEGO REGIONAL OFFICE
+10920 Via Frontera, Suite 300
+San Diego, CA 92127
+
+
+2013 CALIFORNIA ADMINISTRATIVE CODE
+DIVISION OF THE STATE ARCHITECT
+SACRAMENTO REGIONAL OFFICE
+1102 QStreet, Suite 5200
+Sacramento, CA 95811
+
+DIVISION OF THE STATE ARCHITECT
+LOS ANGELES REGIONAL OFFICE
+700 N. Alameda St., Suite 5-500
+Los Angeles, CA 90012
+
+
+The application shall be considered received when all the required documents and fees have been received by the office and the application number assigned.
+The documents submitted for review and used for certification shall be retained by the DSA.
+Authority: Government Code Section 4454. Reference: Government Code Section 4454.
+
+HISTORY:
+l. 	Amendment filed 11-24-78; designated effective 1-1-79 (Register 78, No. 47). For prior history, see Register 76, No. 25.
+2.
+Renumbering and amendment of former Section 83 to Section 83.1 filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2(d) (Register 84, No. 35).
+
+3.
+Erratum to reflect locations of offices.
+
+
+
+5-104. Fees.
+(a) The filing fee for projects under applications received on or after March 1, 2013, shall be five-tenths of one percent (0.5%) II of the first $500,000.00 of the estimated project cost plus twenty-five one-hundredths of one percent (0.25%) of the pro-II ject cost greater than $500,000.00 up to and including $2,000,000.00 plus one-tenth of one percent (0.1%) of the II excess ofthe estimated project cost over $2,000,000.00, except that the minimum fee in any case shall be $500.00. II
+Example of filing fee to accompany application:
+Estimated project cost= $250,000.00 .005 X $250,000.00 $1,250.00 II Estimated project cost= $1,500,000.00 .005 X $500,000.00 $2,500.00 .0025 X $1,000,000.00 2,500.00 $5,000.00
+II
+
+Estimated project cost= $5,000,000.00
+.005 X $500,000.00  $2,500.00
+.0025 X $1,500,000.00  3,750.00
+.001 X $3,000,000.00  3,000.00
+$9,250.00
+
+(b)
+The fee schedule in effect at the time of filing shall apply throughout the duration of such application.
+
+(c)
+When the actual project cost exceeds the estimated cost a further fee for such projects shall become due and shall be equal to the difference between the filing fee paid and the amount computed under the schedule above using the actual cost of the project. The actual project cost shall be determined as directed in Section 5-105 and billed according to Section 5-107.
+
+(d)
+If the applicant requests the cancellation or withdrawal of the application and return of the plans and specifications and fil
+
+
+ing fee, this shall be granted unless the review has begun. No portion of the filing fee can be returned after the review has started.
+(e)
+Beginning in July 2009, with a review in 2011 and within every four years thereafter, the State Architect shall review the fee schedule and make a written determination whether the fees are sufficient to fund the programs.
+
+(i)
+Ifthe State Architect determines that a lesser amount is sufficient to maintain the programs, the fees may be reduced for a period up to four years.
+
+(ii)
+Ifthe State Architect determines that a greater amount is necessary to maintain the programs utilizing these funds, the State Architect shall propose a fee schedule increase.
+
+
+Authority: Government Code Section 4453.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	New section filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2(d) (Register 84, No. 35).
+2.
+(OSNAC-A 1/89) Editorial transfer from CCR, Title 21 to Title 24 11-1-89.
+
+3.
+(OSNAC-A 2/89) Amend CCR, Title 24, PattI, Sec. 5-104 (a) (b), effective 1-1-90. Approved by Building Standards Commission 10-30-89.
+
+4.
+(OSNAC EF 1/92) Emergency order by the Office of the State Architect/Access Compliance to amend Section 5-104 (a), Part I, Title 24, California Code of Regulations. Filed as an emergency order with the secretary of state February 25, 1992; effective March I, 1992. Approved as an emergency by the California Building Standards Commission on February 24, 1992.
+
+5.
+(OSNAC EF 1/92) Emergency order by the Office of the State Architect/Access Compliance to amend Section 5-104 (a), Part I, Title 24, California Code of Regulations; approved by the California Building Standards Commission on February 24, 1992; filed as an emergency order with the secretary ofstate February 25, 1992, and effective March I, 1992, has lapsed. No action was taken by the OSNAC to make these regulations permanent; therefore, the initial regulations are back in effect as of June 29, 1992.
+
+
+5-105. Project cost. For purposes ofdetermining the fees, both the estimated and actual project cost shall be the cost for the total outlay contemplated for all work included in the certified plans and specifications. The term "project" shall be defined as all buildings and other structures, together with the development of the site, but in the event the plans and specifications submitted with the application do not provide for the construction of, addition or alteration to a building or structure, then it shall be for the site development proposed in the application.
+The actual project cost shall include all items which are normally considered to be contractors operation costs. Addenda or change order items which increase the contract amount shall be included in the final actual project cost computation.
+All fees and/or reimbursable charges paid the construction managers shall be included in the actual project cost. When the contract for the work includes items not otherwise subject to the approval of the office and not included in the approved plans and specifications the actual cost shall include this work unless such costs are segregated by separate bid items or by separately priced items of change orders, or by a certified copy of the subcontractor's bid. Such segregation shall not be made by contract price breakdown or estimates.
+Authority: Government Code Section 4454.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	New section filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2 (d) (Register 84, No. 35).
+5-106. Revision of plans and specifications. Revisions are changes to plans or specifications made after DSA approval. Revisions shall be submitted to and approved by DSA.
+An hourly fee may be charged to the applicant for the review of revisions to approved plans and specifications.
+Ifthe original plans are abandoned and the plans and specifications submitted in lieu thereof are in fact for a new project rather than an identical project, or where a modified set ofplans is for an essentially different concept, it is necessary that a new application be filed and a fee paid. This is regardless of the fact that the project may have the same name, be of the same general size, and be situated at the same location as the project for which the original application was made.
+Authority: Government Code Section 4454.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	New section filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2(d) (Register 84, No. 35).
+5-107. Billing for further fees. For public school projects the DSA shall determine whether or not further fees are due and shall bill the district for such further fees.
+For projects other than public schools, the applicant or owner shall submit to the office a report verifying the actual project cost within 90 days after the completion of the project. This actual project cost shall be the basis for the further fee computation. The accuracy and timely submission of this actual project cost report shall be the responsibility of the owner or his designated agent. The owner shall be billed for further fees upon completion of the project or portion thereof if fee is due.
+Authority: Government Code Section 4454.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	New section filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2 (d) (Register 84, No. 35).
+5-108. Refunds. Claims for refunds of five dollars or less due to errors in cost reporting or fee computation shall be made within one year from the date of payment.
+Authority: Government Code Section 4454.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	New section filed 8-30-84; effective upon filing pursuant to Government Code Section 11346.2(d) (Register 84, No. 35).
+5-109. Review of plans and specifications. The DSA will review the submitted documents to ensure that the requirements cited in Article 1 are fully met.
+Authority: Government Code Section 4453.
+Reference: Government Code Section 4454.
+HISTORY:
+I. 	Amendment filed 11-24-78; designated effective 1-1-79 (Register 78, No. 47).
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+5-110. Written approval.
+(a)
+Approval obtained. Upon completion of review, DSA will return to the awarding authority a written approval, if the documents comply with the requirements. This approval ofthe application constitutes the "written approval" required by Section 4454 of the Government Code. No changes or revisions shall be made following written approval which affect access compliance items unless such changes or revisions are submitted to the DSA for approval.
+
+(b)
+Approval denied. If the documents fail to meet the requirements of these regulations, DSA will return to the awarding authority the plans with corrections noted thereon together with instructions for resubmittal ofthe plans and specifications. The corrected plans are the property of the Division ofthe State Architect and shall be returned within six months or the application will be void. No valid construction contract may be awarded before written approval is obtained.
+
+(c)
+Unauthorized deviations. In the event that there is an unauthorized deviation from the requirements of these regulations with respect to the standards specified, the same shall be rectified by full compliance therewith within ninety (90) days after discovery of such deviation.
+
+(d)
+Notification. Where the State Architect is the enforcement authority and any project is proposed to be approved and such approval action would deny accessibility either required by Sections 4450 and 4458, inclusive, ofthe Government Code to persons with disabilities, or by reason ofan equivalent facilitation exception granted pursuant to Section 4451 of the Government Code, the State Architect shall notify affected persons with disabilities or organizations and others who have made written requests to be informed as to such proposals under consideration.
+
+
+Authority: Government Code Sections 4450 and 4460 and Health and Safety Code Section 18949.
+Reference: Government Code Section 4460.
+HISTORY:
+1.
+Amendment filed 11-24-78; designated effective 1-1-79 (Register 78, No. 47).
+
+2.
+New subsection (d) filed 3-6-81 as an emergency; effective upon filing (Register 81, No. 10). A Certificate ofCompliance must be transmitted to OAL within 120 days or emergency language will be repealed on 7-4-81.
+
+3.
+Order of Repeal of 3-6-81 emergency order filed 3-13-81 hy OAL pursuant to Government Code Section 11349.6 (Register 81, No. 11).
+
+4.
+New subsection (d) filed 7-28-82; effective thirtieth day (Register 82, No. 31).
+
+5.
+Amendment of subsection (a) filed 7-17-85; effective thirtieth day thereafter (Register 85, No. 29).
+
+
+
+5-111. General requirements. General requirements and building standards are located in Title 24, Part 2.
+ARTICLE 2
+DIVISION OF THE STATE ARCHITECT
+ACCESS COMPLIANCE PROCESSING
+PRODUCT APPROVALS
+January 1, 2001
+Detectable warning products and directional surfaces installed
+after January 1, 2001 shall be evaluated by an independent
+
+ACCESS TO PUBLIC BUILDINGS BY PERSONS WITH DISABILITIES
+entity, selected by the Department of General Services, Division of the State Architect, Access Compliance, for all occupancies, including transportation and other outdoor environments, except that when products and surfaces are for use in residential housing, evaluation shall be in consultation with the Department of Housing and Community Development. See Government Code Section 4460. '
+5-201. Processing independent entity evaluation approvals (IEEA). Independent Entity Evaluation Approvals shall be registered in the Division of the State Architect (DSA) headquarters office.
+To maintain a central file for all IEEA and to operate within the current DSA program, certain administration and all accounting shall be performed at the DSA headquarters office under the direction of the Principal Architect.
+5-202. IEEA application procedure.
+1.
+Upon receipt of an IEEA application, send the application fee and a copy of the application to the DSA headquarters office, attention: Access Compliance.
+
+2.
+A paper file will be created for each IEEA, which will initially include a copy ofthe application and the application fee. Headquarters personnel will then file the product, manufacturer and registration information, creating an IEEA number.
+
+3.
+The application fee will be given to the headquarters' cashier for deposit.
+
+
+5-203. IEEA acceptance procedure.
+1.
+Prior to issuing IEEA acceptance, it is required that all fees be paid. Iffees are due, please contact the manufacturer for payment and forward the payment to the DSA headquarters office, along with the request for the additional payment.
+
+2.
+The fee, ifany, will be given to the headquarters' cashier for filing and deposit.
+
+3.
+The acceptance letter will be retained at DSA headquarters, Access Compliance. A copy of the status approval letter will be returned to the applicant.
+
+4.
+Headquarters' personnel will register, prepare and distribute all necessary copies of the acceptance letter. The original file shall be maintained at headquarters.
+
+
+5-204. Accounting ofiEEA. Income for IEEA will be earned in the month in which they are banked. This money will be applied to Disability Access Account for deposit.
+5-205. Contacts for questions.
+1.
+IEEA Contact-DSA headquarters, attention: Access Compliance, IEEA Program.
+
+2.
+Headquarters Administration Contact-DSA headquarters, attention: Access Compliance, IEEA Program.
+
+3.
+Headquarters Accounting Contact-DSA headquarters, Accounting. Authority: Government Code Sections 4450, 4460 and Health and Safety
+
+
+Code Section 18949.1.
+Reference: Government Code Section 4460.
+
+ARTICLE 3
+ACCEPTANCE OF DETECTABLE WARNING
+AND DIRECTIONAL SURFACE PRODUCTS FOR
+MANUFACTURERS AND DESIGN PROFESSIONALS
+
+January 1 , 2001
+
+Detectable warning products and directional surfaces installed after January 1, 2001 shall be evaluated by an independent entity, selected by the Department of General Services, Division of the State Architect, Access Compliance, for all occupancies, including transportation and other outdoor environments, except that when products and surfaces are for use in residential housing, evaluation shall be in consultation with the Department of Housing and Community Development. See Government Code Section 4460.
+5-301. Division of the State Architect, Access Compliance, acceptance of product. The procedure for the DSA-AC acceptance ofmanufactured products is detailed in this article.
+All products require prior evaluation by a recognized evaluation agency that has a program specifically intended for such purposes. DSA-AC shall review the evaluation report for compliance with related and appropriate national standards and Title 24 requirements.
+5-301.1. Product submittal. Products must meet the requirements of Section 5-301.
+5-301.2. Division of the State Architect, Access Compliance, products exempt from evaluation by a recognized agency. No products can be approved for use that do not require evaluation by a recognized evaluation agency.
+5-301.3. Products evaluated by recognized state and city agencies. No products can be approved by any state and city agencies for use that do not require evaluation by a recognized evaluation agency.
+5-301.4. Products evaluated by a recognized evaluation agency. Products must have, as a minimum, an approved report published by a nationally recognized evaluation agency. Without an evaluation report, the applicant will be required to obtain such a report or will be denied acceptance on DSA-AC projects. The report and its evaluation criteria may be reviewed for compliance with national standards.
+5-301.5. Development ofDSA acceptance criteria. Development of new DSA-AC acceptance criteria shall be based on acceptance criteria from a recognized evaluation agency.
+5-301.6. Marking. Each detectable warning and directional surface product shall be provided with:
+1.
+Label indicating the DSA label number,
+
+2.
+Manufacturer's product number, and
+
+3.
+Product approval expiration date.
+
+
+Authority: Government Code Sections 4450 and 4460 and Health and Safety Code Section 18949.1.
+Reference: Government Code Section 4460.
+ARTICLE 4
+APPLICATION FOR INDEPENDENT
+ENTITY EVALUATION APPROVAL (IEEA)
+
+5-401. Application for IEEA. The following form must be filed in duplicate:
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ACCESS TO PUBLIC BUILDINGS BY PERSONS WITH DISABILITIES
+APPLICATION FOR IEAA FORM (Filed in Duplicate)
+1.
+ProductName: -------------
+
+
+2.
+Description of Product:___________ Expiration Date: __________
+
+3.
+Intended Product Use: ___________
+
+4.
+CompanyName: ______________
+
+5.
+Company Address: _____________
+
+6.
+Contact Person: ______________ Title:-----------------
+
+Contact Person's Phone Number: ________
+Contact Person's Fax Number: _________
+
+
+7.
+Name of Applicant: _____________
+
+
+8.
+Signature of Applicant: ___________ Date: _____________
+
+9.
+Application Fee Submitted: __________
+
+
+
+Please make checks payable to Division ofthe State Architect, Access Compliance
+New Submittal: $1,500.00 Revised Submittal: $500.00
+Fees shown are for initial application. Additonal time expended during product review in excess ofthe initial fee will be billed on an hourly basis.
+10. Return application, check and submittal to: Division of the State Architect-Access Compliance 1102 QStreet, Suite 5100 Sacramento, CA 95811
+
+
+HISTORY NOTE APPENDIX FOR CHAPTER 5
+Administrative Regulations for the Division of the State Architect, Access Compliance (Title 24, Part 1, California Code of Regulations)
+The format of the history notes has been changed to be consistent with the other parts of the California Building Standards Code. The history notes for prior changes remain within the text of this code.
+1.
+(DSA-AC 2/01) Adoption of detectable warning products and standards, Chapter 5, Articles 2, 3 and 4. Approved by the California Building Standards Commission on November 28, 2001. Filed with the Secretary of State on March 1, 2002, effective April 2, 2002.
+
+2.
+(DSA-AC 05/04) Changes without regulatory effect to addresses in Section 5-103 and an acronym in Section 5-202. Filed with Secretary of State on June 28, 2006 and effective 30th day after filing with Secretary of State.
+
+3.
+(DSA-AC 03/06) Repeal ofduplicate provisions and editorial and formatting amendments to administrative standards for implementing facility access in conformance with California Law and federally recognized accessibility standards. Effective January 1, 2008.
+
+4.
+(DSA-AC 04/09) Revisions to Section 5-104, Fees, by State and Consumer Services Agency on behalf of the Division of State Architect-Access Compliance. Effective February 13, 2010.
+
+5.
+(DSA-AC 02112) Amend Chapter 5, Section 5-104 and 5-106. Approved by the California Building Standards Commission on January 23, 2013, filed with the Secretary of State on January 28, 2013, and effective 30 days after filing with Secretary of State.
+
+
+2013 CALIFORNIA ADMINISTRATIVE CODE

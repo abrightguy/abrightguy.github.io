@@ -1,0 +1,2428 @@
+CHAPTER 35 -REFERENCED STANDARDS
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+Adopting agency
+Adopt entire chapter Adopt entire chapter as amended (amended sections listed below) Adopt only those sections that are listed below
+Chapter/Section
+AAMA 50 1.4-09 AAMA 50 1.6-09
+ACI
+AF& PA
+AISC
+A/Sf
+
+0
+A lTC X X ANSI X ANS/-83.4. 1 X ANS//SD/-C-20 12 X X X ASCE/SEI X X ASM E X ASME A17.1/CSA 844-07 X X ASME A 17. 1A/CSA 844A-08 X ASME A 18. 1-2008 X ASME BPE-2009 X ASTM X X
+ASTMC 114-10 X X ASTM C 1157/C 1157M-11 X X ASTM C 1240-11 X X ASTM C 1249-06a (201 1) X X ASTM C 1260-07 X X ASTM C 1293-0Bb X X
+ASTM C 1392-00 (2009)
+ASTM C 1394-03 (2008)
+ASTM C 1401-09a
+ASTM D 1586-11
+ASTM D 3441-05
+
+()
+ASTM D 3966-07
+ASTM E 648-04
+
+ASTM E 662-09 ASTM F 1292-99 ASTM F 1292-04 ASTM F 1487-01 ASTM F 1951-99 AWPA
+AWS BHMA
+BHMA A156. 10-2011
+BHMA A 156. 19-2007
+CPSC
+FEMA 352-00 FM 1950-10
+FM 3260-00
+
+HCD DSA OSHPD BSC SFM BSCC DPH AGR DWR CA SL SLC 1 2 1/AC AC ss SS/CC 1 2 3 4
+X X X X X
+X X X X X X
+X
+
+X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X X X X X X X
+X X X X X
+(continued)
+
+
+2013 CALIFORNIA BUILDING CODE JULY 1, 2015 SUPPLEMENT 61 3
+BLUE
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE CHAPTER 35 -REFERENCED STANDARDS-continued
+HCD DSA OSHPD
+Adopting agency BSC SFM BSCC DHS AGR DWR CEC CA SL SLC
+1 2 1/AC AC ss SS/CC 1 2 3 4
+
+Adopt entire chapter X 	X X X X
+Adopt entire chapter as
+amended (amended sections X X X X X X
+listed below)
+
+Adopt only those sections
+X
+
+that are listed below
+/)
+
+Chapter I Section
+FM301 1-99 X
+
+II 	FM4430-12 X FM4430-80 X ICC X X ICC ES AC 331 X
+/)
+
+/CC ES AC 77 X
+150 900 1-08 X X
+ISO 17025-05 X X
+NFPA X X X
+NFPA 11-13 X
+NFPA 13-13 X
+NFPA 130-13 X
+NFPA 13R-13 X
+NFPA 14-13 X
+NFPA 15-12 X
+NFPA 17-13 X
+NFPA 17A-13 X
+NFPA 20-13 X
+NFPA 22-13 X
+NFPA 24-13 X
+NFPA 31-1 1 X
+
+NFPA 37-10
+NFPA 52-13 X
+NFPA 54-12 X
+NFPA 61-13 X
+NFPA 72-1 3 X X
+NFPA 92-1 2 X
+
+II 	NFPA 99-1 2 X NFPA211-13 X NFPA 259-13 X NFPA275-13 X NFPA285-13 X NFPA 288-13 X NFPA289-13 X NFPA 409-13 X
+II 	NFPA 502-14 X NFPA 654-13 X NFPA 703-13 X NFPA 720-12 X X X NFPA 1124-13 X NFPA 2001 -12 X PCI X X PTI X X SFM 12-3 X SFM 12-7-3 X SFM 12-7A-1 X
+(continued)
+
+61 4 	JULY 1, 201 5 SUPPLEMENT 201 3 CALIFORNIA BUILDING CODE
+BLUE
+
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE
+CHAPTER 35 -REFERENCED STANDARDS
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+HCD DSA OSHPD Adopting agency BSC SFM BSCC DPH AGR DWR CA SL SLC1 2 1/AC AC ss SS/CC 1 2 3 4
+Adopt entire chapter X X X X X
+Adopt entire chapter as amended (amended sections X X X X X X listed below)
+Adopt only those sections that
+X
+are listed below
+Chapter/Section
+
+AAMA 501.4-09 X X AAMA 501.6-09 X X ACI X X AF&PA X X AISC X X A/Sf X X
+A lTC X X ANSI X ANS/-53.4. 1 X ANS//SD/-C-20 12 X X X ASCE/SEI X X ASME X ASME A17.1/CSA 844-07 X X ASME A17.1AICSA B44A-08 X ASME A 18. 1-2008 X ASME BPE-2009 X ASTM X X ASTMC 114-10 X X ASTM C 1157/C 1157M-11 X X ASTM C 1240-11 X X
+ASTM C 1249-06a (2011) X X ASTM C 1260-07 X X ASTM C 1293-08b X X
+ASTM C 1392-00 (2009) X X ASTM C 1394-03 (2008) X X ASTM C 1401-09a X X ASTM D 1586-11 X X ASTM D 3441-05 X X ASTM D 3966-07 X X ASTM E 648-04 X ASTM E 662-09 X ASTM F 1292-99 X ASTM F 1292-04 X ASTM F 1487-01 X ASTM F 1951-99 X AWPA X X AWS X X BHMA X BHMA A156. 10-2011 X BHMA A 156. 19-2007 X
+CPSC
+FEMA 352-00  X  X
+FM 1950-10  X  X
+FM 3260-00  X
+
+(continued)
+201 3 CALIFORNIA BUILDING CODE JANUARY 1, 2014 ERRATA 61 3
+BUFF
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE
+CHAPTER 35 -REFERENCED STANDARDs-continued
+
+Adopting agency  BSC  SFM  1  HCD 2 1/AC  AC  DSA ss SS/CC  1  OSHPD 2 3  4  BSCC  DHS  AGR DWR  CEC  CA  SL  SLC
+Adopt entire chapter  X  X  X  X  X
+
+Adopt entire chapter as amended (amended sections X X X X X X listed below)
+Adopt only those sections
+X
+
+that are listed below Chapter I Section FM301 1-99 X FM4430-80 X ICC X X /CC ES AC 331 X /CCESAC 77 X /80 900 1 -08 X X ISO 17025-05 X X NFPA X X X NFPA 11-13 X NFPA 13-13 X NFPA 130-13 X NFPA 13R-13 X NFPA 14-13 X NFPA 15-12 X NFPA 17-13 X NFPA 17A-13 X NFPA 20-13 X
+)\,
+
+NFPA 22-13 X NFPA 24-13 X NFPA 31-11 X
+NFPA 37-10
+NFPA 52-13 X
+NFPA 54-12 X
+NFPA 61 -13 X
+NFPA 72-13 X X
+NFPA 92a-1 2 X
+NFPA 211-13 X
+NFPA 259-1 3 X
+NFPA 275-1 3 X
+NFPA285-1 3 X
+NFPA 288-1 3 X
+NFPA 289-1 3 X
+NFPA 409-1 3 X
+NFPA 654-13 X
+NFPA 703-1 3 X
+NFPA 720-1 2 X X X
+NFPA 1124-13 X
+NFPA 2001 -1 2 X PCI X X PTI X X SFM 12-3 X SFM 12-7-3 X SFM 12-7A-1 X
+(continued)
+
+614 JANUARY 1, 2014 ERRATA 2013 CALIFORNIA BUILDING CODE
+BUFF
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE
+CHAPTER 35 -REFERENCED STANDARDs-continued
+
+"-. .._ __ ....
+/
+Adopting agency BSC Adopt entire chapter X Adopt entire chapter as amended (amended sections listed below) Adopt only those sections that are listed below Chapter I Section SFM 12-7A-2 SFM 12-7A-3 SFM 12-7A-4 SFM 12-7A-4A SFM 12-7A-5 SFM 12-8-1 00 SFM 12-1 0-1 SFM 12-1 0-2 SFM 12-1 0-3 TMS UBC 15-2 UBC 15-3 UBC 15-4 UL 13-96 UL 38-99 UL 193-04 UL 199-95  SFM X X X X X X X X X X X X X X X X X X  1 X  HCD 2 X  DSA OSHPD 1/AC AC ss SS/CC 1 2 3 4 X X X X X X X X X X  BSCC DHS AGR DWR CEC  CA  SL  SLC
+UL 217-06  X
+UL 228-97  X
+UL 260-04  X
+UL 262-04  X
+UL 268A-98  X
+UL 31 2-04  X
+UL 346-05  X
+UL 464-03  X
+UL 497B-04  X
+UL 521 -99  X
+UL 539-00  X
+UL 632-00  X
+UL 753-04  X
+UL 81 3-96  X
+UL 864-03  X
+UL 2034  X  X  X
+UL 2075  X  X  X
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pur su ant to
+\__j\
+Section 1.11.
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+0
+
+0
+
+
+
+
+
+\
+2013 CALIFORNIA BUILDING CODE
+
+
+
+CHAPTER 35
+
+REFERENCED STANDARDS
+This chapter lists the standards that are referenced in various sections of this document. The standards are listed herein by the promulgating agency of the standard, the standard identification, the effective date and title, and the section or sections of this document that reference the standard. The application of the referenced standards shall be as specified in Chapter 1, Scope and Administration, Division 1, Sections 1.1.5 and 1.1.7, and in Chapter 1, Scope and Administration, Division II, Section 102.4.
+[DSA-SS, DSA-SS-CC & OSHPD 1 & 4] Reference to other chapters. In addition to the code sections referenced, the standards listed in this chapter are applicable to the respective code sections in Chapters 16A, 17A, IBA, 19A, 2/A, 22A and 34A.
+
+AA
+Aluminum Association
+1525 Wilson Boulevard, Suite 600
+Arlington, VA 22209
+
+
+Standard Referenced reference in code number Title section number
+
+
+
+
+
+
+
+
+216.1-07 Standard Method for Determining Fire Resistance of Concrete and Masonry Construction Assemblies .................. ..................... Table 720.1(2), 721.1
+318-1 1 Building Code Requirements for Structural Concrete ... 1604.3.2, 1614.3.1, 1614.4.1, 1704.3.1.3, Table 1704.3,
+1704.4.1, Table 1704.4, Table 1705A.2.I, 1705A.2.2.I.2, 1708. 2, 1808.8.2,
+Table 1808.8.2, 1808.8.5, 1808.8.6, I810A.3. I0.4, 1810.2.4.1, 1810.3.2.1.1,
+1810.3.2.1.2, 1810.3.8.3.1, 1810.3.8.3.3, 1810.3.9.4.2.1, 1810.3.9.4.2.2, 1810.3.11.1, 1901.2,
+1901.3, 1901.4, 1902.1, I903A, 1903.1, 1904.1, 1904.2, 1904.3, 1904.4.1, 1904.4.2, 1904.5,
+I905A, 1905.1.1, 1905.2, 1905.3, 1905.4, 1905.5, 1905.6.2, 1905.6.3, 1905.6.4, 1905.6.5,
+1905.7, 1905.8, 1905.9, 1905.10, 1905.11, 1905.12, 1905.13, 1906.1, 1906.2, 1906.3,
+1906.4, 1907.1, 1907.2, 1907.3, 1907:4, 1907.5, 1907.6, 1907.7.1, 1907.7.2, 1907.7.3, 1907.7.4,
+1907.7.5, 1907.7.6, 1907.8, 1907.9, 1907.10, 1907.11, 1907.12, 1907.13, 1908.1, 1908.1.1, 1908.1.2,
+1908.1.3, 1908.1.4, 1908.1.5, 1908.1.6, 1908.1.7, 1908.1.8, 1908.1.9, 1908.1.10, 1909.1,
+1909.3, 1909.4, 1909.5, 1909.6, 1912.1, I913A.5, I913A.7.2, I913.2, I913.3, 2108.3, 2205.3
+355.2-07 Qualification of Post-Installed Mechanical Anchors in Concrete & Commentary ...... ............ 6I6A.I.I9
+
+
+440.2R-08 Guide for the Design and Construction of Externally Bonded FRP Systems for Strengthening Concrete Structures ............................................. .. ..... I9I4A.3
+503.7---07 Specification for Crack Repair by Epoxy Injection ............................................ I9I4A.2
+
+ADM l-05 ASM 35-00
+AAMA
+Standard reference number
+
+Aluminum Design Manual: Part 1-A Specification for Aluminum Structures,
+Allowable Stress Design; and Part 1-B-Aluminum Structures, Load and
+Resistance Factor Design ...................... .................. .......... ..... 1604.3.5, 2002.1
+
+Aluminum Sheet Metal Work in Building Construction (Fourth Edition) ............... ............ 2002.1
+
+
+American Architectural Manufacturers Association 1827 Waldon Office Square, Suite 550
+
+Referenced in code Title section number
+1402-86
+AAMAIWDMA/CSA
+10 1/I.S.2/ A440-08
+50I.4-09
+50I.6-09
+
+Standard Specifications for Aluminum Siding, Soffit and Fascia ................................ 1404.5.1
+
+North American Fenestration Standard/Specifications for Windows, Doors and Skylights . .... 1715.5.1, 2405.5
+Recommended Static Test Method for Evaluating Curtain Wall and Storefront Systems
+Subjected to Seismic and Wind Induced Interstory Drifts ...................................... 24IO.I Recommended Dynamic Test Method for Determining the Seismic Drift Causing
+Glass Fallout from a Wall ......................... ...................................... 2410.I
+
+
+ACI
+Standard reference number
+American Concrete Institute
+
+Referenced in code Title
+section number
+
+
+
+
+
+
+
+
+ACI-continued
+
+
+505  Guide to Shotcrete ............... ............ ........ 1913.4.5, 1910A.1, 1910A.3, 1910A.12, 1914A.2
+530-1 1  Building Code Requirements for Masonry Structures ............ 1405.5, 1405.5.2, 1405.9, 1604.3.4, 1704.5,
+1704.5.1, Table 1704.5.1, 1704.5.2, 1704.5.3, Table 1704.5.3, 1807.1.6.3.2,
+1808.9, 2101.2.2, 2101.2.3, 2101.2.4, 2101.2.5, 2101.2.6, 2103.1.3.6, 2106.1,
+2107.1, 2107.2, 2107.3, 2107.4, 2107.5, 2108.1, 2108.2, 2108.3,
+2109.1, 2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110. 1, 2114.10, 2114.11
+530.1--08  Specifications for Masonry Structures ......... 1405.5.1, Table 1704.5.1, Table 1704.5.3, 1807.1.6.3, 2103.8,
+2103.11, 2103.12, 2103.13, 2104.1, 2104.1.1, 2104.1.2, 2104.1.3,
+2104.2, 2104.3, 2104.4, 2105.2.2.1.1, 2105.2.2.1.2, 2105.2.2.1.3
+
+
+American Forest & Paper Association
+1111 19th St, NW Suite 800
+
+AF&PA
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+
+
+WCD No. 4-89 Wood Construction Data-Plank and Beam Framing for Residential Buildings ................. ... 2306.1.2
+WFCM-01 Wood Frame Construction Manual for One-and Two-family Dwellings ......... ...... 1609.1.1, 1609.1.1.1,
+
+2301.2, 2308.1, 2308.2.1 NDS-2012 National Design Specification (NDS) for Wood Construction with
+2012 Supplement and addendum .................................. 1905A.1.21, 721.6.3.2, 1716.1.1,
+
+1716.1.4, 1809.12, 1810.3.2.4, Table 1810.3.2.6, 2302.1, 2304.12, 2306.1,
+Table 2306.2.1(1), Table 2306.2.1(2), Table 2306.3, Table 2306.6, 2307.1, 2307.1.1 AF&PA-93 Span Tables for Joists and Rafters .............................. 2306.1.1, 2308.8, 2308.10.2, 2308.10.3 ANSIIAF&PA PWF---07 Permanent Wood Foundation Design Specification ......................... 1805.2, 1807.1.4, 2304.9.5.2 ANSIIAF&PA SDPWS---08 Special Design Provisions for Wind and Seismic .... . 1613.6.1, 2305.1, 2306.1, 2306.2.1, 2306.2.2, 2306.2.3,
+2306.3, Table 2306.3, 2306.4, 2306.5, 2306.6, 2306.7, Table 2306.7, 2307.1, 2307.1.1
+
+American Institute of Steel Construction
+One East Wacker Drive, Suite 700 Chicago, IL 60601-18021
+
+AISC
+Standard Referenced reference in code number Title section number
+341-10 Seismic Provisions for Structural Steel Buildings, including Supplement No. 1 dated 2005 ......... 1613.6.2, 1705A.2.1, 1707.2,2, 1708.3, 2212.2, 2205A, 2205.2.1, 2205.2.2, 2205.3, 2205.3.1, 2206A 358-10 Prequalified Connections for Special and Intermediate Steel Moment Frames for Seismic Applications including Supplement No. 1 ................... 2205A, 2206A.2, 2212.3, 3413A
+360-10 Specification for Structural Steel Buildings ................... 1604.3.3, Table 1704.3, 1704.3.3, 1705A.2.1,
+Table 1705A.2.1, 2203.1, 2203.2, 2204A.2.2, 2205.1, 2205.3,
+2206A.2, 2212.1.1, 2212.3, 2212A.l.2. 2212A.2.1
+
+American Iron and Steel Institute
+1140 Connecticut Avenue, 705 Suite 705 Washington, DC 20036
+
+AISI
+
+201 3 CALIFORNIA BUILDING CODE
+
+C)
+
+AITC
+Standard reference number
+AITC Technical Note 7-96 AITC 104---03 AITC 110-01
+AJTC 111---05
+AITC 113---01 AITC 117-10 AITC 119-96 AITC 200---04
+AJTC 404--05
+ANSJIAITC A 190.1---07
+
+REFERENCED STANDARDS
+American Institute of Timber Construction Suite 140 7012 S. Revere Parkway Englewood, CO 80112
+
+Referenced in code Title section number
+Calculation of Fire Resistance of Glued Laminated Timbers ......................... .' .................... 721.6.3.3 1YIJical Construction Details . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .......... 2306.1 Standard Appearance Grades for Structural Glued Laminated Timber ........................... . ............ 2306.1 Recommended Practice for Protection of Structural Glued Laminated Timber
+During Transit, Storage and Erection ....................................................... . ..... 2303. 1.3. 1
+Standard for Dimensions of Structural Glued Laminated Timber .................... ........................ 2306.1
+Standard Specifications for Structural Glued Laminated Timber of Softwood Species ................ .. 2303.1.3.1, 2306. 1
+Stan Specifications for Structural Glued Laminated Timber of Hardwood Species ............... ... ......... 2306. 1
+Manufacturing Quality Control Systems Manual for Structural Glued Laminated Timber ................ ......... 2306.1
+Standard for Radially Reinforcing Curved Glued Laminate Timber Members to Resist Radial Tension ........... 2303. 1.3.1
+Structural Glued Laminated Timber .................................................. 1705A.5.4, 2303.1.3, 2306.1
+
+
+Automotive Lift Institute
+P.O. Box 85
+ALI Courtland, NY 13045
+
+
+
+Standard Referenced reference in code number Title section number
+AU ALCTV-2006 Standard for Automobile Lifts-Safety Requirements for Construction, Testing and Validation (ANSI) ............. 3001.2
+
+American National Standards Institute
+25 West 43rd Street, Fourth Floor
+
+ANSI New York, NY 10036
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+A13. 1-96 (Reaffirmed 2002) Scheme for the Identification of Piping Systems ....................................................... 415.8.6.4 A108.1A-99 Installation of Ceramic Tile in the Wet-set Method, with Portland Cement Mortar ................. . ...... ..... 2103.10 A108.1B-99 Installation of Ceramic Tile, quarry Tile on a Cured Portland Cement Mortar Setting Bed with Dry-set or Latex-portland Mortar ..................................................... ... .......... 2103.10 A108.4--99 Installation of Ceramic Tile with Organic Adhesives or Water-cleanable Tile-setting Epoxy Adhesive ............ 2103.10.6 A108.5-99 Installation of Ceramic Tile with Dry-set Portland Cement Mortar or Latex-portland Cement Mortar .... 2103.10.1, 2103.10.2 A108.6--99 Installation of Ceramic Tile with Chemical-resistant,Water Cleanable Tile-setting and -grouting Epoxy ........... 2103.10.3 A108.8-99 Installation of Ceramic Tile with Chemical-resistant Furan Resin Mortar and Grout ............... .. ... ...... 2103.10.4
+A108.9-99 Installation of Ceramic Tile with Modified Epoxy Emulsion Mortar/Grout. ................................. 2103.10.5 A108.10-99 Installation of Grout in Tilework ................................................................... 2103.10.7 A118.1-99 American National Standard Specifications for Dry-set Portland Cement Mortar ............................. 2103.10.1 Al1 8.3-99 American National Standard Specifications for Chemical-resistant, Water-cleanable Tile-setting and
+-grouting Epoxy and Water Cleanable Tile-setting Epoxy Adhesive ..................................... 2103.10.3 A118.4--99 American National Standard Specifications for Latex-portland Cement Mortar .............................. 2103.10.2 A118.5-99 American National Standard Specifications for Chemical Resistant Furan Mortar and Grouts for Tile Installation ... 2103.10.4 A118.6--99 y.mencan National Standard Specifications for Cement Grouts for Tile Installation .................... ....... 2103.10.7
+/
+
+A118.8-99 American National Standard Specifications for Modified Epoxy Emulsion Mortar/Grout ...................... 2103.10.5
+A136.1-99 American National Standard Specifications for Organic Adhesives for Installation of Ceramic Tile .............. 2103.10.6
+A137. 1-88 / American National Standard Specifications for Ceramic Tile ............................. .......... ........ 2103.5
+A208.1-99 Particleboard .......................................................................... 2303.1.7, 2303.1.7.1
+
+/
+
+'I
+S3.41 / American National Standard Specifications for Audible Emergency Evacuation Signal ............... ........ 907.5.2.1.3 z 97.1---09 Safety Glazing Materials Used in Buildings-Safety Performance Specifications and Methods of Test. ............ ................ 2406.1.2, 2406.2, Table 2406.2(2), 2406.3.1, 2407.1, 2407.1.4.1, 2408.2.1, 2408.3, 2409.1, 2409.2, 2409.3.1
+2013 CALIFORNIA BUILDING CODE
+
+APA -Engineered Wood Association 701 1 South 19th APA Tacoma, WA 98466
+Standard Referenced reference in code number Title section number
+APAPDS-04 Panel Design Specification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .... 2306.1
+APA PDS Supplement 1-90 Design and Fabrication of Plywood Curved Panels (revised 1995) .................................... ....... 2306.1 APA PDS /
+Supplement 2-92 Design and Fabrication of Plywood-lumber Beams (revised 1998) ..................................... ...... 2306.1
+
+APA PDS Supplement 3-90 Design and Fabrication of Plywood Stressed-skin Panels (revised 1996) ...................................... 2306.1 APA PDS
+
+
+Supplement 4-90
+Design and Fabrication of Plywood Sandwich Panels (revised 1993) ..................................
+....... 2306.1 APA PDS Supplement 5-95 Design and Fabrication of All-plywood Beams (revised 1995) .............................................. 2306.1
+CJ
+
+EWSR540-02 Builders Tips: Proper Storage and Handling of Glulam Beams ........................................ ...... 2306.1
+EWS S475-01 Glued Laminated Beam Design Tables ... _. ....
+... ....... ...... ........... .................. ..... ...... 2306.1
+EWSS560-03 Field Notching and Drilling of Glued Laminated Timber Beams ............................................ 2306.1
+EWST300-05 Glulam Connection Details .......................................................................... 2306.1
+EWS X440-03 Product Guide--Glulam ............................................................................2306.1
+EWSX450-01 Glulam in Residential Construction-Western Edition .............................................. ...... 2306.1
+
+The Association of Pool & Spa Professionals 2111 Eisenhower Avenue
+
+APSP Alexandria, VA 22314
+Standard
+Referenced reference in code number Title section number
+ANSI/APSP 7-06 Standard for Suction Entrapment Avoidance in Swinnuing Pools, Wading Pools, Spas, Hot Tubs and Catch Basins .... 3109.5
+()
+
+American Society of Agricultural and Biological Engineers
+2950 Niles Road
+
+AS ABE St. Joseph, MI 49085
+
+
+
+Standard  Referenced
+reference  in code
+number  Title  section nUm.ber
+
+EP 484.2 (2003) Diaphragm Design of Metal-clad, Post-frame Rectangular Buildings ................................... ...... 2306.1
+EP 486.1 (2000) Shallow-post Foundation Design
+.............................................................. ....... 2306.1
+EP 559 (1997) Design Requirements and Bending Properties for Mechanically Laminated Columns . : .......................... 2306.1
+
+
+American Society of Civil Engineers
+Structural Engineering Institute
+
+0
+1801 Alexander Bell Drive
+Reston, VA 20191-4400
+
+ASCE/SEI
+Standard Referenced reference in code number Title section number
+3-91
+Structural Design of Composite Slabs ........................................................ 1604.3.3, 2209.2.1
+5-11 Building Code Requirements for Masonry Structures ............................. 1405.6, 1405.6.2, 1405.10, 1604.3.4,
+
+�
+CJ
+
+1704.5, 1704.5.1, Table 1704.5.1, 1704.5.2, 1704.5.3,
+Table 1704.5.3, 1807.1.6.3.2, 1808.9, 2101 .2.2, 2101.2.3,
+2101.2.4, 2101.2.5, 2101.2.6, 2103.1.3.6, 2106.1,
+2107.1, 2107.2, 2107.3, 2107.4, 2107.5, 2108.1, 2108.2, 2108.3,
+2109.1, 2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110.1, 2114.10, 2114.11
+
+6-08
+Specification for Masonry Structures ...... ......... 1405.6.1, Table 1704.5.1, Table 1704.5.3, 1807.1.6.3, 2103.8, 2103.11,
+2103.12, 2103.13, 2104.1, 2104.1.1, 2104.1.2, 2104.1.3, 2104.2,
+2104.3, 2104.4, 2105.2.2.1.1, 2105.2.2.1 .2, 2105.2.2.1.3
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+REFERENCED STANDARDS
+
+1-10
+0
+()
+8-02 19-10 24--{)5 29-05 32-01
+41-06
+
+ASCE-continued
+Minimum Design Loads for Buildings and Other Structures including Supplements No. 1 and 2, excluding Chapter 14 and Appendix llA ............... 104.11, 202, Table 1504.8, 1509.7.1, 1602.1, 1604.3, 1604.8.2, 1604.10, 1605.1, 1605.2.2, 1605.3.1.2, 1605.3.2,1607.11.1, 1608.1, 1608.2, 1609.1.1, 1609.1.1.2.1, 1609.1.1.2.2, 1609.1.2, 1609.3, 1609.4.4, 1609.5.1, 1609.5.3, 1609.6, 1609.6.1, 1609.6.1.1, 1609.6.2, Table 1609.6.2(2), 1609.6.3, 1609.6.4.1, 1609.6.4.2, 1611.2, 1612.2, 1612.4, 1613.1, 1613.2, Table 1613.5.3(1), Table 1613.5.3(2), 1613.5.6, 1613.5.6.1, 1613.5.6.2, 1613.6, 1613.6.1, 1613.6.2, 1613.6.3, 1613.6.4, 1613.6.5, 1613.6.6, 1613.6.7, l6l3.1,1603A.21613A, 1616A, 16i6.9,1616.10, 1702.1, 1705.3.4, 1708.1, 1708.5, 1803A.6, 1808.3.1, 1810.3.6.1, 1810.3.9.4, 1810.3.11.2, 1810.3.12, 1905A.1.21, 1908.1.1, 1908.1.2, 1908.1.9, 1913.3.8, 2114A.1, 2114. 13, 2205.2.1, 2205.3, 2205.3.1, 2208.1, 2210A.2, 2212A.2.4, Table 2304.6.1, Table 2306.7, Table 2308.10.1, 2404.1, 2410.1.1, 2410.1.2, 2505.1, 2505.2, 3404.4, 3404.5, 3419. 7.2 Standard Specification for the Design of Cold-formed Stainless Steel Structural Members ........... ..... 1604.3.3, 2209.1 Structural Applications of Steel Cables for Buildings ......................................... ...... 2207.1, 2207.2 Flood Resistant Design and Construction ..................... 1203.3.2, 1612.4, 1612.5, 3001.2, Gl03.1, G401.3, G401.4 Standard Calculation Methods for Structural Fire Protection ......................................... ........ 721.1 Design and Construction of Frost Protected Shallow Foundations ................................... ........ 1809.5
+
+
+Seismic Rehabilitation of Existing Buildings including Supplement No. 1. ...... 1603A.2, 1616A.1.30, 3401.5, 3412A, 3413A, 3417.5, 3417.8, 3418.1, 3419.1, 3419.2, 3419.5, 3419.7.2, 3419.8, 3419.9, 3420.1, 3421.2.2, 3412A, 3413A
+American Society of Mechanical Engineers Three Park Avenue
+ASME New York, NY 10016-5990
+
+
+Standard Referenced reference in code number Title section number
+
+A17.1/CSA B44-2007 Safety Code for Elevators and Escalators ................. 907.3.3, 911.1.5, 1007.4, llB-407.1, llB-407.2.2, llB-407.4.9, (with A17.1a/CSA B44a-08 addenda) llB-408.1, llB-409.1, llB-410.1, llB-810.9, 1607.8.1, 1607.9.1, 1613.6.5, 3001.2, 3001.4, 3002.5, 3003.2, 3007.1, 3007.2, 3008.2, 3008.2.1, 3008.7.6, 3008.8.1, 3411.8.2 A18.1-2008 Safety Standard for Platform Lifts and Stairway Chairlifts ........................................ 2702.2.6, 3411.8.3 A90.1-03 Safety Standard for Belt Manlifts ..................................................................... 3001.2 B16.18-2001 (Reaffirmed 2005) Cast Copper Alloy Solder Joint Pressure Fittings ....................................................... 909.13.1 B16.22-2001 (Reaffirined 2005) Wrought Copper and Copper Alloy Solder Joint Pressure Fittings .......................................... 909.13.1 B20.1-2006 Safety Standard for Conveyors and Related Equipment ............................................. 3001.2, 3005.3
+BPE-2009 Bio-processing Equipment Standard
+
+B31.3-2004 Process Piping ....................................................................... ........... 415.8.6.1
+
+
+
+
+
+
+A 36/A 36M-05 A 153/A 153M-05
+A227-06 (2011) A229-12
+A 240/A 240M-07
+A 252-98 (2002) A 283/A 283M-03 A307-04e01
+A370-10
+A 416/A 416M-06 A 463/A 463M-05 A 572/A 572M-07 A 588/A 588M-05
+A 615/A 615M-04a A 653/A 653M-07 ASTM International
+
+100 Barr Harbor Drive ASTM West Conshohocken, PA 19428-2959
+
+
+Standard Referenced reference in code number Title section number
+
+
+
+Specification for Carbon Structural Steel ............................................................ 1810.3.2.3
+Specification for Zinc Coating (Hot-dip) on Iron and Steel Hardware .............. .................... 2304, 2304.9.5
+Standard Specification for Steel Wire, Cold-Drawn for Mechanical Springs ............�..................... 1211.1.1
+Standard Specification for Steel Wire, Quenched and Tempered for Mechanical Springs ........................1211.1.1
+
+Standard Specification for Chromium and Chromium-nickel Stainless Steel Plate,
+Sheet and Strip for Pressure Vessels and for General Applications ............................ .... Table 1507.4.3(1)
+Specification for Welded and Seamless Steel Pipe Piles ................................................ 1810.3.2.3
+Specification for Low and Intermediate Tensile Strength Carbon Steel Plates ......... ....... ..... . .........
+1810.3.2.3
+Specification for Carbon Steel Bolts and Studs, 60,000 psi Tensile Strength ........ , ............. ............. 1911.1
+
+Standard Test Methods and Definitions for Mechanical Testing of Steel Products ...................... ....... 3413A.1.3
+
+Specification for Steel Strand, Uncoated Seven-wire for Prestressed Concrete ............................... 1810.3.2.2 Standard Specification for Steel Sheet, Aluminum-coated, by the Hot-dip Process ............. ..... .... Table 1507.4.3(2) Specification for High-strength Low-alloy Columbium-vanadium StrUctural Steel ........... ...... .. ........ 1810.3.2.3 Specification for High-strength Low-alloy Structural Steel with 50 ksi (345 MPa) Minimum Yield Point to 4 inches (100 mm)Thick ........................................ .......... 1810.3.2.3 Specification for Deformed and Plain Billet-steel Bars for Concrete Reinforcement ................... 1708.2, 1810.3.10.2 Specification for Steel Sheet, Zinc-coated Galvanized or Zinc-iron Alloy-coated Galvannealed by the Hot-dip Process .............................. Table 1507.4.3(1), Table 1507.4.3(2), 2304.9.5.1
+201 3 CALIFORNIA BUILDING CODE
+
+
+A 690/A 690M-07
+A 706/A 706M-05a
+A 722/A 722M-07 A 755/A 755M-03
+A 792/A 792M-06a
+A 875/A 875M-06 A 913/A 913M---04
+A 924/A 924M-07
+A 992/A 992M-06a B 42---02e01 B 43-98 (2004) B 68---02 B 88---03 B 101---02
+B 209---06 B 25 1---02e01 B280-03 B370-03
+B 695---04 C5---03 C 22/C 22M-OO (2005)e01 c 27-98 (2002) C 28/C 28M-OO (2005) C 31/C 31M-06 c 33---03 C34-03 c 35---01 (2005) C 36/C 36M-03 C 37/C 37M-01 C 55---06e01 C56---05 C 59/C 59M-OO (2006) C 61/C 61M-OO (2006) C62-05 C67-07 C73-05 C79---04a C90-06b C91-05 C 94/C 94M-07
+c 114--10 c 126-99 (2005) c 140--07 c 144-04 c 150--07 c 172---04 c 199-84 (2005) c 206---03 c 208-95 (2001) c 212--00 (2006) c 216---07 C270-08a
+C289-07
+
+
+ASTM--continued
+
+Standard Specification for High-strength Low-alloy Nickel, Copper, Phosphorus Steel H-piles and Sheet Piling with Atmospheric Corrosion Resistance for Use in Marine Environments ................... ... 1810.3.2.3 Specification for Low-alloy Steel Deformed and Plain Bars for Concrete Reinforcement ................................................ Thble 1704.3, 1704.4.1, 2107.4,2108.3 Specification for Uncoated High-strength Steel Bar for Prestressing Concrete ............. 1810.3.10.2, JI06.2.4.2, 1811A.4 Specification for Steel Sheet, Metallic-coated by the Hot-dip Process and Prepainted by the Coil-coating Process for Exterior Exposed Building Products ..................... Table 1507.4.3(1), Thble 1507.4.3(2) Specification for Steel Sheet, 55% Aluminum-zinc Alloy-coated by the
+
+(J
+
+
+Hot-dip Process ......................................................... Table 1507.4.3(1), Table 1507.4.3(2) Standard Specification for Steel Sheet Zinc-5 percent, Aluminum Alloy-coated by the Hot-dip Process ..... Table 1507.4.3(2) Specification for High-strength Low-alloy Steel Shapes of Structural Quality, Produced by Quenching and Self-tempering Process (QST) ........................................ ... 1810.3.2.3 Standard Specification for General Requirements for Steel Sheet, Metallic-coated by the Hot-dip Process ...................................................... Table 1507.4.3(1) Standard Specification for Structural Shapes ..........................�........................... . .. 18 10.3.2.3
+()
+
+Specification for Seamless Copper Pipe, Standard Sizes .............................................. ... 909.13.1
+Specification for Seamless Red Brass Pipe, Standard Sizes .......................................... ... .. 909.13.1
+Specification for Seamless Copper Thbe, Bright Annealed (Metric)
+................................... .. ... 909.13.1
+Specification for Seamless Copper Water Thbe .................................................... . . ... 909.13.1
+Specification for Lead-coated Copper Sheet and Strip for Building Construction ......................... Table 1404.5.3,
+Table 1507.2.9.2, Table 1507.4.3(1)
+Specification for Aluminum and Aluminum Alloy Steel and Plate .................................. Table 1507.4.3(1)
+Specification for General Requirements for Wrought Seamless Copper and Copper-alloy Thbe ............ ... .... 909.13.1
+Specification for Seamless Copper Thbe for Air Conditioning and Refrigeration Field Service ............ ... .... 909.13.1
+Specification for Cold-rolled Copper Sheet and
+Strip for Building Construction ..................................... 1404.5.2, Thble 1507.2.9.2, Thble 1507.4.3(1)
+Standard Specification for Coatings of Zinc Mechanically Deposited on Iron and Steel .... 2304.9.1.1, 2304.9.5.1, 2304.9.5.3
+Specification for Quicklime for Structural Purposes ................................................. Table 2507.2
+
+Specification for Gypsum ...................................................................... Table 2506.2
+
+Specification for Standard Classification of Fireclay and High-alumina Refractory Brick ................ ... ...... 2111.5
+
+0
+
+Specification for Gypsum Plasters ............................................................... Table 2507.2
+Practice for Making and Curing Concrete Test Specimens in the Field .................................. . Table 1704.4
+Specification for Concrete Aggregates .. ........................ ........................... 721.3.1.4, 721.4.1.1.3
+Specification for Structural Clay Load-bearing Wall Tile ............................................ ...... 2103.2
+Specification for Inorganic Aggregates for Use in Gypsum Plaster ...................................... Table 2507.2
+Specification for Gypsum Wallboard ............................... Figure 721.5.1(2), Figure 721.5.1(3), Table 2506.2
+Specification for Gypsum Lath .................................. .......... ................. ..... Thble 2507.2
+Specification for Concrete Building Brick ....................................... Table 721.3.2, 2103.1, 2105.2.2.1.2
+Specification for Structural Clay Nonload Bearing Tile ........... ......................................... 2103.2
+Specification for Gypsum Casting and Molding Plaster ............. .................................. Table 2507.2
+Specification for Gypsum� Keene's Cement ........................................................ Table 2507.2
+Specification for Building Brick (Solid Masonry Units Made from Clay or Shale) .......... 1807.1.6.3, 2103.2, 2105.2.2.1.1
+Test Methods of Sampling and Testing Brick and Structural Clay Tile ........................... 721.4.1.1.1, 2109.3.1.1
+Specification for Calcium Silicate Face Brick (Sand-lime Brick) ................................ Table 721.3.2, 2103.1
+Specification for Treated Core and Nontreated Core Gypsum Sheathing Board ................... ....... . . Table 2506.2
+Specification for Loadbearing Concrete Masonry Units .............................. Thble 721.3.2, 1807.1.6.3, 2103.1
+Specification for Masonry Cement. .......................................................... .... Table 2507.2
+Specification for Ready-mixed Concrete ...................................................... 110.3.1, 1705A.3.3
+Standard Test Methods for Chemical Analysis of Hydraulic Cement ............... ................ . 1903A.6, 1913.2.3
+
+
+
+Specification for Ceramic Glazed Structural Clay Facing Tile, Facing Brick and Solid Masonry Units ..... ... . ..... 2103.2 Test Method Sampling and Testing Concrete Masonry Units and Related Units .............. ........ ...... ... 721.3.1.2
+0
+
+Standard Specification for Aggregate for Masonry Mortar ....�...........................................2103A.8
+Specification for Portland Cement ............................................ 1903A, 1913A, 1913.2. Table 2507.2
+Practice for Sampling Freshly Mixed Concrete .............. , ...................................... Thble 1704.4
+Test Method for Pier Test for Refractory Mortars ....................... , .................. 2111.5, 21 11.8, 2113.12
+Specification for Finishing Hydrated Lime ..................... .................................... Thble 2507.2
+Specification for Cellulosic Fiber Insulating Board .......................................... Table 1508.2, 2303.1.5
+Specification for Structural Clay Facing Tile ................................................... .... ..... 2103.2
+Specification for Facing Brick (Solid Masonry Units Made from Clay or Shale) ........... 1807.1.6.3, 2103.2, 2105.2.2.1.1
+Specification for Mortar for Unit Masonry ....................................................... 2103.8, 2114.2
+Standard Test Method for Potential Alkali-Silica Reactivity of Aggregates ..�.�....................... 1903A.3, 1913.2.3
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+REFERENCED STANDARDS
+ASTM-continued
+c 315--07 Specification for Clay Flue Liners and Chimney Pots ............................... 2111.8, 2113.11, Table 2113.16(1)
+C 317/C 317M-OO (2005) Specification for Gypsum Concrete ................................................................... 1914.1
+C330-05 Specification for Lightweight Aggregates for StructUral Concrete . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ......... 721.1.1
+
+0
+C33 1-05 C406-06e01 C 442/C 442M-04 c 472-99 (2004)
+()
+C 473-06a
+C 474-05
+C475-05
+C503-05
+C5 14-04
+
+C5 16-02 C547-06 C549-06 C552-03 C557-03e01 C568-03 C578-07 C587-04 C 588/C 588M-01 C595-08a C6 15-03 C616-03
+
+
+C618a
+C629-03 C 630/C 630M-03 C 63 1-95a (2004) C 635/C 635M-07
+C 636/C 636M-08
+C645-07 C652-05a
+C728-05 C744-05 C754-04
+
+
+C836-06
+C840-07 C841-03 C842-05 c 843-99 (2006) C844-04 C847-06 C887-05 C897-05 C920-05 C 926-98a (2005)
+
+
+
+C 931/C 931M-04 C932-06 C933-05 c 946-91 (2001)
+Specification for Lightweight Aggregates for Concrete Masonry Umts ........................... 721.3.1.4, 721.4.1.1.3
+Specification for Roofing Slate ...... .... ...... ... ........ .. ............. ................. ....�..... 1507.7.5
+
+.
+
+Specification for Gypsum Backing Board and Coreboard and Gypsum Shaftliner Board ............. .... .... Table 2506.2
+Specification for Standard Test Methods for Physical Testing of Gypsum,
+Gypsum Plasters and Gypsum Concrete ................................................... ...... Table 2506.2
+Test Method for Physical Testing of Gypsum Panel Products .......................................... Table 2506.2
+Test Methods for Joint Treatment Materials for Gypsum Board Construction ................. ..... .. ...... Table 2506.2
+Specification for Joint Compound and Joint Tape for Finishing Gypsum Wallboard ................. ... .... Table 2506.2
+Specification for Marble Dimension Stone (Exterior) ..................................................... 2103.4
+Specification for Nails for the Application of Gypsum Board ................. .......... Table 720. 1 (2), Table 720.1(3),
+Table 2306.7, Table 2506.2
+Specifications for Vermiculite Loose Fill Thermal Insulation ........ ........................... 721.3.1.4, 721.4.1.1.3
+Specification for Mineral Fiber Pipe Insulation ....................................... Table 720.1(2), Table 720.1(3)
+Specification for Perlite Loose Fill Insulation ............................................... 721.3.1.4, 721.4.1.1.3
+Standard Specification for Cellular Glass Thermal Insulation .......................................... Table 1508.2
+Specification for Adhesives for Fastening Gypsum Wallboard to Wood Framing ................. .... ...... Table 2506.2
+Specification for Limestone Dimension Stone .................................................... ....... 2103.4
+Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation ........................ ........ Table 1508.2
+Specification for Gypsum Veneer Plaster ............................................... ..... ...... Table 2507.2
+Specification for Gypsum Base for Veneer Plasters ....................... ..................... .... .. Table 2507.2
+Specification for Blended Hydraulic Cements ................................ 1903A.6, 1913A.1, 1913.2, Table 2507.2
+Specification for Granite Dimension Stone ............................................................. 2103.4
+Specification for Quartz Dimension Stone .................................................... .......... 2103.4
+
+Standard Specification for Coal Fly Ash and Raw or Calcined Natural Pozzolanfor Use in Concrete ..................................................�.�... 1903A.3, 1913A.1, 1913.2
+
+Specification for Slate Dimension Stone ............................................................... 2103.4
+Specification for Water-resistant Gypsum Backing Board ............................................. Table 2506.2
+Specification for Bonding Compounds for Interior Gypsum Plastering ................................... Table 2507.2
+Specification for the Manufacture, Performance and Testing of Metal Suspension
+Systems for Acoustical Tile and Lay-in Panel Ceilings ............. 808.1.1,1616.10.16, 1616A.1.20, 2506.2.1, H107.1.1
+Practice for Installation of Metal Ceiling Suspension Systems
+for Acoustical Tile and Lay-in Panels ........................................... 808.1.1, 1616.10.16, 1616A.1.20
+Specification for Nonstructural Steel Framing Members ................................... Table 2506.2, Table 2507.2
+Specification for Hollow Brick (Hollow Masonry Units Made from Clay or Shale) ............. ..... ........ 1807.1.6.3,
+2103.2, 2105.2.2.1.1
+Standard Specification for Perlite Thermal Insulation Board ........................................... Table 1508.2
+Specification for Prefaced Concrete and Calcium Silicate Masonry Units ......................... Table 721.3.2, 2103.1
+Specification for Installation of Steel Framing Members to Receive Screw-attached
+Gypsum Panel Products ......................................................... Table 2508.1, Table 2511.1.1
+Specification for High-solids Content, Cold Liqnid-applied Elastomeric
+Waterproofing Membrane for Use with Separate Wearing Course ....................................... 1507.15.2
+Specification for Application and Finishing of Gypsum Board ................................... Table 2508.1, 2509.2
+Specification for Installation of Interior Lathing and Furring .............................. Table 2508.1, Table 2511.1.1
+Specification for Application of Interior Gypsum Plaster ............... ................ Table 251 1.1.1, 2511.3,2511.4
+Specification for Application of Gypsum Veneer Plaster ............................................ Table 2511.1.1
+Specification for Application of Gypsum Base to Receive Gypsum Veneer Plaster .................. ....... Table 2508.1
+
+Specification for Metal Lath .................................................................... Table 2507.2
+Specification for Packaged, Dry Combined Materials for Surface Bonding Mortar .................. .... 1805.2.2, 2103.9
+Specification for Aggregate for Job-mixed Portland Cement-based Plaster .................... ..... ....... Table 2507.2
+Standard for Specification for Elastomeric Joint Sealants ............................................. Table 2506.2
+Specification for Application of Portland Cement-based Plaster ... 2109.3.4.6, 2510.3, Table 2511.1.1, 2511.3, 2511.4, 2512.1,
+2512.1.2, 2512.2, 2512.6, 2512.8.2, 2512.9, 2513.7
+Specification for Exterior Gypsum Soffit Board ........................................... ... ....... Table 2506.2
+Specification for Surface-applied Bonding Compounds Agents for Exterior Plastering ........ .... ... ....... Table 2507.2
+Specification for Welded Wrre Lath .............................................................. Table 2507.2
+Specification for Practice for Construction of Dry-stacked, Surface-bonded Walls ............ ...... .... 2103.9, 2109.2.2
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+C954---04
+C955-06
+
+
+C956-04 C957-06
+C960---04
+C989-09
+c 1002-04
+c 1007-04
+c 1019-05 C 1029-05a c 1032-06 c 1047-05 c 1063-06
+C 1088-07a
+C 1157/C 1157M-11
+c 1167-03 C 1177/C 1177M-06 C 1178/C 1178M-06 c 11 86-07
+Cl240-11
+C 1249-06a(2010)
+
+Cl260-07
+
+c 1261-07 C 1278/C 1278M-06 c 1280---{)4 c 1283---07 c 1288---99 (2004) c 1289-07
+Cl293-08b
+c 1314---07 c 1325-04 c 1328---05 c 1386-07 c 1392-00(2009) c 1394-03(2008)
+C 1395/C 1395M-04 C 1396M---06a
+C 1401-09a
+c 1405---07 c 1492---03
+C1567-08
+c 1586-05
+C 1629/C 1629M---06
+C 1658/C 1658M-06 D 25---99 (2005) D 41---05 D 43-00 (2006) D56-05 D86-07a D93-07
+ASTM--continued
+
+Specification for Steel Drill Screws for the Application of Gypsum Panel Products or Metal Plaster Bases to Steel Studs from 0.033 inch (0.84 mm)to 0.112 inch (2.84 mm)in Thickness ............... Table 2506.2, Table 2507.2
+
+
+Standard Specification for Load-bearing Transverse and Axial Steel Studs, Runners Tracks, and Bracing or Bridging, for Screw Application of Gypsum Panel Products and Metal Plaster Bases ...................................... Thble 2506.2, Table 2507.2
+Specification for Installation of Cast-in-place Reinforced Gypsum Concrete .................. ........... ... ... 1914.1 Specification for High-solids Content, Cold Liquid-applied Elastomeric Waterproofing Membrane with Integral Wearing Surface .. ...... ....... ........ ..... ....... ....... . .. . 1507. 15.2
+
+0 Specification for Predecorated Gypsum Board ..................................................... . Table 2506.2 Standard Specification for Slag Cement for Use in Concrete and Mortars .. ... .. ... .... 1903A.5, 1903A.6, 1913A.1, 1913.2 Specification for Steel Self-piercing Thpping Screws for the Application of
+Gypsum Panel Products or Metal Plaster Bases to Wood Studs or Steel Studs ................ Table 2506.2, Table 2507.2 Specification for Installation of Load Bearing (Transverse and Axial) Steel Studs and Related Accessories ......................................................... Table 2508.1, Table 2511.1.1
+()Test Method of Sampling and Testing Grout .... .........2105.2.2.1.1, 2105.2.2.1.2, 2105.2.2.1.3, 2105.2.2.1.4, 2114.2.9.1 Specification for Spray-applied Rigid Cellular Polyurethane Thermal Insulation ....... .... ............ .... .. 1507. 14.2 Specification for Woven Wrre Plaster Base ......................................................... Table 2507.2 Specification for Accessories for Gypsum Wallboard and Gypsum Veneer Base ................ Thble 2506.2, Thble 2507.2 Specification for Installation of Lathing and Furring to Receive Interior and
+Exterior Portland Cement-based Plaster ..................... .. ........2109.3.4.6, 2510.3, Table 2511 .1.1, 2512.1.1
+Specification for Thin Veneer Brick Units Made from Clay or Shale ............. ................ Table 720.1(2), 2103.2
+ASTM Standard Performance Specification for Hydraulic Cement ... ....... ........ ...... ... ... ....1913A.1, 1913.2.5
+
+Specification for Clay Roof Tiles ... .. ......................................... .... .... .. ..... ....... 1507.3.4
+Specification for Glass Mat Gypsum Substrate for Use as Sheathing .................................... Table 2506.2
+Specification for Coated Mat Water-resistant Gypsum Backing Panel ............................. Table 2506.2, 2509.2
+Specification for Flat Nonasbestos Fiber Cement Sheets ............. ............ ...... ..... .. .... ........ 1404.10
+
+Standard Specification for Silica Fume Used in Cementitious Mixtures .. ......... ........................... 1903A.6 Standard Guide for Secondary Seal for Sealed 1nsu.lated Glass Units for Structural Sealant Glazing Applications .... ........... .... ........ .... .. .......... ... ....... .. ...... .........1903A.6, 2410.1
+0
+
+Standard Test Method for Potential Alkali Reactivity of Aggregates (Mortar-Bar Method) ...........�...1903A.6, 2410.1.1
+Specification for Firebox Brick for Residential Fireplaces .. ... .. ..... ... ... .............. ........... 2111.5, 2111.8
+Specification for Fiber-reinforced Gypsum Panels .............................................. ..... Table 2506.2
+Specification for Application of Gypsum Sheathing ........................................... Table 2508.1,2508.2
+Practice for Installing Clay Flue Liuing ..... ... ........ ............. ............ ............ ... ... .... 2113.12
+Standard Specification for Discrete Nonasbestos Fiber-cement Interior Substrate Sheets .. .. ...... ......... ... ...2509.2
+Standard Specification for Faced Rigid Cellular Polyisocyanurate Thermal Insulation Board .......... ... .... Thble 1508.2
+
+Standard Test Method for Determination of Length Change of Concrete Due to Alkali-Silica Reaction .....1903A.6, 1913.2.3
+Test Method for Compressive Strength of Masonry Prisms ..... ... ..... ....... 2105.2.2.2.2, 2105.3.1, 2105.3.2, 2114.9.1
+Standard Specification for Nonasbestos Fiber-mat Reinforced Cement Interior Substrate Sheets ...... ........... ..2509.2
+Specification for Plastic (Stucco Cement) ................. ....... .............. ............. ... .... Table 2507.2
+Specification for Precast Autoclaved Aerated Concrete (AAC) Wall Construction Units ........2102.1, 2103.3, 2105.2.2.1.3
+Standard Guide for Evaluating Failure of Structural Sealant Glazing .......
+........... ... ... ....... ... ..... 2410. 1.3
+Standard Guide for 1n-Situ Structural Silicone Glazing Evaluation ...........�............................. 2410.1.3
+
+Specification for Gypsum Ceiling Board .......................................................... Thble 2506.2
+
+0
+
+Specification for Gypsum Board ................ ......................... ........................ Table 2506.2
+
+Standard Guide for Structural Sealant Glazing .. ...... ............. ............................... ... .2410.1
+
+..
+Standard Specification for Glazed Brick (Single Fired, Solid Brick Units) .. .. .. ..... ... ............. ....
+
+...... 2103.2 Standard Specification for Concrete Roof Tile ........... ... .. .... ........ .................. .. ......... 1507.3.5
+Standard Test Method for Determining the Potential Alkali-Silica Reactivity ofthe Cementicious Materials and Aggregate (Accelerated Mortar-Bar Method) . .. ...... ........ ... 1903A. 6, 1913.2.3
+Standard Guide for Quality Assurance of Mortars ....�.....................................2105A.2.2.1.4, 2114.9.1
+
+
+
+Standard Classification for Abuse-resistant Nondecorated Interior Gypsum Panel
+Products. and Fiber-reinforced Cement Panels ... .... ......... ... ... ...... ... ..... ..403.2.3.1, 403.2.3.2, 403.2.3.4
+Standard Specification for Glass Mat Gypsum Panels .......... ......... ......... ...... ..... 1810.3.2.4, Table 2506.2
+Specification for Round Timber Piles . ... .... ... .... .. ........ .. ......... .. ....... ..... .......... ... 2303.1.11
+Specification for Asphalt Primer Used in Roofing, Dampproofing and Waterproofing .................... Table 1507.10.2
+Specification for Coal Tar Primer Used in Roofing, Dampproofing and Waterproofing .............. ...... Table 1507.10.2
+Test Method for Flash Point By Tag Closed Tester ........... ...... ... ... ................. ..... ........ ... 307.2
+Test Method for Distillation of Petroleum Products at Atmospheric Pressure ....... .. ...... .. .... ....... . ..... ..307.2
+Test Method for Flash Point By Pensky-Martens Closed Cup Tester . ... ... ..... ... .. ..... ....... ...... . .... ... 307.2
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+REFERENCED STANDARDS
+
+D 225---04 D 226-06
+D 227-03 D 312--00 (2006) D 422---63 (2002)e01 D 448_:__o3a D 45Q_:__o7 D 635_:__o6
+
+
+
+
+()
+D 1143/D 1143M_:__o7
+D 1227--95 (2007)
+D 1557_:__o2e01
+
+D1586-11
+D 1761_:__o6 D 1863_:__o5 D 1929-96 (2001)e01 D 197Q_:__o1
+
+(J
+D 2166-06 D 2178---04 D 2216-05 D 2487_:__o6 D2626---04 D 2822_:__o5 D 2823_:__o5
+D 2843-99 (2004)e01
+D 285Q_:__o3a
+D289.
+D 3019-94 (2007)
+
+D 3161_:__o6
+D 3200-74 (2005)
+
+D 3201 _:__o7
+D 3278-(2004)e01
+
+D3441-05
+D3462-07 D 3468-99 (2006)e01
+
+
+D 3679_:__o6a D 3689-90 (1995) D 3737_:__o7 D 3746-85 (2002) D 3747-79 (2007) D 3909-97b (2004)e01 D 3957_:__o6
+
+\,__) D3966-07
+D4022 D 4272_:__o3 D 43 1 s_:__o5 D443 D 4479_:__o7 D458 D 4601 _:__o4 D4637---04 D 4829_:__o7
+
+
+ASTM-continued
+Specification for Asphalt Shingles (Organic Felt) Surfaced with Mineral Granules ........... ...... . ... ....... 1507.2.5 Specification for Asphalt-saturated Organic Felt Used in Roofing and Waterproofing ........... 1404.2, 1507.2.3, 1507.3.3, 1507.5.3, 1507.6.3, 1507.7.3, Table 1507.8, 1507.8.3, 1507.9.3, 1507.9.5, Table 1507.10.2 Specification for Coal-tar-saturated Organic Felt Used in Roofing and Waterproofing .............. ... ... Table 1507.10.2 Specification for Asphalt Used in Roofing ...................................................... Table 1507.10.2 Test Method for Particle-size Analysis of Soils ......................................................... 1803.5.3 Standard Classification for Sizes of Aggregate for Road and Bridge Construction ................ ... 1507.12.3, 1507.13.3 Specification for Coal-tar Pitch Used in Roofing, Darnpproofing and Waterproofing ..................... Table 1507.10.2 Test Method for Rate of Burning and/or Extent and Time of Burning of Self-supporting Plastics in a Horizontal Position ............................................... 2606.4, Hl07.1.1 Test Method for Piles Under Static Axial Compressive Load ......................... , ................. 1810.3.3.1.2 Specification for Emulsified Asphalt Used as a Protective Coating for Roofing ................ Table 1507.10.2, 1507.15.2 Test Method for Laboratory Comaction Characteristics of Soil Using Modified Effort [56,000 ft-lb/ft (2,700 KN m/m3)] ����������������������������������������1704.7, 1804.5, J107.6
+Standard Test Method for Standard for Penetration Test (SPT) and Split-barrel Sampling of Soils ...... ........�... 1112.2
+
+Test Method for Mechanical Fasteners in Wood ........................................ 1716.1.1, 1716.1.2, 1716.1.3
+Specification for Mineral Aggregate Used on Built-up Roofs ........................ ........... ..... Table 1507.10.2
+Test Method for Determining Ignition Properties of Plastics ...................... 402.16.4, 406.5.3, 1407.11.2.1, 2606.4
+Specification for Self-adhering Polymer Modified Bitmninous Sheet Materials
+Used as Steep Roof Underlayment for Ice Darn Protection ............................ 1507 .2.4, 1507 .2.9.2, 1507.3.9,
+1507.5.7, 1507.8.8, 1507.9.9
+Test Method for Unconfined Compressive Strength of Cohesive Soil .............. ............... ......... . 1613.5.5
+Specification for Asphalt Glass Felt Used in Roofing and Waterproofing .............................. Table 1507.10.2
+Test Method for Laboratory Determination of Water (Moisture) Content of Soil and Rock by Mass ............... 1613.5.5
+Practice for Classification of Soils for Engineering Purposes (Unified Soil Classification System) ..... Table 1610.1, 1802.3.1
+Specification for Asphalt Saturated and Coated Organic Felt Base Sheet Used in Roofing ......... 1507.3.3, Table 1507.10.2
+Specification for Asphalt Roof Cement. ........................................................ Table 1507.10.2
+Specification for Asphalt Roof Coatings ................................... .................. ... Table 1507.10.2
+Test for Density of Smoke from the Burning or Decomposition of Plastics .................................... 2606.4
+Test Method for Unconsolidated, Undrained Triaxial Compression Test on Cohesive Soils ................ ...... 1613.5.5
+Test Methods for Accelerated Weathering of Fire-retardant-treated Wood for Fire Testing ........ 1505.1, 2303.2.4, 2303.2.6
+Specification for Lap Cement Used with Asphalt Roll Roofing, Nonfibered, Asbestos Fibered and
+Nonasbestos Fibered ............ .......................................................... Table 1507.10.2
+Test Method for a Wind Resistance of Asphalt Shingles (Fan Induced Method) ............. 1507.2.7.1, Table 1507.2.7.1(2)
+Standard Specification and Test Method for Establishing Recommended Design Stresses for
+Round Timber Construction Poles ................................................ ....... ......... 2303.1.11
+Test Method for Hygroscopic Properties of Fire-retardant-treated Wood and Wood-based Products .. .... ......... 2303.2.7
+Test Methods for Flash Point of Liquids by Small Scale Closed-cup Apparatus .................... .. ............ 307.2
+Standard Test Method for Mechanical Cone Penetration Tests of Soil ........................... ............. 1112.2
+
+.
+
+Specification for Asphalt Shingles Made from Glass Felt and Surfaced with Mineral Granules ................... 1507.2.5
+Specification for Liquid-applied Neoprene and Chlorosulfonated Polyethylene Used in
+Roofing and Waterproofing ..................................................................... 1507.15.2
+Specification for Rigid Poly [Vmyl Chloride (PVC) Siding] ........................................ 1404.9, 1405.14
+Method for Testing Individual Piles Under Static Axial Tensile Load ............................ ........ 1810.3.3.1.5
+Practice for Establishing Allowable Properties for Structural Glued Laminated Timber (Glularn) ........... ...... 2303.1.3
+Test Method for Impact Resistance of Bituminous Roofing Systems ......................................... 1504.7
+Specification for Emulsified Asphalt Adhesive for Adhering Roof Insulation ........................... Table 1507.10.2
+Specification for Asphalt Roll Roofing (Glass Felt) Surfaced with Mineral Granules ... 1507.2.9.2, 1507.6.5, Table 1507.10.2
+Standard Practices for Establishing Stress Grades for Structural Members Used in Log Buildings ............... 2303.1.10
+Standard Test Method for Piles Under Lateral Loads .......................... .............. ........ 1810A.3.3.2
+
+.
+
+Specification for Coal Tar Roof Cement, Asbestos Containing ................................ ... .... Table 1507.10.2
+Test Method for Total Energy Impact of Plastic Films by Dart Drop .......................................... 1504.7
+Test Methods for Liquid Limit, Plastic Limit and Plasticity Index of Soils ........................... 1613.5.5, 1803.5.3
+Specification for Poly (Vinyl Chloride) Sheet Roofing .................................................. 1507.13.2
+Specification for Asphalt Roof Coatings-Asbestos-free .................................. ...... ... Table 1507.10.2
+Specification for Asphalt Roof Cement-Asbestos-free ............................................ Table 1507.10.2
+Specification for Asphalt-coated Glass Fiber Base Sheet Used in Roofing ............................. Table 1507.10.2
+Specification for EPDM Sheet Used in Single-ply Roof Membrane ........................................ 1507.12.2
+Test Method for Expansion Index of Soils ............................................................. 1803.5.3
+
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA BUILDING CODE
+
+
+
+
+
+
+ASTM-continued
+
+D 4869-05e01 Specification for Asphalt-saturated (Organic Felt) Underlayment Used in Steep Slope Roofing .............................
+1507.2.3, 1507.5.3, 1507.6.3, 1507.7.3, 1507.8.3, 1507.9.3
+CJ
+
+D4897-01 Specification for Asphalt-coated Glass Fiber Venting Base Sheet Used in Roofing ............ ........... Table 1507.10.2
+D4945-00 Test Method for High-strain Dynamic Testing of Piles ................................................ 1810.3.3.1.2
+
+
+
+D 4990---97a (2005)e01 D5019-07 D5055-05 D5456-05a D5516-03
+
+
+D5643-06 D5664-02
+D 5665-99a (2006) D 5726-98 (2005) D 6083-05e01 D6162-00A
+D 6163-00eOl
+D 6164-05
+D 6222-02e01
+D6223-02
+D6298-05
+D 6305-02e01
+D6380---03 D6509-00
+D6694-07 D6754-02 D6757-07 D6841-03 D6878-06a D6947-07
+D7158-07
+E84-07
+E90---04
+E 96/E 96M-05 E 108-07a E 119-07
+E 136----04 E 330---02 E331-00 E492-04
+E580---10a
+E 605-93 (2006)
+
+
+Specification for Coal Tar Glass Felt Used in Roofing and Waterproofing .. ............... ............. Table 1507.10.2
+
+Specification for Reinforced Nonvulcanized Polymeric Sheet Used in Roofing Membrane .................... 1507.12.2
+
+. Specification for Establishing and Monitoring Structural Capacities of Prefabricated Wood !-joists ........... .... 2303.1.2 Specification for Evaluation of Structural Composite Lumber Products ...................................... 2303.1.9
+0
+
+Test Method of Evaluating the Flexural Properties of Fire-retardant-treated Softwood Plywood Exposed to the Elevated Temperatures ............................................ 2303.2.5.1 Specification for Coal Tar Roof Cement, Asbestos-free ............................................ Table 1507.10.2
+Test Methods for Evaluating the Effects cif Fire-retardant Treatment and Elevated Temperatures on Strength Properties of Fire-retardant-treated Lumber ........................... 2303.2.5.2 Specification for Thermoplastic Fabrics Used in Cold-applied Roofmg and Waterproofing ................ Table 1507.10.2
+Specification for Thermoplastic Fabrics Used in Hot-applied Roofing and Waterproofing ....... .......... Table 1507.10.2
+
+0
+
+Specification for Liquid Applied Acrylic Coating Used in Roofing .......... ................ Table 1507.10.2, 1507.15.2
+
+Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous Sheet Materials Using a Combination of Polyester and Glass Fiber Reinforcements ........................ 1507.11.2
+Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous Sheet Materials Using Glass Fiber Reinforcements .................................................. 1507.11.2 Specification for Styrene-butadiene-styrene (SBS) Modified Bituminous Sheet Metal Materials Using Polyester Reinforcements ............................................... 1507.11.2 Specification for Atactic Polypropylene (APP) Modified Bituminous Sheet Materials Using. Polyester Reinforcements .................................................... 1507.11.2 Specification for Atactic Polypropylene (APP) Modified Bituminous Sheet Materials Using a Combination of Polyester and Glass Fiber Reinforcements ....................... 1507.11.2
+
+,
+
+
+Specification for Fiberglass Reinforced Styrene-butadiene-styrene (SBS) Modified Bituminous Sheets with a Factory Applied Metal Surface ..................................... 1507.11.2 Practice for Calculating Bending Strength Design Adjustment Factors for Fire-retardant-treated Plywood Roof Sheathing ....................................................................... 2303.2.5.1 Standard Specification for Asphalt Roll Roofing (Organic) Felt .......................... 1507.2.9.2, 1507.3.3, 1507.6.5 Standard Specification for Atactic Polypropylene (APP) Modified Bituminous base Sheet Materials Using Glass Fiber Reinforcements .................................................. 1507.11.2 Standard Specification for Liquid-applied Silicone Coating Used in Spray Polyurethane Foam Roofing ........... 1507.15.2 Standard Specification for Ketone Ethylene Ester Based Sheet Roofing .................................... 1507.13.2 Standard Specification for Inorganic Underlayment for Use with Steep Slope Roofing Products .................. 1507.2.3. Standard Practice for Calculating Design Value Treatment Adjustment Factors for Fire-retardant-treated Lumber .. 2303.2.5.2 Standard Specification for Thermoplastic Polyolefin Based Sheet Roofmg .................................. 1507.13.2 Standard Specification for Liquuid Applied Moisture Cured Polyurethane Coating Used in Spray Polyurethane Foam Roofing System .................................................. 1507.15.2 Standard Test Method for Wind Resistance of Sealed Asphalt Shingles
+
+
+(Uplift Force/Uplift Resistance Method) .......................................... 1507.2.7.1, Table 1507.2.7.1(1)
+Test Methods for Surface Burning Characteristics of Building Materials ....................... 402.11, 402.16.4, 406.5.3,
+703.4.2, 719.1, 719.4, 802.1, 803.1.1, 803.9, 806.5,
+1407.9, 1407.10.1, 2303.2, 2603.3, 2603.4.1.13, 2603.5.4, 2604.2.4, 2606.4, 3105.4, D102.2.8
+
+Test Method for Laboratory Measurement of Airborne Sound Transmission Loss of Building Partitions and Elements ........................................................... 12
+07.2, 1207.2.1
+()
+
+Test Method for Water Vapor Transmission of Materials ............................................... 202, 1203.2
+Test Methods for Fire Tests of Roof Coverings ....................................... 1505.1, 2603.6, 2610.2, 2610.3
+Test Methods for Fire Tests of Building Construction and Materials ....................... 703.2, 703.2.1, 703.2.3, 703.3,
+703.5, 704.12, 705.7, 705.8.5, 707.6, 712.3.2,
+713.3.1,713.4.1.1, 714.1, 715.2, 715.4.5, 716.5.2, 716.5.3, 716.6.1,
+716.6.2.1, Table 720.1(1), 1407.10.2, 2103.2, 2603.4, 2603.5.1
+
+Test Method for Behavior of Materials in a Vertical Tube Furnace at 750�C ................................... 703.4.1
+
+0
+
+Test Method for Structural Performance of Exterior Windows, Curtain Walls and Doors by Uniform Static Air Pressure Difference ............................................................. 1715.5.2 Test Method for Water Penetration of Exterior Windows, Skylights, Doors and Curtain Walls by Uniform Static Air Pressure Difference .............................................................. 1403.2 Test Method for Laboratory Measurement of Impact Sound Transmission Through Floor-ceiling Assemblies Using the Tapping Machine .............................................................. 1207.3
+Standard Practice for Installation of Ceiling Suspension Systems for Acoustical Tile and Lay-in Panels in Areas Subject to Earthquake Ground Motions ...........1615.10.13, 1615A.1.16, 1616.1.16, 1616A.1.20
+
+
+Test Method for Thickness and Density of Sprayed Fire-resistive Material (SFRM) Applied to Structural Members ................................... 1704.12.4.1, 1704.12.4.2, 1704.12.4.3, 1704.12.5
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+
+�648--04 �662-09
+E 681---04
+E 736---00 (2006) E 81 4-06 E970-00
+E 1300-04e0 1
+E 1354---04a E 1592--0 1
+E 1602--03
+E 1886---05
+E 1966---01
+E 1996---06
+E2072--04
+E 2273--03
+E 2307--04e01
+E2404-07a
+E 2568--07
+E2570-07
+E 2573--07
+F 547--0 1
+F 1292-99 F 1292-04 F 1346---91 (2003)
+F 1487-0 1
+F 1667--05 F 195 1-99 F 2006---00 (2005) 10 F 2090-0 1a (2007) F2200-05
+G 152--06
+G 154-05
+G 155--05a
+
+
+REFERENCED STANDARDS
+ASTM-continued
+Standard Test Method for Critical Radiant Flux of Floor Covering Systems
+Using a Radiant Heat Energy Source ............................................. . 804.4.1, 804.4.2 Standard Test Method for Specific Optical Density of Smoke Generated by Solid Materials ..... 804.4.1, 804.4.2 Test Methods for Concentration Limits of Flammability of Chemical Vapors and Gases .. ..... ......... 307.2 Test Method for Cohesion/ Adhesion of Sprayed Fire-resistive Materials
+Applied to Structural Members ............................................... 704.13.2, 1704.12.6 Test Method of Fire Tests of Through-penetration Firestops ............ 702.1, 713.3.1.2, 713.3.2, 713.4.1.1.2 Test Method for Critical Radiant Flux of Exposed Attic Floor Insulation Using
+a Radiant Heat Energy Source .......................................................... 719.3.1 Practice for Determining Load Resistance of Glass in Buildings .................. 2404.1, 2404.2, 2404.3.1, 2404.3.2, 2404.3.3, 2404.3.4, 2404.3.5 Standard Test Method for Heat and Visible Smoke Release Rates for Materials and Products Using an Oxygen Consumption Calorimeter ......................... ... ....... 402.12.1 Test Method for Structural Performance of Sheet Metal Roof and Siding Systems
+
+by Uniform Static Air Pressure Difference ................................................ 1504.3.2 Guide for Construction of Solid Fuel-burning Masonry Heaters ............................... .... 2112.2 Test Method for Performance of Exterior Windows, Curtain Walls, Doors and
+Storm Shutters Impacted by Missiles and Exposed to Cyclic Pressure Differentials .... .... ....... 1609.1.2 Test Method for Fire-resistant Joint Systems ............................................ 702.1, 714.3 Specification for Performance of Exterior Windows, Glazed Curtain Walls,
+Doors and Impact Protective Systems Impacted by Windbome Debris in Hurricanes .... 1609.1.2, 1609.1.2.1 Standard Specification for Photoluminescent (Phosphorescent) Safety Markings ....... ... ....... ... 1024.4 Standard Test Method for Determining the Drainage Efficiency of Exterior Insulation
+and Finish Systems (EIFS) Clad Wall Assemblies .......................................... 1408.4.1 Standard Test Method for Determining Fire Resistance of Perimeter Fire Barrier Systems Using Intermediate-scale, Multistory Test Apparatus ............. ................ ..... ...... .. 714.4 Standard Practice for Specimen Preparation and Mounting of Textile, Paper or Vinyl
+Wall or Ceiling Coverings to Assess Surface Burning Characteristics ............... ... ........ 803.1.4 Standard Specification for PB Exterior Insulation and Finish Systems (EIFS) ........... .... ........ 1408.2 Standard Test Method for Evaluating Water-resistive Barrier (WRB) Coatings Used
+Under Exterior Insulation and Finish Systems (EIFS) for EIFS with Drainage ........ 1408.4.1.1, 1704.12.1 Standard Practice for Specimen Preparation and Mounting of Site-fabricated Stretch
+Systems to Assess Surface Burning Characteristics ............................... ............. 803.9 Terminology of Nails for Use with Wood and Wood-based Materials ........... ..... ........ Table 2506.2 Standard Specification for Impact Attenuation of Surface Systems
+Under and Around Playground Equipment ........................... .............. llB-1008.2.6.2 Standard Specification for Impact Attenuation of Surface Materials
+within the Use Zone of Playground Equipment. ....................... .............. llB-1008.2.6.2 Performance Specification for Safety Covers and Labeling Requirements for ............ 3109.4, 3109 .4.1.8 Standard Consumer Safety Performance Specification
+for Playground Equipment for Public Use ................... ...................... 202-USE ZONE
+
+
+II
+
+Specification for Driven Fasteners: Nails, Spikes and Staples ............... Table 720.1(2), Table 720.1(3), 1507.2.6, 2303.6, Table 2506.2 Standard Specification for Determination of Accessibility of Surface Systems Under and Around Playground Equipment ......................... IIB-1008.2.6.1
+II
+
+Standard/Safety Specification for Window Fall Prevention Devices with Emergency Escape (Egress) and Rescue (Ingress) Windows ............................... 1405.13.2 Specification for Window Fall Prevention Devices with Emergency
+Escape (Egress) Release Mechanisms .................................................. 1405.13.2 Standard Specification for Automated Vehicular Gate Construction .................... ............ 3110.3 Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials . 1504.6 Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials .... .... 1504.6 Practice for Operating Xenon Arc Light Apparatus for Exposure of Nonmetallic Materials ............ 1504.6
+
+
+
+
+
+
+Association of the Wall and Ceiling Industry
+513 West Broad Street, Suite 210 Falls Church, VA 22046
+AWCI
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+12-B-98
+
+Technical Manual 12-B Standard Practice for the Testing and Inspection of Field Applied Thin Film Intumescent Fire-resistive Materials; an Annotated Guide, First Edition ................ 1704.13
+201 3 CALIFORNIA BUILDING CODE JANUARY 1, 2014 ERRATA
+627
+BUFF
+
+American Wood Protection Association
+P.O. Box 361784 Birmingham, AL 35236-1784
+
+AWPA
+
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+C1-{)3 All Timber Products-Preservative Treatment by Pressure Processes ... ... .. .... .. . . ...... .. .. . ... 1505.6 M4-06 Standard for the Care of Preservative-treated Wood Products .... .. .. ......... .... .... 1810.3.2.4.1, 2303.1.8 U1-{)7 USE CATEGORY SYSTEM: User Specification for Treated Wood
+Except Section 6, Commodity Specification H ................................. 1403.5, Table 1507.9.6,
+
+1807.1.4, 1807.3.1, 1809.12, 1810.3.2.4. 1, 2303.1.8,
+2304.11.2, 2304.11.4, 2304.11.6, 2304.11.7, J106.2.2
+
+American Welding Society
+550 N.W. LeJeune Road Miami, FL 33 126
+
+AWS
+
+
+
+Dl.J-10
+D1.3-08
+Dl .4-JJ
+
+Dl.B---09
+QCJ-06
+
+Structural Welding Code-Steel ... .Table 1704.3, 1704.3.1.1, Table 1705A.2.1, 1705A.2.2.5, 2212.6.2, 2213A.2 Structural Welding Codheet Steel ............. Table 1704.3, 1704.3.1.2, Table 1705A.2.1, 1705A.2.2.1.1 Structural Welding Code-Reinforcing Steel ........ Table 1704.3, 1704.3.1.3, Table 1704.4, Table 1705A.2. 1,
+1705.2.2.1.2, 2107A.3, 2107A.4 Structural Welding Code -Seismic Supplement . ..... .1704A.3.1.4, 1705A.2.2.5, 2204A.l.J, 2204A.l.3, 2211.1 Standard for AWS Certification of Welding Inspectors . ........ .. ... ... ... ...... . 1704A.3.1.4, 1705A.2.2.5
+Builders Hardware Manufacturers' Association
+355 Lexington Avenue, 17th Floor New York NY
+
+BHMA
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+
+
+A 156.10---11 Power Operated Pedestrian Doors .. ............. .......... ... ... ... 11B-404.2.9, 11B-404.3, 1008.1.4.2 A 156.19--07 Standard for Power Assist and Low Energy Operated Doors . .. , ...... 11B-404.2.9, 11B-404.3, llB-408.3.2.1, 11B-409.3.1, 1008.1.4.2
+Canadian General Standards Board
+Place du Portage 111, 6B 1
+11 Laurier Street
+Gatineau, Quebec, Canada KIA 1G6
+
+CGSB
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+37-GP-52M (1984) Roofing and Waterproofing Membrane, Sheet Applied, Elastomeric .. ... ... .. ......... .. 1504.7, 1507.12.2 37-GP-56M (1980) Membrane, Modified, Bituminous, Prefabricated and Reinforced for Roofing-with December 1985 Amendment .... .... ... .. .. .. .. . .... . ... ..... . ... .... . .. ... ... ....1507. 11.2 CAN/CGSB 37.54-95 Polyvinyl Chloride Roofing and Waterproofing Membrane ... ..... .. . .. .. ..... ... .. .. .. ... .... 1507.13.2
+Composite Panel Association
+19465 Deerfield Avenue, Suite 306
+Leesburg, VA 20176
+
+CPA
+
+
+
+Standard Referenced reference in code number Title section number
+
+ANSI A135.4-2004 Basic Hardboard ............................................................... 1404.3.1, 2303.1.6
+ANSI A135.5-2004 Prefinished Hardboard Paneling ... .. ..... . .. . .. . . ........ .... .... ... .. .... .. ... .. 2303.1.6, 2304.6.2
+ANSI A135.6-1998 Hardboard Siding . . ... .... .. .. ........... .... .. .. .. . ... ... .. ... ... .. ....... .... 1404.3.2, 2303.1.6
+
+
+
+
+628
+JANUARY 1, 2014 ERRATA 201 3 CALIFORNIA BUILDING CODE
+BUFF
+
+
+Canadian Standards Association 5060 Spectrum Way CSA Mississauga, Ontario Canada lAW 5N6
+
+Standard Referenced reference in code number Title section number 101/I.S.2/A440--08 Specifications for Wmdows, Doors and Unit Skylights .............. .......................... .... 1715.5.1, 2405.5
+Cedar Shake and Shingle Bureau
+P. 0. Box 1178
+
+CSSB Sumas, WA 98295-1178
+
+()
+
+Standard Referenced reference in code
+number CSSB-97
+
+section number
+Grading and Packing Rules for Western Red Cedar Shakes and Western Red Shingles
+
+
+
+Door and Access Systems Manufacturers Association International 1300 Summer Avenue
+DASMA Cleveland, OH 44115-2851
+
+Standard Referenced reference in code number Title section number
+ANSIIDASMA 107-1997
+(R2004) Room Fire Test Standard for Garage Doors Using Foam Plastic Insulation ......... .
+
+....... .. .............. 2603.4. 1.9
+
+108-05 Standard Method for Testing Sectional Garage Doors and Rolling Doors: Determination of Structural Performance Under Uniform Static Air Pressure Difference ........ ......... .. ... 1715.5.2 Standard Method for Testing Sectional Garage Doors and Rolling Doors: Determination of Structural Performance Under Missile Impact and Cyclic Wmd Pressure . ..... ........... .1609. 1 .2.2
+
+
+U.S. Department of Commerce National Institute of Standards and Technology 1401 Constitution Avenue NW DOC Washington, DC 20230
+
+
+
+Standard Referenced reference in code
+number Title
+
+PS-1-07 Structural Plywood ........................................... 2303.1.4, 2304.6.2, Table 2304.7(4), Table 2304.7(5},
+
+Table 2306.2.1(1), Table 2306.2.1(2) PS-2-04 Performance Standard for Wood-based Structural-use Panels .... ..... ...................... .. ... 2303.1.4, 2304.6.2,
+.
+
+Table 2304.7(5}, Table 2306.2.1(1}, Table 2306.2.1(2) PS 20--05 American Softwood Lumber Standard . ....... ... ............... .. .. ...... .. .. ........ 18 10.3.2.4, 2302. 1, 2303.1.1
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+DOJ 36 CFR Part 1192 American with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles (ADAAG) Department of Justice, 1991 ......................................... E109.2.4
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+
+29 CFR Part 1910.1000
+(1974) Air Contaminants .................................................................................. 902. 1
+
+
+U.S. Department of Transportation c/o Superintendent of Documents 1200 New Jersey Avenue, SE
+
+DOTn Washington, DC 20402-9325
+
+
+Standard Referenced reference in code number Title section number
+0
+
+49 CFR Parts 100-185-2005 Hazardous Materials Regulations ...................................................................... 307.2
+
+49 CFR Parts 173.137 (2005) Shippers-General Requirements for Shipments and Packaging-Class 8-Assignment of Packing Group ........... 307.2 49 CFR-1998 Specification of Transportation of Explosive and Other Dangerous Articles,
+UN 0335, UN 0336 Shipping Containers ....................... ............. .......................... 307.2
+
+EN
+European Connnittee for Standardization (EN) Central Secretariat Rue de Stassart 36
+B-10 50 Brussels
+
+
+Standard Referenced reference in code number Title section number
+EN 1081-98 Resilient Floor Coverings-Determination of the Electrical Resistance ...................................... 406.5.2
+
+0
+
+Federal Emergency Management Agency
+Federal Center Plaza
+500 C Street S.W.
+
+
+l)FEMA Washington, DC 20472 Standard
+Referenced reference in code number Title section number
+REFERENCED STANDARDS
+Standard reference number
+DOL
+
+U.S. Department of Justice 950 Pennsylvania Avenue, NW
+C.)
+
+Referenced in code Title section number
+
+U.S.
+Department of Labor c/o Superintendent of Documents
+
+U.S.
+Government Printing Office Washington, DC 20402-9325
+
+
+0
+
+352-()() Recommended Postearthquake Evaluation and Repair Criteria
+for Welded Steel Moment-frame Buildings ........�................................................... 3419.2
+
+FlA-TBll-01 Crawlspace Construction for Buildings Located in Special Flood Hazard Areas ............................. 1805.1.2.1
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+REFERENCED STANDARDS
+FM
+Factory Mutual Global Research
+Standards Laboratories Department
+1301 Atwood Avenue, P.O. Box 7500
+Johnston, RI 02919
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+
+
+FM 1950-10 Approval Standard for Seismic Sway Braces for Automatic Sprinkler Systems ................... 1705A.12.3 3260-00 Radiant Energy-Sensing Fire Detectors for Automatic Fire Alarm Signaling. 3011-99 Approval Standard for Central Station Service for Fire Alarm and Protective Equipment Supervision FM 4430-12 Approved Standard for Smoke and Heat Vents ................... . ... . ............ . . . .. ... .. 910.3.2 4430-80 Acceptance Criteria for Smoke and Heat Vents ................... . . . .... . .. . ................. 910.3.1 4450 (1989) Approval Standard for Class 1 Insulated Steel Deck Roofs-
+with Supplements through July 1992 ....................... ............ ... 1508.1, 2603.3, 2603.4.1.5 4470 (1992) Approval Standard for Class 1 Roof Covers ................................................... 1504.7 4474 (04) Evaluating the Simulated Wind Uplift Resistance of Roof Assemblies
+Using Static Positive and/or Negative Differential Pressures ................................. 1504.3.1 4880 (2005) American National Standard for Evaluating Insulated Wall or Wall and Roof/ Ceiling Assemblies, Plastic Interior Finish Materials, Plastic Exterior Building Panels, Wall/Ceiling Coating Systems, Interior and Exterior Finish Systems ...................... 2603.4, 2603.9
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+GA 216-07 GA 600-06  Application and Finishing of Gypsum Panel Products ............... ............... Table 2508.1, 2509.2 Fire-resistance Design Manual, 18th Edition ................. Table 720. 1(1), Table 720.1(2), Table 720. 1(3)
+HPVA  Hardwood Plywood Veneer Association 1825 Michael Faraday Drive Reston, VA 20190
+
+Standard Referenced reference in code number Title section number
+
+HP-1-2004 Standard for Hardwood and Decorative Plywood ...................................... 2303.3, 2304.6.2
+
+U.S. Department of Housing and Urban Development
+451 7th Street, SW
+Washington, DC 20410
+
+HUD
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+HUD 24
+CFR Part 3280 (1994)  Manufactured Home Construction and Safety Standards ........................... ........ .... ... G201
+
+
+International Code Council, Inc.
+500 New Jersey Ave, NW 6th Floor Washington, DC 20001
+ICC
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+ICC 300-12 ICC 400-12 ICC 500-08 ICC 600-08
+ICC-ES AC 01-12* ICC-ES AC 58-12 * /CC-ES AC 70-12* ICCESAC 77
+
+ICC Standard on Bleachers, Folding and Telescopic Seating and Grandstands ... 1028.1.1, Table 1607.1, 3401.1 Standard on Design and Construction of Log Structures ................................... ...... 2301.2 ICC/NSSA Standard on the Design and Construction of Storm Shelters ................... 202, 423.1, 423.2 Standard for Residential Construction in High Wind Regions .................. 1609.1.1, 1609.1.1.1, 2308.2.1
+Acceptance Criteria for Expansion Anchors in Masonry Elements ............................ 1616A.1.19 Acceptance Criteria for Adhesive Anchors in Masonry Elements ... . .. . ................ . . .. . . 1616A.1.19 Acceptance Criteria for Fasteners Power-Driven into Concrete, Steel and Masonry Elements . ... . . . . 908A. 1.1 Acceptance Criteria for Smoke Containment Systems Used with Fire-resistance-rated
+Elevator Hoistway Doors and Frames ....... .. ........... . ............ . .. . .... . . . . ... . . . 707. 14. 1
+
+
+
+
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 2015 ERRATA
+ICC-continued
+
+
+
+ICC-ES AC I06---12* Acceptance Criteria for Predrilled Fasteners (Screw Anchors) in Masonry ..................... 1616A.l.19 ICC-ES AC I25-12* Acceptance Criteria for Concrete, and Reinforced and Unreinforced Masonry Strengthening
+Using Externally Bonded Fiber-Reinforced Polymer (FRP) Composite Systems ................... 1914.3 ICC-ES AC I56---12 Acceptance Criteria for Seismic Certification by Shake-Table Testing ofNonstructural Components. 1705A.12.4 ICC-ES AC 178-12* Acceptance Criteria for Inspection and Verification of Concrete, and Reinforced and Unreinforced Masonry
+Strengthening Using Fiber-Reinforced Polymer (FRP) Composite Systems ............. . . . ...... 1914A.3
+ICC-ES AC 193-12* Acceptance Criteria for Mechanical Anchors in Concrete Elements ............. . ..... 1616A.1.19, 1909A.ll
+
+
+International Organization for Standardization
+ISO Central Secretariat 1 ch, de la Voie-Creuse, Case Postale 56 CH-121 1 Geneva 20, Switzerland
+
+ISO
+
+
+
+number Title section number
+IS08115-86 Cotton Bales-Dimensions and Density ............................................. Table 415.8.2.1.1
+IS0 9001-08 Quality Management Systems -Requirements ......................... . .................. 1705A.12.4
+
+
+NAAMM  National Association of Architectural Metal Manufacturers 800 Roosevelt Road, Bldg. C, Suite 312 Glen Ellyn, IL 60137
+Standard  Referenced
+reference  in code
+nuinber  Title section number
+FP 1001-07  Guide Specifications for Design of Metal Flag Poles ........... .............. ....... ..... ..... 1609.1.1
+
+
+
+
+National Concrete Masonry Association
+13750 Sunrise Valley Herndon, VA 22071-4662
+
+NCMA
+
+Standard  Referenced
+reference  in code
+number  Title  sectionnumber
+
+TEK 5-84 (1996) Details for Concrete Masonry Fire Wails ............................................. Table 720.1 (2)
+
+National Fire Protection Association
+1 Batterymarch Park
+Quincy, MA 02169-7471
+
+
+NFPA
+
+
+
+Standard reference number  Title Referenced in code section number
+11-10 12-05 12A-04 Halon 1301 13-13  Low-, Medium-and High-Expansion Foam ............... .... ................ ....... ..... .... 904.7 Carbon Dioxide Extinguishing Systems ................ ........ ................ .... .... 904.8, 904.11 Halon 1301 Fire Extinguishing Systems .............. ......... ................ ...... ..... .... 904.9 Installation of Sprinkler Systems, as amended* ........ ..... ......... 708.2, 903.3.1.1, 903.3.2, 903.3.5.1.1, 903.3.5.2, 904. 11, 905.3.4, 907.6.3, 1613.6.3, 1616.9.5, 1616.10.17
+*NFPA 13, Amended Sections as follows:
+Revise Section 2.2 and add publications as follows: 2.2 NFPA Publications.
+NFP A 25, Standard for the Inspection, Testing, and Maintenance of WatercBased Fire Protection Systems, 2013 California edition.
+
+
+
+
+
+JANUARY 1, 2015 ERRATA 2013 CALIFORNIA BUILDING CODE
+REFERENCED STANDARDS
+
+
+
+NFPA-continued
+Revise Section 8.15.1.2.15 as follows:
+
+8.15.1.2.15 Exterior columns under 10 fe (0.93m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system, shall not require sprinkler protection.
+Revise Section 8.15.5.7 as follows:
+
+8.15.5. 7 The sprinkler required at the top and bottom of the elevator hoistway by 8.15.5.6 shall not be required where permitted by Chapter 30 of the California Building Code.
+Revise Section 8.15. 7.1 * as follows:
+
+8.15.7.1* Unless the requirements of 8.15.7.2 or 8.15.7.3 are met, sprinklers shall be installed under exterior roofs, canopies, porte-cochere, balconies, decks, or similar projections exceeding 4ft (1.2 m) in width.
+Revise Section 8.15.7.2* as follows:
+
+8.15.7.2* Sprinklers shall be permitted to be omitted where the canopies, roofs, balconies, decks, or similar projections are constructed with materials that are noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire-Retardant Coatingsfor Building Materials.
+Delete Section A.8.15. 7.2 of Annex
+Revise Section 8.15. 7.3
+
+8.15.7.3 Sprinklers shall be permitted to be omitted from below the canopies, roofs, balconies, decks, or similar projections are combustible construction, provided the exposed finish material on the roof, or canopy is noncombustible, limited-combustible, or fire retardant treated wood as defined in NFPA 703, Standard for Fire Retardant-Treated Wood and Fire-Retardant Coatings for Building Materials, and the roofs, or canopies contains only sprinklered concealed spaces or any of the following unsprinklered combustible concealed spaces:
+(
+1) Combustible concealed spaces filled entirely with noncombustible insulation.
+
+(2)
+Light or ordinary hazard occupancies where noncombustible or limited-combustible ceilings are directly attached to the bottom of solid wood joists so as to create enclosed joist spaces 160 if ( 4.5 m3) or less in volume, including space below insulation that is laid directly on top or within the ceiling joists in an otherwise sprinklered attic [See 11.2.3.1.4(4)(d)].
+
+(
+3) Concealed spaces over isolated small roofs, or canopies not exceeding 55 Jf ( 5.1 m2 ).
+
+
+Delete language to section 8.15.7.4 and reserve section number.
+8.15. 7.4.
+
+Revise Annex Section A.8.15. 7.5 as follows:
+A. 8.15. 7.5 The presence of planters, newspaper machines and similar items, should not be considered storage.
+Add Section 8.15. 7. 6 as follows:
+
+8.15.7.6 Sprinklers may be omitted for following structures:
+(
+1) Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2)
+Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+
+Add new Sections 8.16.1.1.1.4 and 8.16.1.1.1.5 as follows:
+8.16.1.1.1.4 Where a system includes floor control valves, a hydraulic design information sign containing information for the floor shall be provided at each floor control valve. A hydraulic design information sign shall be provided for each area calculated. The installing contractor shall identify a hydraulically designed sprinkler system with a permanently marked weatherproof metal or rigid plastic sign secured with corrosion resistant wire, chain, or other approved means. Such signs shall be placed at the alarm valve, dry pipe valve, preaction valve, or deluge valve supplying the corresponding hydraulically designed area.
+8.16.1.1.1.5 Control valves, check valves, drain valves, antifreeze valves shall be readily accessible for inspection, testing, and maintenance. l!alves located more than 7feet above the finished floor shall be provided with a means of opening and closing the valve from the floor level.
+
+
+
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 2015 ERRATA
+
+
+
+NFPA-continued
+Addnew Sections 8.16.1.7, 8.16.1.7.1, 8.16.1.7.1.1, 8.16.1.7.1.2, 8.16.1.7.1.2, 8.16.1.7.1.3 and 8.16.1.7.2, asfoUows:
+8.16.1.7 Sectional Valves.
+
+8.16.1.7.1 Private fire service main systems shall have sectional control valves at appropriate points in order to permit sectionalizing the system in the event of a break or for the making of repairs or extensions.
+8.16.1. 7.1.1 Sectional control valves are not required when the fire service main system serves less than six fire
+appurtenances.
+
+8.16.1. 7.1.2 Sectional control valves shall be indicating valves in accordance with Section 6. 7.1.3.
+8.16.1. 7.1.3 Sectional control valves shall be located so that no more than five fire appurtenances are affected by shut-down of any single portion of the fire service main. Each fire hydrant, fire sprinkler system riser, and standpipe riser shall be considered a separate fire appurtenance. In-rack sprinkler systems shall not be considered as a separate appurtenance.
+8.16.1.7.1.4 The number of fire appurtenances between sectional control valves is allowed to be modified by the authority having jurisdiction.
+8.16.1.7.2 A valve shall be provided on each bank where a main crosses a body of water or outside the building foundation(s) where the main or section of main runs under a building.
+Add new Section 9.1.3.9.1.1 as follows:
+
+9.1.3.9.1.1 Powder-driven studs used for attaching hangers to the building structure are prohibited in Seismic design Categories C, D, E and F
+Revise Section 9.3.5.11.4 as follows:
+
+9.3.5.11.4 Where threaded pipe is used for sway bracing, it shall have a wall thickness of not less then Schedule 40.
+Replace Section 9.3.5.12.4 as follows:
+
+Lag screws or power-driven fasteners shall not be used to attach braces to the building structure.
+j/
+
+Add language to the beginning of Section 9.3.5.12.6 as follows:
+9.3.5.12.6 Fastening methods other than those identified in 9.3.5. 12 shall not apply to other fastening methods, which shall be acceptable for use if certified by a registered professional engineer to support the loads determined in accordance with the criteria in 9.3.5.9. Calculations shall be submitted to the authority having jurisdiction.
+Revise Section 9.3.5.12. 7.2 as follows:
+
+9.3.5.12.7.2 Concrete anchors other than those shown in Figure 9.3.5.12.1 and identified in 9.3.5.1l.ll shall be acceptable for use where designed in accordance with the requirements of the building code and certified by a registered professional engineer.
+Revise Section 9.3.6.1(3) as follows:
+
+9.3.6.1*(3) No. 12, 440 lb (200 Kg) wire installed at least 45 degrees from the vertical plane and anchored on both sides of the pipe. Powder-driven fasteners for attaching restraint is allowed to be used provided that the restraint component does not support the dead load.
+Revise Section 10.6.4 as follows:
+
+10.6.4 Pipe joints shall not be located under foundation footings. The pipe under the building or building foundation shall not contain mechanical joints.
+Exceptions:
+I. Where allowed in accordance with I0.6.2.
+
+2. Alternate designs may be utilized where designed by a registered professional engineer and approved by
+the enforcing agency.
+
+Revise Section 11.2.3.1.4(4)(i) as follows:
+
+11.2.3.1.4(4)(i) Exterior columns under IO Jf (0.93m2) in total area, formed by studs or wood joist, with no sources of ignition within the column, supporting exterior canopies that are fully protected with a sprinkler system.
+
+
+JANUARY 1, 2015 ERRATA 2013 CALIFORNIA BUILDING CODE
+
+
+REFERENCED STANDARDS
+
+NFPA-continued
+Revise Section 11.2.3.2.3.1 as follows:
+
+11.2.3.2.3.1 Where listed quick-response sprinklers, excluding extended coverage quick-response sprinklers, are used throughout a system or portion of a system having the same hydraulic design basis, the system area of operation shall be permitted to be reduced without revising the density as indicated in Figure 11.2.3.2.3.1 when all of the following conditions are satisfied:
+(1)
+Wet pipe system.
+
+(2)
+Light hazard occupancy.
+
+(3)
+20 ft (6. 1 m) maximum ceiling height.
+
+
+(4)
+There are no unprotected ceiling pockets as allowed by 8.6.7 and 8.8.7 exceeding 32 ft2 (3 m2).
+
+
+
+X-axis
+Ceiling height (ft)
+-3x
+Note: y = T + 55
+
+
++55 For ceiling height ;:>: 10 ft and :5: 20 ft, y =
+For ceiling height < 10 ft, y = 40
+For ceiling height > 20 ft, y = 0
+For SI units, 1 ft = 0.31 m.
+
+FIGURE 11.2.3.2.3.1 Design Area Reduction for Quick-Response Sprinklers.
+Revise Section 11.2.3.2.3.2 as follows:
+
+11.2.3.2.3.2 The number of sprinklers in the design area shall never be less than seven.
+Revise Section 12.1.1.2 as follows:
+
+12.1.1.2 Early suppression fast-response (ESFR) sprinklers shall not be used in buildings with automatic heat or smoke vents unless the vents use a standard-response operating mechanism with a minimum temperature rating of 360�F ( 182�C} or 1 00�F ( 56�C} above the operating temperature of the sprinklers, whichever is higher.
+Add Section 25.1(5)
+
+25.1 Approval of Sprinkler Systems and Private Fire Service Mains.
+The installing contractor shall do the following:
+(1)
+Notify the authority having jurisdiction and the property owner or property owner's authorized representative of the time and date testing will be performed.
+
+(2)
+Perform all required testing (see Section 24.2).
+
+(3)
+Complete and sign the appropriate contractor' s material and test certificate(s) (see Figure 24. 1).
+
+(4)
+Remove all caps and straps prior to placing the sprinkler system in service.
+
+
+(5) Upon system acceptance by the authority having jurisdiction a label prescribed by Title 19 California Code of Regulations, Chapter 5 shall be affixed to each system riser.
+Revise Section 25.4(2) and Add Section 25.4(3) as follows:
+25.4 Instructions.
+
+The installing contractor shall provide the property owner or the property owner's authorized representative with the following:
+(1) All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed.
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 2015 ERRATA
+
+
+
+
+
+NFPA-continued
+(2)
+NFPA 25, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems, 2013 California Edition.
+
+(
+3) Title 19, California Code of Regulations, Chapter 5, "Fire Extinguishing Systems. " Add sentence at the end of Section 25.5.1 as follows:
+
+
+
+
+25.5.1 "Pipe schedule systems shall be provided with a sign indicating that the system was designed and installed as a pipe schedule system and the hazard classification( s) included in the design. "
+Revise Section 25.5.2(3) and Add Sections 25.5.2(7) to (14) as follows:
+25.5.2 The sign shall include the following information:
+(3) Required flow and pressure of the system at the base of the riser.
+(7)
+Required flow and pressure of the system at the water supply source.
+
+(8)
+Required flow and pressure of the system at the discharge side of the fire pump where a fire pump is installed.
+
+(9)
+Type or types and number of sprinlders or nozzles installed including the orifice size, temperature rating, orientation, K-Factor, sprinkler identification number (SIN) for sprinkler heads when applicable, and response type.
+
+(10)
+The minimum discharge flow rate and pressure required from the hydraulically most demanding sprinkler.
+
+(
+11) The required pressure settings for pressure reducing valves.
+
+(12)
+For deluge sprinkler systems, the required flow and pressure at the hydraulically most demanding sprinkler or nozzle.
+
+(
+13) The protection area per sprinkler based on the hydraulic calculations.
+
+(14)
+The edition of NFPA 13 to which the system was designed and installed. Revise Section 25.6.1 as follows:
+
+
+25.6.1 California Edition NFPA 25, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems.
+13D-13 Standard for the Installation of Sprinkler Systems in One-and Two-Family Dwellings and Manufactured Homes as amended* ....................... ............... 903.3.1.3, 903.3.5.1.1
+*NFPA 13D, Amended Sections as follows:
+Revise 6.2.2, 6.2.2.1, 6.2.4 to read as follows:
+
+
+6.2.2 Where a well, pump, tank or combination thereof is the source of supply for a fire sprinkler system, the water supply shall serve both domestic and fire sprinkler systems, and the following shall be met:
+(1)
+A test connection shall be provided downstream of the pump that creates a flow of water equal to the smallest sprinkler on the system. The connection shall return water to the tank.
+
+(2)
+Any disconnecting means for the pump shall be approved.
+
+(
+3) A method for refilling the tank shall be piped to the tank.
+
+(
+4) A method of seeing the water level in the tank shall be provided without having to open the tank.
+
+(5)
+The pump shall not be permitted to sit directly on the floor.
+
+
+6.2.2.1 Where a fire sprinkler system is supplied by a stored water source with an automatically operated means of pressurizing the system other than an electric pump, the water supply may serve the sprinkler system only.
+6.2.4 Where a water supply serves both domestic and fire sprinkler systems, 5 gpm (19 Umin) shall be added to the sprinkler system demand at the point where the systems are connected, to determine the size of common piping and the size of the total water supply requirements where no provision is made to prevent flow into the domestic water system upon operation of a sprinkler.
+8.3.4* Sprinklers shall not be required in detached garages, open attached porches, carports with no habitable space above, and similar structures.
+
+/\)
+
+
+JANUARY 1, 2015 ERRATA 2013 CALIFORNIA BUILDING CODE
+REFERENCED STANDARDS
+
+
+
+13R-13
+14--13
+15-12
+16-07
+17-13
+
+�, -., ___ _
+
+17A-13
+20-13
+22-13
+24---13
+
+NFPA-continued
+Add Section 8.4 as follows:
+
+8.4 Sprinklers shall be permitted to be omitted for following structures:
+(
+1) Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2)
+Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+
+Installation of Sprinkler Systems in Residential Occupancies up to and Including Four Stories in Height as amended .......... 903.3.1.2, 903.3.5.1.1, 903.3.5.1.2, 903.4
+*NFPA 13R, Amended Sections as follows:
+Revise Section 2.2 and add publications as follows:
+
+2.2 NFPA Publications.
+
+NFPA 25, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems, 2013 California edition.
+Add new Section 6.6.9, as follows:
+
+6.6.9 Sprinklers shall be permitted to be omitted for following structures:
+(
+1) Solar photovoltaic panel structures with no use underneath. Signs may be provided, as determined by the enforcing agency prohibiting any use underneath including storage.
+
+(2)
+Solar photovoltaic (PV) panels supported by framing that have sufficient uniformly distributed and unobstructed openings throughout the top of the array (horizontal plane) to allow heat and gases to escape, as determined by the enforcing agency.
+
+
+Revise Section 11.4:
+11.4 Instructions.
+
+The installing contractor shall provide the property owner or the property owner's authorized representative with the following:
+(
+1) All literature and instructions provided by the manufacturer describing proper operation and maintenance of any equipment and devices installed.
+
+(2)
+NFPA 25, Standard for the Inspection, Testing, and Maintenance of Water-Based Fire Protection Systems 2013 California Edition and Title 19, California Code of Regulations, Chapter 5.
+
+
+
+
+(3) Once the system is accepted by the authority having jurisdiction a label as prescribed by Title 19, California Code of Regulations, Chapter 5, shall be affixed to each system riser.
+Installation of Standpipe and Hose System, as amended* ............. 905.2, 905.3.4, 905.4.2, 905.6.2, 905.8
+
+NFPA 14, Amended Sections asfollows: Replace Section 6.3.7.1
+6.3.7.1 System water supply valves, isolation control valves, and other valves in fire mains shall be supervised in an approved manner in the open position by one of the following methods:
+(
+1) Where a building has a fire alarm system or a sprinkler monitoring system installed, the valve shall be supervised by:
+
+(a)
+a central station, proprietary, or remote supervising station, or
+
+(b) a local signaling service that initiates an audible signal at a constantly attended location.
+
+(2)
+Where a building does not have afire alarm system or a sprinkler monitoring system installed, the valve shall be supervised by:
+
+(a)
+Locking the valves in the open position, or
+
+(b)
+Sealing of valves and a approved weekly recorded inspection where valves are located within fenced enclosures under the control of the owner.
+
+
+
+
+Water Spray Fixed Systems for Fire Protection
+Installation of Foam-water Sprinkler and Foam-water Spray Systems ................. .... ... 904.7, 904. 11 Dry Chemical Extinguishing Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 904.6, 904.11 Wet Chemical Extinguishing Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 904.5, 904.11 Installation of Stationary Pumps for Fire Protection ................................ 913.1, 913.2.1, 913.5
+Water Tanks for Private Fire Protection
+Installation of Private Fire Service Mains and Their Appurtenances, as amended*
+
+
+
+
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 2015 ERRATA
+REFERENCED STANDARDS
+
+
+NFPA-conti nued
+
+/J
+
+NFPA 24, Amended Sections as follows: Amend Section 4.2.1
+Section 4.2.1. Installation work shall be done by fully experienced and responsible contractors. Contractors shall be appropriately licensed in the State of California to install private fire service mains and their appurtenances.
+Revise Section 4.2.2 as follows:
+
+4.2.2/nstallation or modification of private fire service mains shall not begin until plans are approved and appropriate permits secured from the authority having jurisdiction.
+
+Add Section 4.2.2.1 as follows:
+
+4.2.2.1 As approved by the authority having jurisdiction, emergency repair of existing system may stan immediately, with plans being submitted to the authority having jurisdiction within 96 hours from the stan of the repair work.
+
+Revise Section 5.9.1.2 as follows:
+
+Section 5.9.1.2 Fire department connections shall be properly supported and protected from mechanical damage.
+
+Revise Section 5.9.5.1 as follows:
+
+5.9.5.1 Fire department connections shall be on the street side of buildings and as approved by the authority having jurisdiction.
+Revise Section 6.5.1 as follows:
+
+6.5.1 Private fire service main systems shall have sectional control valves at appropriate points in order to permit sectionalizing the system in the event of a break or for the making of repairs or extensions.
+Add Sections 6.5.2.1 -6.5.2.3
+
+6.5.2.1 Sectional control valves are not required when the fire service main system serves less than six fire appurtenances.
+6.5.2.2 Sectional control valves shall be indicating valves in accordance with Section 6.7.1.3.
+6.5.2.3 Sectional control valves shall be located so that no more than five fire appurtenances are affected by shut-down of any single portion of the fire service main. Each fire hydrant, fire sprinkler system riser, and standpipe riser shall be considered a separate fire appurtenance. In-rack sprinkler systems shall not be considered as a separate appunenance.
+6.5.2.4 The number of fire appunenances between sectional control valves is allowed to be modified by the authority having jurisdiction.
+
+Revise Section 6.6.2 as follows:
+
+6.6.2 A sectional valve shall be provided at the following locations: (1) On each bank where a main crosses a body of water
+(2) Outside the building foundation(s) where a main or a section of a main runs under a building
+Revise Section 10.6.5 as follows:
+
+10.6.5 Pipe joints shall not be located under foundation footings. The pipe under the building or building foundation shall not contain mechanical joints.
+Exceptions:
+
+1.
+Where allowed in accordance with Section 10.6.2
+
+2.
+Alternate designs may be utilized where designed by a registered professional engineer and approved by the enforcing agency.
+
+
+Revise Section 10.9.1 as follows:
+
+
+10.9.1 Backfill shall be well tamped in layers or puddle under and around pipes to prevent settlement or lateral movement. Backfill shall consist of clean fill sand or pea gravel to a minimum 6" below and to a minimum of 12" above the pipe and shall contain no ashes, cinders, refuse, organic matter, or other corrosive materials. Other backfill materials and methods are
+permitted where designed by a registered professional engineer and approved by the enforcing agency. 30--08 Flammable and Combustible Liquids Code ......... . ................................... . ..... 415.3 31-11 Installation of Oil-burning Equipment. ., .... . ...................... . .. .. ........... . .. . . . . . 2113.15 32-07 Dry Cleaning Plants ................ . .............. . ................ . ............... . . ... 415.6.4
+37-10 Installation and Use of Stationary Combustion Engines and Gas Turbines
+40--07 Storage and Handling of Cellulose Nitrate Film .. ........ . ...... . . . ............ . . . ... . .. ...... 409.1
+
+52-13 Compressed Natural Gas (CNG) Vehicular Gaseous Fuel Systems Code 54-12 National Fuel Gas Code
+58-08 Liquefied Petroleum Gas Code ........... . . . ......................... . . .. ........... . . . . . .415.6.3 61-13 Prevention of Fires and Dust Explosions in Agricultural and Food Product Facilities ... . ......... . . ... 415.6.1 70--08 National Electrical Code ................................. 108.3, 415.8.2.8.2, 904.3.1, 907.6.1, 909.12.1, 909.16.3, 1205.4.1, 2701.1, 3401.3, H106.1, H106.2, K101, Kll l.l
+
+
+JANUARY 1, 2015 ERRATA 2013 CALIFORNIA BUILDING CODE
+BUFF
+
+
+
+REFERENCED STANDARDS
+
+
+
+
+
+NFPA-continued
+72-13 National Fire Alarm and Signaling Code, as amended* ...... 901.6, 903.4.1, 904.3.5, 907.2, 907.2.5, 907.2.11,
+907.2.13.2, 907.3, 907.3.3, 907.3.4, 907.5.2.1.2,
+907.5.2.2, 907.6, 907.6.1, 907.6.5, 907.7,
+907.7.1, 907.7.2, 911.1.5, 3006.5, 3007.6
+
+*NFPA 72, Amended Sections as follows:
+
+10.3.1 Equipment constructed and installed in conformity with this code shall be listed for the purpose for which it is used. Fire alarm systems and components shall be California State Fire Marshal approved and listed in accordance with California Code of Regulations, Title 19, Division 1.
+10.3.3 All devices and appliances that receive their power from the initiating device circuit or signaling line circuit of a control unit shall be California State Fire Marshal listed for use with the control unit.
+10.7.1 Where approved by the authority having jurisdiction, ECS priority signals when evaluated by stakeholders through risk analysis in accordance with 24.3.1.1 shall be permitted to take precedence over all other signals.
+II
+
+14.4.6.1 Testing. Household fire alarm systems shall be tested in accordance with the manufacturer's published instructions according to the methods of Table 14.4.3.2.
+17.15 Fire Extinguisher Electronic Monitoring Device. A fire extinguisher electronic monitoring device shall indicate those II conditions for a specific fire extinguisher required by California Code of Regulations, Title 19, Division 1, Chapter 1, Section 574.2(c) and California Fire Code to afire alarm control unit.
+21.3.6 Smoke detectors shall not be installed in unsprinklered elevator hoistways unless they are installed to activate the eleva�tor hoistway smoke relief equipment or where required by Chapter 30 of the California Building Code.
+12.3. 7 (4) Where the vertically run conductors are contained in a 2-hour rated cable assembly, or enclosed (installed) in a
+2-hour rated enclosure or a listed circuit integrity (C.I.) cable, which meets or exceeds a 2-hour fire resistive rating.
+23.8.5.1.2 Where connected to a supervising station, fire alarm systems employing automatic fire detectors or waterflow detection devices shall include a manual fire alarm box to initiate a signal to the supervising station.
+Exception: Fire alarm systems dedicated to elevator recall control, supervisory service and fire sprinkler monitoring as permitted in section 21.3 ofNFPA 72.
+II
+
+23.8.5.4.1 Systems equipped with alarm verification features shall be permitted under the following conditions:
+(1)
+The alarm verification feature is not initially enabled unless conditions or occupant activities that are expected to cause nuisance alarms are anticipated in the area that is protected by the smoke detectors. Enabling of the alarm verification feature shall be protected by password or limited access.
+
+(2)
+A smoke detector that is continuously subjected to a smoke concentration above alarm threshold does not delay the system functions of Sections 10.7 through 10.16, 23.8.1.1, or 21.2.1 by more than 30 seconds.
+
+(3)
+Actuation of an alarm-initiating device other than a smoke detector causes the system functions of Sections 10.7 through 10.16, 23.8.1.1, or 21.2.1 without additional delay.
+
+(4)
+The current status of the alarm verification feature is shown on the record of completion (see Figure 7.8.2(a), item 4.3).
+
+
+
+
+(5) Operation of a patient room smoke detector in 1-2 and R-2.1 Occupancies shall not include an alarm verification feature.
+29.3.1 All devices, combinations of devices, and equipment to be installed in conformity with this chapter shall be approved
+.
+
+and listed by the California State Fire Marshal the for the purposes for which they are intended.
+29.5.2.1.1* Smoke and Heat Alarms. Unless exempted by applicable laws, codes, or standards, smoke or heat alarms used to provide a fire-warning function, and when two or more alarms are installed within a dwelling unit, suite of rooms, or similar area, shall be arranged so that the operation of any smoke or heat alarm causes all alarms within these locations to sound.
+Exception to 29.5.2.1.1 not adopted by the SFM.
+
+29.7.2.1 The alarm verification feature shall not be used for household fire warning equipment.
+29.7.6.7.1 The alarm verification feature shall not be used for household fire warning equipment.
+29.8.3.4 Specific Location Reqnirements. The installation of smoke alarms and smoke detectors shall comply with the fol�lowing requirements:
+(1)
+Smoke alarms and smoke detectors shall not be located where ambient conditions, including humidity and temperature, are outside the limits specified by the manufacturer's published instructions.
+
+(2)
+Smoke alarms and smoke detectors shall not be located within unfinished attics or garages or in other spaces where temperatures can fall below 40"F ( 4�C) or exceed 1 OO"F (38�C).
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 201 5 ERRATA REFERENCED STANDARDS
+80-13
+85-07
+92-12
+99-12
+101-12
+105-13
+110-13 11 1-13 120-10 170-09 21 1-13 252-03 253-06
+257-07
+259-13 265-07
+268-07
+275-13 285-06
+286-06
+288-12
+289-13 409-11
+640
+NFPA-continued
+
+
+(3) Where the mounting surface could become considerably warmer or cooler than the room, such as a poorly insulated
+ceiling below an unfinished attic or an exterior wall, smoke alarms and smoke detectors shall be mounted on an inside wall.
+
+
+
+(4) Smoke alarms or smoke detectors shall be installed a minimum of20 feet horizontal distance from a permanently
+installed cooking appliance.
+
+Exception: Ionization smoke alarms with an alarm-silencing switch or photoelectric smoke alarms shall be permitted to be installed 10 feet (3 m) or greater from a permanently installed cooking appliance.
+
+
+Photoelectric smoke alarms shall be permitted to be installed greater than 6feet ( 1.8 m) from a permanently installed
+cooking appliance where the kitchen or cooking area and adjacent spaces have no clear interior partitions and the 10
+ft distances would prohibit the placement of a smoke alarm or smoke detector required by other sections of the code.
+Smoke alarms listed for use in close proximity to a permanently installed cooking appliance.
+(5) Installation near bathrooms. Smoke alarms shall be installed not less than a 3foot (0.91 m) horizontal distance from the
+door or opening of a bathroom that contains a bathtub or shower unless this would prevent placement of a smoke alarm
+required by other sections of the code.
+
+
+
+(6)
+Smoke alarms and smoke detectors shall not be installed within a 36 in. (910 mm)horizontal path from the supply
+registers of a forced air heating or cooling system and shall be installed outside of the direct airflow from those registers.
+
+
+(7)
+Smoke alarms and smoke detectors shall not be installed within a 36 in. (910 mm)horizontal path from the tip of the
+blade of a ceiling-suspended (paddle) fan.
+
+
+(8)
+Where stairs lead to other occupied levels, a smoke alarm or smoke detector shall be located so that smoke rising in the
+stairway cannot be prevented from reaching the smoke alarm or smoke detector by an intervening door or obstruction.
+
+
+(9)
+For stairways leading up from a basement, smoke alarms or smoke detectors shall be located on the basement ceiling
+near the entry to the stairs.
+
+
+(10)
+For tray-shaped ceilings (coffered ceilings), smoke alarms and smoke detectors shall be installed on the highest
+portion of the ceiling or on the sloped portion of the ceiling within 12 in. (300 mm)vertically down from the highest point.
+
+
+(11)
+Smoke alarms and detectors installed in rooms with joists or beams shall comply with the requirements of 17.7 .3.2.4.
+
+
+\)
+
+(12) Heat alarms and detectors installed in rooms with joists or beams shall comply with the requirements of 17 .6.3. /
+Fire Doors and Other Opening Protectives . , ........................... 410.3.5, 508.2.5.2, 715.4, 715.4.5, 715.4.6, 715.4.7.1, 715.4.8.2, 715.5, 715.5.5, 1008.1.4.3 Boiler and Combustion System Hazards Code ............................................... .415.6.1
+(Note: NFPA 8503 has been incorporated into NFPA 85)
+Standard for Smoke Control Systems ......................................................... 909.8
+Health Care Facilities Code ......................... .. .............. .................. . ... 407.10
+Life Safety Code ............................................................. 807.4.3.2,1028.6.2
+Standard for the Installation of Smoke Door Assemblies and Other Opening Protectives ........ .... 405.4.2,
+
+715.4.3.1, 909.20.4.1
+Emergency and Standby Power Systems .................................................... 2702.1
+Stored Electrical Energy Emergency and Standby Power Systems ................................ 2702.1
+Fire Prevention and Control in Coal Mines .................................................. .415.6.1
+Standardfor Fire Safety and Emergency Symbols .............................................. 907.1.2
+
+Chimneys, Fireplaces, Vents and Solid Fuel-burning Appliances ................................. 2112.5 Standard Methods of Fire Tests of Door Assemblies ............. 715.3, 715.4.1, 715.4.2, 715.4.3, 715.4.7.3.1 Test for Critical Radiant Flux of Floor Covering Systems Using
+
+
+a Radiant Heat Energy Source . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 402.12.1, 406.6.4, 804.2, 804.3 Standard for Fire Test for Window and Glass Block Assemblies ...... 715.3, 715.4.3.2, 715.5, 715.5.1, 715.5.2,
+715.5.9.1 Test Method for Potential Heat of Building Materials ......... ..................... 2603.4.1.10, 2603.5.3 Method of Fire Tests for Evaluating Room Fire Growth Contribution of
+Textile Wall Coverings on Full Height Panels and Walls ............................. 803.1.3, 803.1.3.1 Standard Test Method for Determining Ignitibility of Exterior
+
+
+Wall Assemblies Using a Radiant Heat Energy Source ... 1406.2.1, 1406.2.1.1, 1406.2.1.2, 2603.5.7, D105.1 Standard Method of Fire Tests for the Evaluation of Thermal Barriers Used Over Foam Plastic Insulation ...... . Standard Method of Test for the Evaluation of Flammability Characteristics of
+Exterior Nonload-bearing Wall Assemblies Containing Combustible Components ....... 1407.10.4, 2603.5.5 Standard Method of Fire Test for Evaluating Contribution of Wall and Ceiling Interior Finish to Room Fire Growth ........... 402.16.4, 803.1.2, 803.1.2.1, 803.9, 2603.4, 2603.9 Standard Method of Fire Tests of HorizontalFire Door Assemblies
+
+
+Installed in HorizontalFire-resistance-rated Assemblies ...................................... 712.8 Standard Method of Fire Test for Individual Fuel Packages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Aircraft Hangars .... ................ ............. .. .. .. ..... 412.4.6, Table 412.4.6, 412.4.6.1, 412.6.5
+JANUARY 1, 201 5 ERRATA 2013 CALIFORNIA BUILDING CODE
+
+
+REFERENCED STANDARDS
+
+
+
+NFPA-continued
+418-06 Standard for Heliports ................................................................... 412.7.4
+484-06 Combustible Metals ..................................................................... 415.6.1
+
+502-14 Standard for Road Tunnels, Bridges, and Other Limited Access Highways
+........................... 429 654-13 Prevention of Fire & Dust Explosions from the Manufacturing,
+Processing and Handling of Combustible Particulate Solids .................... ...... ......... 415.6.1
+655-07 Prevention of Sulfur Fires and Explosions ................................................... 415.6.1
+664-07 Prevention of Fires and Explosions in Wood Processing and Woodworking Facilities ................ 415.6.1
+701-04 Standard Methods of Fire Tests for Flame-propagation of Textiles and Films ....... .402.12.1, 410.3.6, 801.1.4,
+
+806.1, 806.1.2, 806.2, 3102.3, 3102.3.1,
+3102.6.1.1, 3105.4, D102.2.8, H106.1.1 704---07 Standard System for the Identification of the Hazards of Materials for Emergency Response .... .414.7 .2, 415.2 720-12 Standard for the Installation of Carbon Monoxide (CO) Detection and Warning Equipment ............. 420.6 1124-13 Manufacture, Transportation, Storage, and Retail Sales of Fireworks and Pyrotechnic Articles ......... 415.3.1 2001-12 Clean Agent Fire Extinguishing Systems, as amended* ............................ Table 901.6.1, 904.10
+*NFPA 2001, Amended Sections as follows:
+
+4.3.5.1.1 Alarms signals from the fire extinguishing system shall not interfere with the building fire alarm signal.
+4.3.5.2.1 The lens on visual appliances shall be "red" in color.
+Exception: Other lens colors are permitted where approved by the enforcing agency.
+
+
+
+Precast Prestressed Concrete Institute
+209 W. Jackson Boulevard, Suite 500 Chicago, IL 60606-6938
+PCI
+
+Standard Referenced reference in code number Title section number
+
+MNL 124-89 Design for Fire Resistance of Precast Prestressed Concrete .......................... . ........ 721.2.3.1
+MNL 128-01 Recommended Practice for Glass Fiber Reinforced Concrete Panels .................... ......... 1913.2.1
+PC/120-10 PC! Design Handbook 7th Edition ............ . ............................................ 1905A. 1
+
+
+Post-Tensioning Institute
+8601 North Black Canyon Highway, Suite 103 Phoenix, AZ 85021
+PTI
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+PTI-2004
+Pfl-2007
+PTI-2007
+
+
+Recommendations for Prestressed Rock and Soil Anchors (4th Edition) ..................................... 1811A.2, 1810A.3.10.4, Jl06.2.4, 1106.2.5
+Standard Requirements for Analysis of Shallow Concrete Foundations on Expansive Soils, Third Edition ....................................................... 1808.6.2 Standard Requirements for Design of Shallow Post-tensioned Concrete Foundation on Expansive Soils, Second Edition ........................................... 1808.6.2
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE JANUARY 1, 2015 ERRATA REFERENCED STANDARDS
+State of California Department of Forestry and Fire Protection
+
+SFM
+Office of the State Fire Marshal
+P.O. Box 944246 Sacramento, CA 94246-2460
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+12-3  Releasing Systems for Security Bars in Dwellings .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1029.4
+12-7-3  Fire-testing Furnaces ................................................................................. NA
+12-7A-l  Exterior Wall Siding and Sheathing ............. ..................................... 703A.7, 707A.2
+12-7A-2  Exterior Window .............. ................................................. 703A.7, 708A.2. 1
+12-7A-3  Under Eave ............................................................. ........703A.7, 707 A.8
+12-7A-4  Decking ................................................................... .... .703A.7, 709A.3
+SFM 12-7A-4A  Decking Alternate Method A .. .............. .......... ............................. 703A.7, 709A.3
+SFM 12-7A-5  Ignition Resistant Building Material ...... ............................ ...............703A.7, 709A.3
+12-8-100  Room Fire Tests for Wall and Ceiling Materials .... ...................... ...................... .........NA
+12-10-1  Power Operated Exit Doors . ................. ......... ................................. ........ ..... ...NA
+12-10-2 12-10-3  Single Point Latching or Locking Devices ................... .................. .......................... NA Emergency Exit and Panic Hardware ......... ............ .................... ......................... NA
+
+(The Office of the State Fire Marshal standards referred to above are found in the California Code of Regulations, Title 24, Part 12.)
+Rack Manufacturers Institute 8720 Red Oak Boulevard, Suite 201
+
+RMI
+
+Charlotte, NC 28217
+
+
+
+Standard Referenced reference in code number Title section number
+ANSJJMH16.1-08 Specification for Design, Testing and Utilization of Industrial Steel Storage Racks ................... 2208.1
+
+Steel Deck Institute
+P. O. Box25
+
+SDI
+Fox River Grove, IL 60021
+
+
+Standard Referenced reference in code number Title section number
+ANSJJNC1.0-06 Standard for Noncomposite Steel Floor Deck ..................................... 2209.2.2, 2209.2.2.1
+ANSIIRD1.0-06 Standard for Steel Roof Deck ............................................................ 2209.2.3
+ANSI/SDI-C-2012 Standard for Composite Steel Floor Deck Slabs .......................................... 2210A.1.1.3
+
+Steel Joist Institute
+1173B London Links Drive
+
+
+SJI
+Forest, VA 24551
+
+
+Referenced reference
+Standard
+in code number Title section number
+CJ-1.0-06 Standard Specification for Composite Steel Joists, CJ-series ....................... 1604.3.3, 2203.2, 2206.1 JG-1.1--05 Standard Specification for Joist Girders ....................................... 1604.3.3, 2203.2, 2206.1 K-1.1--05 Standard Specification for Open Web Steel Joists, K-series ........................ 1604.3.3, 2203.2, 2206.1 LH/DLH-1. 1-05 Standard Specification for Longspan Steel Joists, LH-series
+and Deep Longspan Steel Joists, DLH-series ...................... ........... 1604.3.3, 2203.2, 2206.1
+
+Single-Ply Roofing Institute
+411 Waverly Oaks Road, Suite 331B
+
+
+SPRI
+Waltham, MA 02452
+
+Standard Referenced reference in code number Title section number
+
+
+
+SPRII ANSI/ES-1-03 Wind Design Standard for Edge Systems Used with Low Slope Roofing Systems ............. ... .... 1504.5
+RP-4--02 Wind Design Guide for Ballasted Single-ply Roofing Systems ................................... 1504.4
+
+
+JANUARY 1, 2015 ERRATA 2013 CALIFORNIA BUILDING CODE
+
+REFERENCED STANDARDS
+
+
+This page left intentionally blank.
+Text continues on page 645.
+
+
+
+
+
+
+
+
+201 3 CALIFORNIA BUILDING CODE JANUARY 1, 201 5 ERRATA
+
+
+
+
+This page left intentionally blank.
+Text continues on page 645.
+
+
+
+
+
+
+JANUARY 1, 2015 ERRATA 201 3 CALIFORNIA BUILDING CODE
+REFERENCED STANDARDS
+Telecommunications Industry Association 2500 Wilson Boulevard
+Arlington, VA 22201-3834
+
+0 TIA
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+TIA-222-G-05 Structural Standards for Steel Antenna Towers and Antenna Supporting Structures including-Addendum 1, 222-G-1, Dated 2007 .................................. 1609.1.1, 3108.1, 3108.2
+The Masonry Society
+3970 Broadway, Unit 201-D
+Boulder, CO 80304-1135
+TMS
+
+
+CJ
+Standard Referenced
+reference in code
+
+
+number Title section number
+02 16-97
+0302-07 402-11
+602-08
+
+Standard Method for Detennining Fire Resistance of Concrete and Masonry Construction Assemblies ...................................................... Table 720.1(2), 721.1
+Standard Method for Detennining the Sound Transmission Class Rating for Masonry Walls ........... .......... 1207.2.1
+Building Code Requirements for Masonry Structures ....... 1405.6, 1405.6.2, 1405.10,I410.2.I, 1604.3.4, Table 1703.4.5.3,
+1704.5, 1704.5.1, Table 1704.5.1, 1704.5.2, 1704.5.3,
+1807.1.6.3.2, 1808.9, 2101.2.2, 2101.2.3, 2101.2.4, 2101.2.5, 2101.2.6,
+2103.1.3.6, 2106.1, 2107.1, 2107.2, 2107.3, 2107.4, 2107.5, 2108.1, 2108.2, 2108.3,
+2109.1, 2109.1.1, 2109.2, 2109.2.1, 2109.3, 2110.1, 2114.IO, 2114.11
+
+Specification for Masonry Structures ............................. 1405.6.1, Table 1704.5.1, Table 1704.5.3, 1807.1.6.3,
+2103.8, 2103.11, 2103.12, 2103.13, 2104.1, 2104.1.1, 2104.1.2
+2104.1.3, 2104.2, 2104.3, 2104.4, 2105.2.2.1.1, 2105.2.2.1.2, 2105.2.2.1.3
+
+Truss Plate Institute
+218 N. Lee Street, Suite 312
+Alexandria, VA 22314 TPI
+
+
+Standard reference number �
+UBC
+
+UBC Standard I 5-2 UBC Standard I 5-3 UBC Standard I 5-4
+
+Referenced in code Title section number
+
+International Code Counci Inc. 500 New Jersey Avenue, NW 6th Floor Washington, DC 2000I
+
+
+Test Standard for Determining the Fire Retardancy of Roof-Covering Materials ................................ I505.6
+Wood Shakes .... . ................ . ....... . ....... .. ........................ ...................... I505.6
+Wood Shingles ......... ............. .................. .............. ............. ................. I505.6
+
+
+
+UL
+Underwriters Laboratories, Inc. 333 Pfingsten Road
+Northbrook, IL 60062-2096
+
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+9-2000
+
+Fire Tests of Window Assemblies-with Revisions through April 2005 ... 715.3, 715.4.3.2, 715.5, 715.5.1, 715.5.2, 715.5.9.1 lOA-98 Tin Clad Fire Doors-with Revisions through March 2003 .................................... .............. 715.4 10B-97 Fire Tests of Door Assemblies-with Revisions through October 2001. ...................................... 715.4.2 lOC-98 Positive Pressure Fire Tests of Door Assemblies-with Revisions through November 2001 ............... 715.4.1, 715.4.3 13-96 Power-limited Circuit Cables 14B-98 Sliding Hardware for Standard Horizontally-mounted Tin Clad Fire Doors-
+with Revisions through July 2000 ...................... ........................... ... ................ 715.4
+14C-06 Swinging Hardware for Standard Tin Clad Fire Doors Mounted Singly and in Pairs .............................. 715.4
+
+38-99
+
+Manually Actuated Signaling Boxes-with revisions through February 2, 2005 as amended. *
+
+
+2013 CALIFORNIA BUILDING CODE UL-continued
+
+*Amend Section 14.1.5 as follows:
+
+14.1.5 A signaling box having a glass panel, disc, rod or similar part that must be broken to operate it for a signal or for access to its actuating means shall satisfactorily complete five part-breaking operations using the means provided with the box, without jamming of the mechanism or other interference by broken particles. It shall be practicable to remove and replace the broken parts. A signaling box shall not have a glass panel, disc, rod or similar part requiring a striking action by grasping a tool to operate it for a signal. The force required to activate controls shall be no greater than 5 pounds (22 N) of force.
+*Add Appendix B chapter to UL 38 (1999) as follows:
+Appendix B,
+
+
+
+14.1.5 Operation. Controls and operating mechanisms shall be operable with one hand and shall not require tight grasping, pinching or twisting of the wrist.
+103--01 Factory-built Chimneys, for Residential 'JYpe and Building Heating Appliances-with Revisions through June 2006 ............................................................ .... 717 .2.5.1 127-96 Factory-built Fireplaces-with Revisions through November 2006 ................................. 717.2.5.1, 2111.11
+193-04 Alarm Valves for Fire-Protection Service
+0
+
+I99-95 Automatic Sprinklers for Fire Protection Service-with revisions through August 19, 2005
+199E--04 Outline of Investigation for Fire Testing of Sprinklers and Water Spray Nozzles for Protection of Deep Fat Fryers ................................................................ ... 904.11.4.1 217--06 Single and Multiple Station Smoke Alarms-with Revisions through August 2005 ............................ 907.2.11
+228--97 Door Closers/Holders, with or without Integral Smoke Detectors-with revisions through January 26, 2006 260-04 Dry Pipe and Deluge Valves for Fire Protection Service 262-04 Gate Valves for Fire Protection Service
+263--03 Standard for Fire Test of Building Construction and Materials ...................... 703.2, 703.2.1, 703.2.3, 703.3, 703.5,
+704.12, 705.7, 707.7, 712.3.2, 713.3.1, 713.4.1.1,
+714.1, 715.2, 716.5.2, 716.5.3, 716.6.1, Table 716.6.2(1),
+Thble 720.1(1), 1407.10.2, 2103.2, 2603.4, 2603.5.1
+
+268--06 Smoke Detectors for Fire Protective Signaling Systems-with Revisions through January 1999 ............ 407.7, 907.2.6.2
+
+268A-98 Smoke Detectors for Duct Application-with revisions through October 22, 2003
+300--05 Fire Testing of Fire Extinguishing Systems for Protection of Restaurant Cooking Areas ............... ..... ...... 904.11
+305--07 Pauic Hardware ........................................................................... ..... 1008.1.10
+
+0
+
+3I2-04 Check Valves for Fire-Protection Service
+325--02 Door, Drapery, Gate, Louver and Window Operations and Systems-with Revisions through February 2006 ........................................................ 406.1.5, 3110.4
+
+
+346-05 Wateljlow Indicators for Fire Protective Signaling Systems 464-03 Audible Signal Appliances-with revisions through October I 0, 2003 497B-04 Protectors for Data Communication and Fire Alarm Circuits 521-99 Heat Detectors for Fire Protective Signaling Systems-with Revisions through July 20, 2005 539-00 Single-and Multiple-Station Heat Detectors-with Revisions through August 15, 2005
+555-2006 Fire Dampers ................................................................................ ...... 716.3
+555C-2006 Ceiling Dampers ............................................................................ 716.3, 716.6.2
+555S-99 Smoke Dampers-with Revisions through July 2006 .............................................. 716.3, 716.3.1.1
+580-2006 Test for Uplift Resistance of Roof Assemblies ................................................. 1504.3.1, 1504.3.2
+
+632-00 Electrically Actuated Transmitters
+641-95 Type L Low-temperature Venting Systems-with Revisions through August 2005 .................... .... .. 2113.11.1.4 710B--04 Recirculating Systems-with Revisions through Apri12006 ........................................... ..... 904.11 723--03 Standard for Test for Surface Burning Characteristics of Building Materials-
+
+
+with Revisions through May 2005 ...................................... 402.11, 402.16.4, 406.5.3, 703.4.2, 719.1,
+719.4, 802.1, 803.1.1, 803.9, 806.5, 1407.9, 1407.10.1, 2303.2, 2603.3,
+2603.4.1.13, 2603.5.4, 2604.2.4, 2606.4, 3105.4, D102.2.8
+
+
+
+753-04 Alarm Accessories for Automatic Water Supply Valves for Fire Protection Service
+790--04 Standard Test Methods for Fire Tests of Roof Coverings ................ : .............. 1505.1, 2603.6, 2610.2,2610.3 793--03 Standards for Automatically Operated Roof Vents for Smoke and Heat-with Revisions through April2004 ............................................................ ..... 910.3.1
+
+
+813-96 Commercial Audio Equipment-with revisions through December 7, I999 864--03 Control Units for Fire Protective Signaling Systems, as amended*-with revisions through February 20IO ........ ... 909.12
+
+
+
+
+
+
+
+*Amend No. 55.1 as follows: :
+RETARD-RESET-RESTART PERIOD -MAXIMUM 30 SECONDS-No alarm obtained from control unit. Maximum permissible time is 30 seconds.
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+REFERENCED STANDARDS
+
+
+
+
+lJL-..continued
+*Amend Section 55 . .2.2 as follows:
+
+
+Where an alarm verification feature is provided, the maximum retard-reset-restart period before an alarm signal can be confirmed and indicated at the control unit, including any control unit reset time and the power-up time for the detector to become operational for alarm, shall not exceed 30 seconds. (The balance of the section text is to remain unchanged).
+*Add Section 55.2.9 as follows:
+
+Smoke detectors connected to an alarm verification feature shall not be used as releasing devices.
+Exception: Smoke detectors which operate their releasing function immediately upon alarm actuation independent of alarm verification feature.
+*Amend Section 89.1.10 as follows:
+
+The existing text of this section is to remain as printed with one editorial amendment as follows:
+THE TOTAL DELAY (CONTROL UNIT PLUS SMOKE DETECTORS) SHALL NOT EXCEED 30 SECONDS.
+(The balance of the section text is to remain unchanged).
+
+
+924--06 Standard for Safety Emergency Lighting and Power Equipment . ............................................ 1011.4
+1040---96 Fire Test of Insulated Wall Construction-with Revisions through June 2001. .................. 1407.10.3, 2603.4, 2603.9
+1256---m Fire Test of Roof Deck Construction-with Revisions through January 2007 ................... 1508.1, 2603.3, 2603.4.1.5
+1479--03 Fire Tests of Through-penetration Firestops-with Revisions through Apri12007 ...... 702.1, 713.3.1.2, 713.3.2, 713.4.1.1.2
+1482-96 Solid-fuel-type Room Heater-with Revisions through November 2006................................2112.2, 2112.5
+1715-97 Fire Test of Interior Finish Material-with Revisions through March 2004............ 1407.10.2, 1407.10.3, 2603.4,2603.9
+1777-04 Chimney Liners ......................................................................... 2113.11.1, 2113.19
+1784--01 Air Leakage Tests of Door Assemblies-with Revisions through December 2004...................... 708.14.1, 711.5.2,
+
+715.4.3.1, 715.4.6.1, 715.4.6.3, 3007.4.3 1897-04 Uplift Tests for Roof Covering Systems .............................................................. 1504.3.1 1975-06 Fire Test of Foamed Plastics Used for Decorative Purposes ................................402.11, 402.12.1, 402.16.5 1994-04 Standard for Luminous Egress Path Marking Systems-with Revisions through February 2005 ............ 411.7, 1024.2.1,
+1024.2.3, 1024.2.4, 1024.4 2017-2000 Standards for General-purpose Signaling Devices and Systems-
+with Revisions through Augnst 2005 ............................................................. 3109.4.1.8
+2034--2008 Standard for Single-and Multiple-Station Carbon Monoxide Alarms with Revisions through February 2009..... 420.6, 908.7
+2075 Gas and Vapor Detectors and Sensors Effective September 1, 2009 .......................................... .420.6
+2075-2007 Standard for Gas and Vapor Detectors and Sensors .................................................... .406.6.6.1
+2079-04 Tests for Fire Resistance of Building Joint Systems-with Revisions through March 2006.............. 702.1, 714.3, 714.6
+2200-04 Stationary Engine Generator Assemblies-with Revisions through July 2004 ................................ 2702.1.1
+
+Underwriters Laboratories of Canada
+7Underwriters Road
+Toronto, Ontario, Canada M1R3B4
+ULC
+
+
+Standard  Referenced
+reference  in code
+number  Title  section number
+
+CAN/ULC S102.2-1988  Standard Method of Test for Surface Burning Characteristics of Flooring,
+Floor Coverings and Miscellaneous Materials and Assemblies-with 2000Revisions .......................... 719.4
+United States Code
+c/o Superintendent of Documents
+usc  U.S. Govermnent Printing Office Washington, DC 20402-9325
+Standard  Referenced
+reference  in code
+number  Title  section number
+18USC Part 1,Ch.40  Importation, Manufacture, Distribution and Storage of Explosive Materials ..................................... 307.2
+
+2013 CALIFORNIA BUILDING CODE
+
+WDMA
+Window and Door Manufacturers Association 1400 East Touhy Avenue #470 Des Plaines, n. 60018
+
+
+
+AAMAIWDMNCSA 101/I.S.2/A440----08
+Specifications for Windows, Doors and Unit Skylights ............................................ 1715.5.1, 2405.5
+
+()
+Wire Reinforcement Institute, Inc.
+942 Main Street, Suite 300
+
+Hartford, CT 06103
+
+WRI
+Standard Referenced
+
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE () APPENDIX A-EMPLOYEE QUALIFICATIONS
+(Not adopted by state agencies)
+HCD DSA OSHPD
+Adopting agency BSC SFM BSCC DPH AGR DWR CEC CA SL SLC
+1 2 1/AC AC ss SS/CC 1 2 3 4
+Adopt entire chapter
+Adopt entire chapter as amended
+(amended sections listed below)
+
+Adopt only those sections that are
+listed below
+
+Chapter I Section
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+0
+
+0
+
+
+
+
+C)
+
+2013 CALIFORNIA BUILDING CODE
+
+()

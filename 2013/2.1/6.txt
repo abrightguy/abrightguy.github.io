@@ -1,0 +1,310 @@
+CHAPTER 6
+TYPES OF CONSTRUCTION
+SECTION 601 tection of openings, ducts and air transfer openings in GENERAL building elements shall not be required unless required by other provisions of this code.
+601.1 Scope. The provisions of this chapter shall control the
+classification of buildings as to type of construction. 	Exception: Noncombustible structural members supporting solar photovoltaic panels are not required to meet the fire resistance rating for the following:
+SECTION 602
+1. Photovoltaic panel supported by a structure and
+CONSTRUCTION CLASSIFICATION
+having no use underneath. Signs may be provided,
+
+602.1 General. Buildings and structures erected or to be
+as determined by the enforcing agency prohibiting
+
+erected, altered or extended in height or area shall be classi
+any use underneath including storage.
+
+fied in one of the five construction types defined in Sections
+2. Solar photovoltaic (PV) panels supported by non
+
+602.2 through 602.5. The building elements shall have a fire
+combustible framing that have sufficient uniformly
+
+resistance rating not less than that specified in Table 601 and
+distributed and unobstructed openings throughout
+exterior walls shall have a fire-resistance rating not less than
+the top of the array (horizontal plane) to allow heat
+that specified in Table 602. Where required to have a fire
+and gases to escape, as determined by the enforcing
+
+resistance rating by Table 601, building elements shall com
+agency.
+
+ply with the applicable provisions of Section 703.2. The pro-
+TABLE 601
+FIRE-RESISTANCE RATING REQUIREMENTS FOR BUILDING ELEMENTS (HOURS)
+
+BUILDING ELEMENT Primary structural frameg (see Section 202) Bearing walls Exterior g Interior Nonbearing walls and partitions Exterior  TYPE I A3a 33a  B 2a 2 2a  TYPE II A 1 1 1  TYPE Ill B Ad B 0 1 0 0 2 2 0 1 0 See Table 602  TYPE IV HT HT 2 1/HT  TYPE V Ad 1 1 1  B 0 0 0
+Nonbearing walls and partitions Interior<  0  0  0  0  0  0  See Section 602.4.6  0  0
+Floor construction and associated secondary members (see Section 202)  2  2  1  0  1  0  HT  1  0
+Roof construction and associated secondary members (see Section 202)  11/zb  1b,c  1b,c  oc  1b,c  0  HT  1b,c  0
+
+For SI: 1 foot = 304.8 mm.
+a. Roof supports: Fire-resistance ratings of primary structural frame and bearing walls are permitted to be reduced by 1 hour where supporting a roof only.
+b.1.Except in Group A, E, F-1, H, 1, L, M, R-1, R-2, R-2.1 and S-1 occupancies, high-rise buildings, and other applications listed in Section 1.11 regulated by the Office of the State Fire Marshal, fire protection of structural members shall not be required, including protection of roof framing and decking where every part of the roof construction is 20 feet or more above any floor immediately below. Fire-retardant-treated wood members shall be allowed to be used for such unprotected members.
+b.2.For Group A, E, 1, L, R-1, R-2 and R-2.1 occupancies, high-rise buildings, and other applications listed in Section 1.11 regulated by the Office of the State Fire Marshal, fire protection of members other than the structural frame shall not be required, including protection of roof framing and decking where every part of the roof construction is 20 feet or more above any floor immediately below. Fire-retardant-treated wood members shall be allowed to be used
+for such unprotected members.
+b.3. For one-story portions of Group A and E assembly occupancies the roof-framing system of Type 11 A or Type 111 A construction may be of unprotected construction when such roof framing system is open to the assembly area and does not contain concealed spaces.
+c.
+In all occupancies, heavy timber shall be allowed where a 1-hour or less fire-resistance rating is required.
+
+d.
+An approved automatic sprinkler system in accordance with Section 903.3.1.1 shall be allowed to be substituted for 1-hour fire-resistance-rated construction, provided such system is not otherwise required by other provisions of the code or used for an allowable area increase in accordance with Section 506.3 or an allowable height increase in accordance with Section 504.2. The 1-hour substitution for the fire resistance of exterior walls shall not be permitted.
+
+e.
+Not less than the fire-resistance rating required by other sections of this code.
+
+f.
+Not less than the fire-resistance rating based on fire separation distance (see Table 602).
+
+g.
+Not less than the fire-resistance rating as referenced in Section 704. 10
+
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE TYPES OF CONSTRUCTION
+3. Solar photovoltaic panels supported by a structure over parking stalls where the panels constitute the roof and all the following conditions are met (see Figure 5-1):
+3.1. The area within the perimeter of the solar photovoltaic array has maximum rectangular dimension of 40 feet by 150 feet.
+3.2. The distance between solar photovoltaic array structures is a minimum of 10 feet clear.
+3.3. 	The driveway aisle separating solar photovoltaic array structures has a minimum width of 25 feet clear.
+3.4. 	Solar photovoltaic array structure is used only for parking purposes with no storage.
+3.5. 	Completely open on all sides (other than necessary structural supports) with no interior partitions.
+602.1.1 Minimum requirements. A building or portion thereof shall not be required to conform to the details of a type of construction higher than that type which meets the minimum requirements based on occupancy even though certain features of such a building actually conform to a higher type of construction.
+602.2 Types I and II. Types I and II construction are those types of construction in which the building elements listed in Table 601 are of noncombustible materials, except as permitted in Section 603 and elsewhere in this code.
+602.3 Type III. Type III construction is that type of construction in which the exterior walls are of noncombustible materials and the interior building elements are of any material permitted by this code. Fire-retardant-treated wood framing complying with Section 2303.2 shall be permitted within exterior wall assemblies of a 2-hour rating or less.
+602.4 Type IV. Type IV construction (Heavy Timber, HT) is that type of construction in which the exterior walls are of noncombustible materials and the interior building elements are of solid or laminated wood without concealed spaces. The details of Type IV construction shall comply with the provisions of this section. Fire-retardant-treated wood framing complying with Section 2303.2 shall be permitted within exterior wall assemblies with a 2-hour rating or less. Minimum solid sawn nominal dimensions are required for structures built using Type IV construction (HT). For gluedlaminated members the equivalent net finished width and depths corresponding to the minimum nominal width and depths of solid sawn lumber are required as specified in Table
+602.4.
+TABLE 602.4
+WOOD MEMBER SIZE EQUIVALENCIES
+
+
+MINIMUM NOMINAL SOLID
+MINIMUM GLUED-LAMINATED
+SAWN SIZE
+NET SIZE
+
+Width, inch
+Width, inch
+Depth, inch
+Depth, inch
+
+8
+8
+63/4
+81/4
+
+6
+10
+5
+101/2
+
+6
+5
+8
+8\
+
+6
+6
+5
+6
+3
+
+4
+6
+67/8
+
+For SI: 1 inch = 25.4 mm.
+602.4.1 Columns. Wood columns shall be sawn or glued laminated and shall be not less than 8 inches (203 mm), nominal, in any dimension where supporting floor loads and not less than 6 inches (152 mm)nominal in width and not less than 8 inches (203 mm) nominal in depth where supporting roof and ceiling loads only. Columns shall be continuous or superimposed and connected in an approved manner.
+TABLE 602
+FIRE-RESISTANCE RATING REQUIREMENTS FOR EXTERIOR WALLS BASED ON FIRE SEPARATION DISTANCE
+
+FIRE SEPARATION DISTANCE = X (feet)  TYPE OF CONSTRUCTION  OCCUPANCY GROUP H', L  OCCUPANCY GROUP F-1 , M, S-19  OCCUPANCY GROUP A, B, E, F-2, I, R" ', S-29, U" " '
+X <5c  All  3  2  1
+5::; X< 10  IA Others  3 2  2 1  1 1
+lQ::;x <30  IA, IB liB, VB Others  2 1 1  1 0 1  1d 0 1d
+X 30  All  0  0  0
+
+For SI: 1 foot = 304.8 mm.
+a.
+Load-bearing exterior walls shall also comply with the fire-resistance rating requirements of Table 601.
+
+b.
+For special requirements for Group U occupancies, see Section 406.3.
+
+c.
+See Section 706.1.1 for party walls.
+
+d.
+Open parking garages complying with Section 406 shall not be required to have a fire-resistance rating.
+
+e.
+The fire-resistance rating of an exterior wall is determined based upon the fire separation distance of the exterior wall and the story in wbich the wall is located.
+
+f.
+For special requirements for Group H occupancies, see Section 415.5.
+
+g.
+For special requirements for Group S aircraft hangars, see Section 412.4. 1.
+
+h.
+Where Table 705.8 permits nonbearing exterior walls with unlimited area of unprotected openings, the required fire-resistance rating for the exterior walls is Ohours.
+
+
+i. 	Group R-3 and Group U occupancies when used as accessory to Group R-3 occupancies, shall not be required to have afire-resistance rating where the fire separation distance is 5 feet or more; or when equipped throughout with an automatic residential fire sprinkler system installed in accordance with Section
+903.3 the fire-resistance rating shall not be required where the fire separation distance is 3 feet or more.
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+TYPES OF CONSTRUCTION
+
+
+0 602.4.2 Floor framing. Wood beams and girders shall be decking shall be permitted to be used if providing equiva
+of sawn or glued-laminated timber and shall be not less lent fire resistance and structural properties.
+than 6 inches (152 mm) nominal in width and not less than
+
+602.4.6 Partitions. Partitions shall be of solid wood con
+
+10 inches (254 mm) nominal in depth. Framed sawn or struction formed by not less than two layers of l-inch (25 glued-laminated timber arches, which spring from the mm) matched boards or laminated construction 4 inches
+floor line and support floor loads, shall be not less than 8 (102 -mm) thick, or of 1-hour fire-resistance-rated con
+
+inches (203 mm) nominal in any dimension. Framed timstruction.
+ber trusses supporting floor loads shall have members of
+
+
+
+
+602.4.7 Exterior structural members. Where a horizon
+not less than 8 inches (203 mm) nominal in any dimental separation of 20 feet (6096 mm) or more is provided,
+sion. wood columns and arches conforming to heavy timber
+
+602.4.3 Roof framing. Wood-frame or glued-laminated sizes shall be permitted to be used externally. arches for roof construction, which spring from the floor
+602.5 T-ype V. Type V construction is that type of construc
+line or from grade and do not support floor loads, shall
+tion in which the structural elements, exterior walls and inte
+have members not less than 6 inches (152 mm) nominal in
+rior walls are of any materials permitted by this code. () width and have not less than 8 inches (203 mm) nominal in depth for the lower half of the height and not less than 6 inches (152 mm) nominal in depth for the upper half.
+
+SECTION 603 Framed or glued-laminated arches for roof constructionCOMBUSTIBLE MATERIAL IN
+
+that spring from the top of walls or wall abutments, framed TYPE I AND II CONSTRUCTION timber trusses and other roof framing, which do not sup
+
+
+603.1 Allowable materials. Combustible materials shall be port floor loads, shall have members not less than 4 inches
+permitted in buildings of Type I or II construction in the fol(102 mm) nominal in width and not less than 6 inches (152 lowing applications and in accordance with Sections 603.1.1
+mm) nominal in depth. Spaced members shall be permitthrough 603.1.3:
+ted to be composed of two or more pieces not less than 3 inches (76 mm) nominal in thickness where blocked sol
+1. Fire-retardant-treated wood shall be permitted in: idly throughout their intervening spaces or where spaces
+1.1. Nonbearing partitions where the required frreare tightly closed by a continuous wood cover plate of not
+resistance rating is 2 hours or less. less than 2 inches (5 1 mm) nominal in thickness secured to
+
+1.2. Nonbearing exterior walls where fire-resistance
+
+the underside of the members. Splice plates shall be not
+less than 3inches (76 mm) nominal in thickness. Where rated construction is not required.
+protected by approved automatic sprinklers under the roof 1.3. Roof construction, including girders, trusses,
+deck, framing members shall be not less than 3 inches (76 framing and decking.
+mm) nominal in width.
+
+
+Exception: In buildings of Type IA construction exceeding two stories above grade plane, fire-retardant602.4.4 Floors. Floors shall be without concealed spaces.
+treated wood is not permitted in roof construction Wood floors shall be of sawn or gluedlaminated planks, where the vertical distance from the upper floor to the splined or tongue-and-groove, of not less than 3 inches (76 roof is less than 20 feet (6096 mm).
+
+mm) nominal in thickness covered with l-inch (25 mm) nominal dimension tongue-and-groove flooring, laid 2. Thermal and acoustical insulation, other than foam crosswise or diagonally, or 0.5-inch (12.7 mm) particleplastics, having a flame spread index of not more than board or planks not less than 4 inches (102 mm) nominal 25. in width set on edge close together and well spiked and
+Exceptions:
+
+covered with l-inch (25 mm) nominal dimension flooring
+or
+
+
+15/32-inch (12 mm) wood structural panel or 0.5-inch 1. Insulation placed between two layers of non
+(12.7 mm) particleboard. The lumber shall be laid so that combustible materials without an intervening no continuous line of joints will occur except at points of airspace shall be allowed to have a flame support. Floors shall not extend closer than 0.5 inch (12.7 spread index of not more than 100. mm) to walls. Such 0.5-inch (12.7 mm) space shall be cov
+2. Insulation installed between a finished floor eed by a molding fastened to the wall and so arranged that
+and solid decking without intervening airspace it will not obstruct the swelling or shrinkage movements
+
+shall be allowed to have a flame spread index of the floor. Corbeling of masonry walls under the floor
+of not more than 200. shall be permitted to be used in place of molding.
+
+3. Foam plastics in accordance with Chapter 26.
+
+602.4.5 Roofs. Roofs shall be without concealed spaces 4. Roof coverings that have an A,B or Cclassifi
+and wood roof decks shall be sawn or glued laminated, cation.
+splined or tongue-and-groove plank, not less than 2 inches
+
+5. Interior floor finish and floor covering materi(5 1 mm) nominal in thickness,
+11/8-inch-thick (32 mm) als installed in accordance with Section 804.
+
+wood structural panel' (exterior glue), or of planks not less than 3 inches (76 mm) nominal in width, set on edge close 6. Millwork such as doors, door frames, window together and laid as required for floors. Other types of sashes and frames.
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE TYPES OF CONSTRUCTION
+
+
+7.
+Interior wall and ceiling finishes installed in accordance with Sections 801 and 803.
+
+8.
+Trim installed in accordance with Section 806.
+
+9.
+Where not installed greater than 15 feet (4572
+
+
+or furring strips
+bulkheads below show windows, including their frames, aprons
+10. 	Finish in accordance with Section 805.
+11 . 	Partitions dividing portions of stores, offices or similar places occupied by one tenant only and that do not establish a corridor serving an occupant load of 30 or more shall be permitted to be
+1hour construction or of wood panels or similar light construction up to
+12. 	Stages and platforms constructed in accordance
+13.Combustible exterior wall coverings, balconies and similar projections and bay or oriel win
+14.
+Blocking such as for handrails, millwork, cabi
+
+15.
+as permitted by Chapter 26.
+
+16.
+Mastics and caulking materials applied to provide between components of
+
+17.
+Exterior plastic veneer installed in accordance
+
+18.
+Nailing or furring strips as permitted by Section
+
+
+803.4.
+
+Heavy timber as permitted by Note c to Table 601 and Sections 602.4.7 and 1406.3. Aggregates, component materials and admixtures as permitted by Section 703.2.2.
+Sprayed fire-resistant materials and intumescent and mastic fire-resistant coatings, determined on the basis of fire-resistance tests in accordance with Section 703 .2 and installed in accordance with Sections 1705.13 and 1705.14, respectively. Materials used to protect penetrations in fireresistance-rated assemblies in accordance with Section 714.
+Materials used to protect joints in fire-resistance-rated assemblies in accordance with Section 715. Materials allowed in the concealed spaces of buildings of Types I and II construction in accordance with Section 718.5.
+
+Materials exposed within plenums complying with Section 602 of the California Mechanical Code.
+
+
+6031.1 Ducts. The use of nonmetallic ducts shall be permitted where installed in accordance with the limitations of the California Mechanical Code.
+603.1.2 Piping. The use of combustible piping materials shall be permitted where installed in accordance with the limitations of the California Mechanical Code and the
+603.1.3 Electrical. The use of electrical wiring methods with combustible insulation, tubing, raceways and related components shall be permitted where installed in accordance with the limitations of the California Electrical
+
+
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE

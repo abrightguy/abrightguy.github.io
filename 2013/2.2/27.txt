@@ -1,0 +1,178 @@
+CHAPTER 27 -ELECTRICAL
+
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+Adopting agency Adopt entire chapter Adopt entire chapter as amended (amended sections listed below) Adopt only those sections that are listed below ChapterI Section  BSC SFM X  1  HCD 2 1/AC AC X  DSA OSHPD ss SS/CC 1 2 3  DWRBSCC DPH AGR CEC CA  SL  SLC
+2702.2.5  X
+2702.2.6  X
+2702.2. 15  X
+2702.2.21  X
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+()
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+()
+
+
+
+()
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+
+CHAPTER 27
+ELECTRICAL
+
+
+0
+SECTION 2701 GENERAL
+2701.1 Scope. This chapter governs the electrical compo�nents, equipment and systems used in buildings and struc�tures covered by this code. Electrical components, equipment and systems shall be designed and constructed in accordance with the provisions of California Electrical Code.
+
+SECTION 2702 EMERGENCY AND STANDBY POWER SYSTEMS
+[F]
+2702.1 Installation. Emergency and standby power sys�tems required by this code or the California Fire Code shall be installed in accordance with this code, NFPA 110 and 111.
+
+[F]
+2702.1.1 Stationary generators. Stationary emer�gency and standby power generators required by this code shall be listed in accordance with UL 2200.
+
+[F]
+2702.2 Where required. Emergency and standby power systems shall be provided where required by Sections 2702.2.1 through 2702.2.20.
+
+
+
+0 [F] 2702.2.1 Group A occupancies. Emergency power shall be provided for emergency voice/alarm communica�tion systems in Group A occupancies in accordance with Section 907.5.2.2.4.
+[F]
+2702.2.2 Smoke control systems. Standby power shall be provided for smoke control systems in accordance with Section 909. 11.
+
+[F]
+2702.2.3 Exit signs. Emergency power shall be pro�
+
+
+
+vided for exit signs in accordance with Section 1011.6.3.
+
+[F]
+2702.2.4 Means of egress illumination. Emergency power shall be provided for means of egress illumination in accordance with Section 1006.3.
+
+[F]
+2702.2.5 Accessible means of egress elevators. Standby power shall be provided for elevators that are part of an accessible means of egress in accordance with Sec�tion 1007.4.
+
+[F]
+2702.2.6 Accessible means of egress platform lifts. Standby power in accordance with this section or ASME A 18.1 shall be provided for platform lifts that are part of an accessible means of egress in accordance with Section 1007.5.
+
+
+
+[F]
+2702.2.7 Horizontal sliding doors. Standby power shall be provided for horizontal sliding doors in accor�dance with Section 1008.1.4.3.
+
+[F]
+2702.2.8 Semiconductor fabrication facilities. Emer�gency power shall be provided for semiconductor fabrica�tion facilities in accordance with Section 415.10.10.
+
+
+
+[F]
+2702.2.9 Membrane structures. Standby power shall be provided for auxiliary inflation systems in accordance with Section 3102.8.2. Emergency power shall be pro�
+
+
+
+
+
+
+
+vided for exit signs in temporary tents and membrane structures in accordance with the California Fire Code.
+[F]
+2702.2.10 Hazardous materials. Emergency or standby power shall be provided in occupancies with haz�ardous materials in accordance with Section 414.5.3.
+
+[F]
+2702.2.11 Highly toxic and toxic materials. Emer�gency power shall be provided for occupancies with highly toxic or toxic materials in accordance with the Cali�fornia Fire Code.
+
+[F]
+2702.2.12 Organic peroxides. Standby power shall be provided for occupancies with silane gas in accordance with the California Fire Code.
+
+[F]
+2702.2.13 Pyrophoric materials. Emergency power shall be provided for occupancies with silane gas in accor�dance with the California Fire Code.
+
+[F]
+2702.2.14 Covered and open mall buildings. Standby power shall be provided for voice/alarm commu�nication systems in covered and open mall buildings in accordance with Section 402.7.3.
+
+
+[F] 2702.2.15 High-rise buildings and Group 1-2 occu�pancies having occupied floors located more than 75feet above the lowest level of fire department vehicle access.
+Emergency and standby power shall be provided in high�rise buildings and Group 1-2 occupancies having occupied floors located more than 75 feet above the lowest level of fire department vehicle access in accordance with Sections
+403.4.7 and 403.4.8.
+
+[F]
+2702.2.16 Underground buildings. Emergency and standby power shall be provided in underground buildings in accordance with Sections 405.8 and 405.9.
+
+[F]
+2702.2.17 Group 1-3 occupancies. Emergency power shall be provided for doors in Group I-3 occupancies in accordance with Section 408.4.2.
+
+[F]
+2702.2.18 Airport traffic control towers. Standby power shall be provided in airport traffic control towers in accordance with Section 412.3.4.
+
+[F]
+2702.2.19 Elevators. Standby power for elevators shall be provided as set forth in Sections 3003.1, 3007.9 and 3008.9.
+
+[F]
+2702.2.20 Smokeproof enclosures. Standby power shall be provided for smokeproof enclosures as required by Section 909.20.6.2.
+
+
+2702.2.21 Group L-Occupancy. Emergency power shall be provided in Group L occupancies in accordance with this chapter and Section 443.4.6.1.
+[F] 2702.3 Maintenance. Emergency and standby power systems shall be maintained and tested in accordance with the
+California Fire Code.
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+C)
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE CHAPTER 28 -MECHANICAL SYSTEMS
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+Adopting agency Adopt entire chapter Adopt entire chapter as amended (amended sections listed below) Adopt only those sections that are listed below ChapterI Section  BSC  SFM X  1  HCD 2  1/AC  AC  DSA ss  SS/CC  1  OS2  HPD 3  AGRBSCC DPH DWR 4 CEC  CA  SL  SLC
+2802  X
+
+
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+
+
+
+
+u
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+

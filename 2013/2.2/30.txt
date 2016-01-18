@@ -1,0 +1,656 @@
+CHAPTER 30 -ELEVATORS AND CONVEYING SYSTEMS
+(Matrix Adoption Tables are non-regulatory, intended only as an aid to the user. See Chapter 1 for state agency authority and building applications.)
+HCD DSA OSHPD
+Adopting agency BSC SFM BSCC DPH AGR DWR CEC CA SL SLC
+1 2 1/AC AC ss SS/CC 1 2 3 4
+Adopt entire chapter X X X X X X
+Adopt entire chapter as amended
+(amended sections listed below)
+
+
+0 X
+Adopt only those sections that are
+X X X X X
+listed below
+ChapterI Section
+
+0 3001. 1 X X
+300 1. 1w/ Exption X
+300 1.2 X
+3001.3 X X X X
+300 1.4
+300 1.5 X
+3002.4a -3002.4. 7a X
+3002. 5 X
+3002.9 -3002.9.5 X
+3003.2 -3003.2. 1.2 X
+3003. 3 X
+
+3004. 1 X
+
+0
+3004.3. 1 X 3006.4. 1 X 3006.5 X
+3007. 1 X 3007. 7. 1 X 3007. 7. 4 X 3007.2 X 3008. 1.2 X
+3008.2 X > 3008.2. 1 X 3008.3. 1 X
+3008. 6 X
+> 3008.8. 1 X
+3009
+X
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11.
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+()
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+CHAPTER 30
+ELEVATORS AND CONVEYING SYSTEMS
+()�
+'--�
+>
+
+
+
+()
+
+
+
+SECTION 3001
+GENERAL
+
+3001.1 Scope. This chapter governs the design, construction, installation, alteration and repair of elevators and conveying systems and their components.
+Exception: [DSA-AC] For accessibility requirements for platform lifts and elevators, see California Code of Regu�lations, Title 8 and Title 24, Part 2, Chapter JIB, Sections llB-206.6, llB-206.7, llB-407 and llB-410.
+3001.2 Referenced standards. Except as otherwise provided for in this code, the design, construction, installation, altera�tion, repair and maintenance of elevators and conveying sys�tems and their components shall conform to California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders, ASME A90.1, ASME B20.1, ALI ALCTV, and ASCE 24 for construction in flood hazard areas established in Section 1612.3.
+3001.3 Accessibility. Passenger elevators and platform (wheelchair) lifts required to be accessible by Chapter 11A or 11B shall conform to Chapter 11A for applications listed in Section 1.8.2.1.2 regulated by the Department of Housing and Community Development or Chapter llB for applica�tions listed in Section 1.9.1 regulated by the Division of the State Architect-Access Compliance.
+3001.4 Change in use. A change in use of an elevator from freight to passenger, passenger to freight, or from one freight class to another freight class shall comply with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchap�ter 6, Elevator Safety Orders.
+3001.5 Elevators utilized to transport hazardous materials.
+Elevators utilized to transport hazardous materials shall also comply with the California Fire Code Section 2703.10.4
+SECTION 3002
+HOISTWAY ENCLOSURES
+
+
+
+3002.1 Hoistway enclosure protection. Elevator, dumb�waiter and other hoistway enclosures shall be shaft enclo�sures complying with Section 713.
+3002.1.1 Opening protectives. Openings in hoistway enclosures shall be protected as required in Chapter 7.
+Exception: The elevator car doors and the associated hoistway enclosure doors at the floor level designated for recall in accordance with Section 3003.2 shall be permitted to remain open during Phase I Emergency Recall Operation.
+3002.1.2 Hardware. Hardware on opening protectives shall be of an approved type installed as tested, except that approved interlocks, mechanical locks and electric con�tacts, door and gate electric contacts and door-operating
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+
+
+mechanisms shall be exempt from the fire test require�
+ments.
+
+
+3002.2 Number of elevator cars in a hoistway. Where four or more elevator cars serve all or the same portion of a build�ing, the elevators shall be located in no fewer than two sepa�rate hoistways. Not more than four elevator cars shall be located in any single hoistway enclosure.
+3002.3 Emergency signs. An approved pictorial sign of a standardized design shall be posted adjacent to each elevator call station on all floors instructing occupants to use the exit stairways and not to use the elevators in case of fire. The sign shall read: IN CASE OF FIRE, ELEVATORS ARE OUT OF SERVICE. USE EXIT STAIRS.
+Exceptions:
+
+
+1.
+The emergency sign shall not be required for eleva�tors that are part of an accessible means of egress complying with Section 1007.4.
+
+2.
+The emergency sign shall not be required for eleva�tors that are used for occupant self-evacuation in
+accordance with Section 3008.
+
+
+
+
+3002.4 Elevator car to accommodate ambulance stretcher. Where elevators are provided in buildings four or � more stories above, or four or more stories below, grade plane, at least one elevator shall be provided for frre depart�ment emergency access to all floors. The elevator car shall be of such a size and arrangement to accommodate an ambu�lance stretcher 24 inches by 84 inches (610 mm by 2134 mm) with not less than 5-inch (127 mm) radius comers, in the horizontal, open position and shall be identified by the inter�national symbol for emergency medical services (star of life). The symbol shall not be less than 3 inches (76 mm) in height and shall be placed inside on both sides of the hoistway door frame.
+The following California sections replace the corresponding
+model code section for applications specified in section 1.11 for the Office of the State Fire Marshal.
+3002.4a General stretcher requirements. All buildings and structures with one or more passenger service elevators shall be provided with not less than one medical emergency service elevator to all landings meeting the provisions of Section 3002.4a.
+
+Exceptions:
+
+1.
+Elevators in structures used only by maintenance and operating personnel.
+
+2.
+Elevators in jails and penal institutions.
+
+
+3.
+Elevators in buildings 	or structures where each landing is at ground level or is accessible at grade level or by a ramp.
+
+4.
+Elevator(s) 	in two-story buildings or structures equipped with stairs of a configuration that will
+
+
+41 3
+
+
+
+
+accommodate the carrying of the gurney or 3002.6 Prohibited doors. Doors, other than hoistway doors stretcher as permitted by the local jurisdictional and the elevator car door, shall be prohibited at the point of authority.
+
+access to an elevator car unless such doors are readily open�
+
+
+
+
+5. Elevators in buildings or structures less than four stories in height for which the local jurisdictional authority has granted an exception in the form of a written document.
+3002.4.Ia Gurney size. The medical emergency service elevator shall accommodate the loading and transport of an ambulance gurney or stretcher [maximum size 24 inches by 84 inches (610 mm by 2134 mm) with not less than 5-inch ( 127 mm) radius comers] in the horizontal position.
+3002.4.2a Hoistway doors. The hoistway landing open�ings shall be provided with power-operated doors.
+3002.4.3a Elevator entrance openings and car size. The elevator car shall be of such a size and arrangement to accommodate a 24-inch by 84-inch (610 mm by 2134 mm) ambulance gurney or stretcher with not less than 5-inch (127 mm) radius comers, in the horizontal, open position, shall be provided with a minimum clear distance between walls or between walls and door excluding return panels not less than 80 inches by 54 inches (2032 mm by 1372 mm), and a minimum distance from wall to return panel not less than 51 inches (1295 mm) with a 42-inch (1067 mm) side slide door.
+Exception: The elevator car dimensions and/or the clear entrance opening dimensions may be altered where it can be demonstrated to the local jurisdictional authority 's satisfaction that the proposed configuration will handle the designated gurney or stretcher with equivalent ease. Documentation from the local author�ity shall be provided to the Occupational Safety and Health Standards Board.
+3002.4.4a Elevator recall The elevator(s) designated the medical emergency elevator shall be equipped with a key switch to recall the elevator nonstop to the main floor. For the purpose of this section, elevators in compliance with Section 3003.2 shall be acceptable.
+3002.4.5a Designation. Medical emergency elevators shall be identified by the international symbol (Star of Life) for emergency medical services.
+3002.4.6a Symbol size. The symbol shall not be less than 3 inches (76 mm) in size.
+3002.4. 7a Symbol location. A symbol shall be perma�nently attached to each side of the hoistway door frame on the portion of the frame at right angles to the hallway or landing area. Each symbol shall be not less than 78 inches (1981 mm) and not more than 84 inches (2134 mm) above the floor level at the threshold.
+
+> 	3002.5 Emergency doors. Emergency doors in blind hoist�ways as described in ASME Al7.1-2004, section 2.11.1.2, and access panels as described in ASME AI7.1-2004, section
+2.11.1.4, are prohibited in accordance with California Code of Regulations, Title 8, Division I, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+
+
+able from the car side without a key, tool, special knowledge or effort.
+3002.7 Common enclosure with stairway. Elevators shall not be in a common shaft enclosure with a stairway.
+Exception: Elevators within open parking garages need
+
+
+(J
+not be separated from stairway enclosures.
+
+3002.8 Glass in elevator enclosures. Glass in elevator enclo�sures shall comply with Section 2409.1.
+3002.9 Photoelectric tube bypass switch.
+3002.9.1 Elevators equipped with photoelectric tube devices which control the closing of automatic, power�()operated car or hoistway doors, or both, shall have a switch in the car which, when actuated, will render the photoelectric tube device ineffective.
+3002.9.2 The switch shall be constant-pressure type,
+requiring not less than I 0 pounds ( 44.5N) or more than 15
+pounds ( 66. 7 N) pressure to actuate.
+
+3002.9.3 The switch shall be located not less than 6 feet
+(1829 mm) or more than 6feet 6 inches (1981 mm) above
+the car floor and shall be located in or adjacent to the
+operating panel.
+
+3002.9.4 The switch shall be clearly labeled TO BE USED
+IN CASE OF FIRE ONLY.
+
+
+
+3002.9.5 Switches shall be kept in working order or be
+0
+
+removed when existing installations are arranged to com�
+ply with Section 3002.9.5, Exception I or 2.
+
+Exceptions:
+I. Elevators installed and maintained in compliance with Section 3003.
+2. Where 	alternate means acceptable to the fire authority having jurisdiction are provided that will ensure the doors can close under adverse smoke conditions.
+SECTION 3003 EMERGENCY OPERATIONS
+
+[F]
+3003.1 Standby power. In buildings and structures ()
+where standby power is required or furnished to operate an
+elevator, the operation shall be in accordance with Sections
+3003.1.1 through 3003.1.4.
+
+
+[F]
+3003.1.1 Manual transfer. Standby power shall be
+manually transferable to all elevators in each bank.
+
+
+[F]
+3003.1.2 One elevator. Where only one elevator is
+installed, the elevator shall automatically transfer to
+standby power within 60 seconds after failure of normal
+power.
+
+
+
+
+
+[F] 3003.1.3 Two or more elevators. Where two or more
+'
+
+elevators are controlled by a common operating system,
+l all elevators shall automatically transfer to standby power within 60 seconds after failure of normal power where the standby power source is of sufficient capacity to operate
+201 3 CALIFORNIA BUILDING CODE ELEVATORS AND CONVEYING SYSTEMS
+
+
+
+3004.2 Location of vents. Vents shall be located at the top of the hoistway and shall open either directly to the outer air or through noncombustible ducts to the outer air. Noncombusti�ble ducts shall be permitted to pass through the . elevator machine room, provided that portions of the ducts located outside the hoistway or machine room are enclosed by con�struction having not less than the fire-resistance
+rating required for the hoistway. Holes in the machine room floors
+for the passage of ropes, cables or other moving elevator equipment shall be limited as not to provide greater than 2 inches (51 mm) of clearance on all sides. 3004.3 Area of vents. Except as provided for in Section
+3004.3.1, the area of the vents shall be not less than 31/2 per�cent of the area of the hoistway nor less than 3 square feet
+(0.28 m2) for each elevator car, and not less than 31/2 percent nor less than 0.5 square feet (0.047 m2) for each dumbwaiter car in the hoistway, whichever is greater. Of the total required vent area, not less than one-third shall be permanently open. Closed portions of the required vent area shall consist of openings glazed with annealed glass not greater than 1/8 inch
+
+
+(3.2 mm) in thickness.
+
+
+Exception: The total required vent area shall not be required to be permanently open where all the vent open�ings automatically open upon detection of smoke in the elevator lobbies or hoistway, upon power failure and upon activation of a manual override control. The manual over�ride control shall be capable of opening and closing the vents and shall be located in an approved location.
+3004.3.1 Reduced vent area. Where mechanical ventila�tion conforming to the California Mechanical Code is pro�vided, a reduction in the required vent area is allowed provided that all of the following conditions are met:
+1. 	The occupancy is not in Group R-1, R-2, R-2.1 or 1�2 or of a similar occupancy with overnight sleeping units.
+
+2.
+The vents required by Section 3004.2 do not have outside exposure.
+
+3.
+The hoistway does not extend to the top of the build�ing.
+
+4.
+The hoistway and machine room exhaust fan is auto�matically reactivated by thermostatic means.
+
+5. Equivalent venting of the hoistway is accomplished.
+
+
+3004.4 Plumbing and mechanical systems. Plumbing and mechanical systems shall not be located in an elevator hoist�way enclosure.
+Exception: Floor drains, sumps and sump pumps shall be permitted at the base of the-hoistway enclosure provided they are indirectly connected to the plumbing system.
+SECTION 3005
+CONVEYING SYSTEMS
+
+
+3005.1 General. Escalators, moving walks, conveyors, per�sonnel hoists and material hoists shall comply with the provi�sions of Sections 3005.2 through 3005.4.
+
+
+
+
+all elevators at the same time. Where the standby power
+so-urce is not of sufficient capacity to operate all elevators
+
+0
+() at the same time, all elevators shall transfer to standby power in sequence, return to the designated landing and disconnect from the standby power source. After all eleva�tors have been returned to the designated level, at least one elevator shall remain operable from the standby power source.
+[F) 3003.1.4 Venting. Where standby power is connected to elevators, the machine room ventilation or air condi�tioning shall be connected to the standby power source.
+0
+[F) 3003.2 Fire-fighters' emergency operation. Elevators shall be provided with Phase I emergency recall operation and Phase IT emergency in-car operation in accordance with
+California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+3003.2.1Floor numbers. Elevator hoistways shall have a floor number not less than 4 inches (102 mm) in height, placed on the walls and/or doors of the hoistway at inter�vals such that a person in a stalled elevator, upon opening the car door, can determine the floor position.
+3003.2.1.1 Fire signs. All automatic elevators shall have not less than one sign at each landing printed on a contrasting background in letters not less than 112 inch
+(12. 7 mm) high to read: IN CASE OF FIRE USE STAIRWAY FOR EXIT. DO NOT USE ELEVATOR.
+3003.2.1.2 Call and caroperation buttons. Automatic
+
+() passenger elevators shall have call and car operation buttons within 60 inches (1524 mm) of the floor. Emer�gency telephones shall also be within 60 inches (1524 mm) ofthefloor. [F) 3003.3 Standardized rrre service elevator keys. All ele�vators shall be equipped to operate with a standardized fire service elevator key in accordance with the California Fire Code.
+SECTION 3004 HOISTWAY VENTING
+3004.1 Vents required. Hoistways of elevators and dumb�waiters penetrating more than three stories shall be provided with a means for venting smoke and hot gases to the outer air in case of fire.
+
+
+Exception: Venting is not required for the following ele�vators and hoistways:
+
+
+1. In occupancies of other than Groups R -1, R-2, R�2.1, 1-2 and similar occupancies with overnight
+
+
+�
+sleeping units, where the building is
+throughout with an
+
+approved automatic system installed in accordance with
+903.3.1.1 or 903.3.1.2.
+2.
+Sidewalk elevator hoistways.
+
+
+
+
+
+equipped sprinkler Section
+
+
+3.
+Elevators contained within and serving open parking garages only.
+
+4.
+Elevators within individual residential dwelling units.
+
+2013 CALIFORNIA BUILDING CODE
+
+3005.2 Escalators and moving walks. Escalators and mov�ing walks shall be constructed of approved noncombustible and fire-retardant materials. This requirement shall not apply to electrical equipment, wiring, wheels, handrails and the use of 1/28-inch (0.9 mm) wood veneers on balustrades backed up with noncombustible materials.
+3005.2.1
+Enclosure. Escalator floor openings
+shall be enclosed with shaft enclosures complying with Section
+713.
+3005.2.2 Escalators. Where provided in below-grade transportation stations, escalators shall have a clear width of not less than 32 inches (815 mm).
+Exception: The clear width is not required in existing facilities undergoing alterations.
+
+3005.3 Conveyors. Conveyors and conveying systems shall comply with ASME B20. 1.
+3005.3.1 Enclosure. Conveyors and related equipment connecting successive floors or levels shall be enclosed with shaft enclosures complying with Section 713.
+3005.3.2 Conveyor safeties. Power-operated conveyors, belts and other material-moving devices shall be equipped with automatic limit switches which will shut off the power in an emergency and automatically stop all opera�tion of the device.
+
+3005.4 Personnel and material hoists. Personnel and mate�rial hoists shall be designed utilizing an approved method that accounts for the conditions imposed during the intended operation of the hoist device. The design shall include, but is not limited to, anticipated loads, structural stability, impact, vibration, stresses and seismic restraint. The design shall account for the construction,
+installation, operation and inspection of the hoist tower, car, machinery and control equipment, guide members and hoisting mechanism. Addi�tionally, the design of personnel hoists shall include provi�sions for field testing and maintenance which will demonstrate that the hoist device functions in accordance with the design. Field tests shall be conducted upon the com�pletion of an installation or following a major alteration of a personnel hoist.
+SECTION 3006
+MACHINE ROOMS
+
+
+3006.1 Access. An approved means of access shall be pro�vided to elevator machine rooms and overhead machinery spaces.
+3006.2 Venting. Elevator machine rooms that contain solid�state equipment for elevator operation shall be provided with an independent ventilation or air-conditioning system to pro�tect against the overheating of the electrical equipment. The system shall be capable of maintaining temperatures within the range established for the elevator equipment.
+
+
+3006.3 Pressurization. The elevator machine room serving a pressurized elevator hoistway shall be pressurized upon acti�vation of a heat or smoke detector located in the elevator machine room.
+
+
+
+
+
+
+3006.4 Machine rooms and machinery spaces. Elevator machine rooms and machinery spaces shall be enclosed with fire barriers constructed in accordance with Section 707 or horizontal assemblies constructed in accordance with Section 71 1, or both. The fire-resistance rating shall be not less than the required rating of the hoistway enclosure served by the machinery. Openings in the fire barriers shall be protected with assemblies having a fire protection rating not less than that required for i:he hoistway enclosure doors.
+Exceptions:
+1.
+Where machine rooms and machinery spaces do not abut and have no openings to the hoistway enclosure they serve the fire barriers constructed in accordance with Section 707 or horizontal assemblies con�structed in accordance with Section 71 1, or both, shall be permitted to be reduced to a 1-hour fire�resistance rating.
+
+2.
+In buildings four stories or less above grade plane where machine room and machinery spaces do not abut and have no openings to the hoistway enclosure they serve, the machine room and machinery spaces are not required to be fire-resistance rated.
+
+
+3006.4.1 Automatic sprinkler system. Automatic sprin-. klers shall not be required to be installed in the elevator hoistway, elevator machine room, elevator machinery space, elevator control space, or elevator control room where all the following are met:
+1.
+Approved smoke detectors shall be installed in the elevator hoistway, elevator machine room, elevator machinery spaces, elevator control spaces, or eleva�tor control rooms and connected to the building fire alarm system in accordance with Section 907.
+
+2.
+Activation of any smoke detector located in the ele�vator hoistway, elevator machine room, elevator machinery space, elevator control space, or elevator control room shall cause the actuation of the build�ing fire alarm notification appliances in accordance with Section 907.
+
+3.
+Activation of any smoke detector located in the ele�vator hoistway, elevator machine room, elevator machinery space, elevator control space, or elevator control room shall cause all elevators having any equipment located in that elevator hoistway, eleva�tor machine room, elevator machinery space, eleva�tor control space, or elevator control room to recall nonstop to the appropriate designated floor in accordance with CCR Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+4.
+The elevator machine room, elevator machinery space, elevator control space, or elevator control room shall be enclosed with fire barriers con�structed in accordance with Section 707 or horizon�tal assemblies constructed in accordance with Section 712, or both. The fire-resistance rating shall not be less than the required rating of the hoistway enclosure served by the machinery. Openings in the fire barriers shall be protected with assemblies hav�
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+
+ing a fire protection rating not less than that required for the hoistway enclosure doors. The
+
+() exceptions to Section 3006.4 shall not apply.
+5. The building fire alarm system shall be monitored by an approved supervising station in accordance with Section 907.
+
+0 6. An approved sign shall be permanently displayed in the elevator machine room, elevator machinery space, elevator control space, or elevator control room in a conspicuous location with a minimum of 11/2-inch letters on a contrasting background, stat�ing:
+
+NO COMBUSTffiLE STORAGE
+PERMITTED IN THIS ROOM
+By Order of the Fire Marshal [or name of fire authority]
+
+3006.5 Shunt trip. Where elevator hoistways or elevator machine rooms containing elevator control equipment are protected with automatic sprinklers, a means installed in accordance with NFPA 72, Section 21.4, Elevator Shutdown, shall be provided to disconnect automatically the main line power supply to the affected elevator prior to the application of water. This means shall not be self-resetting. The activa�tion of sprinklers outside the hoistway or machine room shall not disconnect the main line power supply.
+
+0
+3006.6 Plumbing systems. Plumbing systems shall not be
+located in elevator equipment rooms.
+SECTION 3007 FIRE SERVICE ACCESS ELEVATOR
+3007.1 General. Where required by Section 403.6.1, every floor of the building shall be served by fire service access ele�vators complying with Sections 3007.1 through 3007.10. Except as modified in this section, fire service access eleva�
+
+tors shall be installed in accordance with this chapter and
+
+California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+3007.2 Phase I Emergency recall operation. Actuation of any building fire alarm-initiating device shall initiate Phase I emergency recall operation on all frre service access elevators in accordance with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders.
+
+
+All other elevators shall remain in normal service unless Phase I emergency recall operation is manually initiated. by a separate, required three-position, key-operated "Fire Recall" switch or automatically initiated by the associated elevator lobby, hoistway or elevator machine room smoke detectors. In addition, if the building also contains occupant evacuation elevators in accordance with Section 3008, an independent, three-position, key-operated "Fire Recall" switch conforming to the applicable requirements in California Code of Regula�tions, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders shall be provided at the designated level for each fire service access elevator.
+
+3007.3 Automatic sprinkler system. The building shall be equipped throughout with an automatic sprinkler system in accordance with Section 903.3.1.1, except as otherwise per�
+2013 CALIFORNIA BUILDING CODE ELEVATORS AND CONVEYING SYSTEMS
+
+
+
+
+
+
+mitted by Section 903.3.1.1.1 and as prohibited by Section 3007.3.1.
+3007.3.1 Prohibited locations. Automatic sprinklers shall not be installed in elevator machine rooms, elevator machine spaces, and elevator hoistways of frre service access elevators.
+3007.3.2 Sprinkler system �monitoring. The sprinkler system shall have a sprinkler control valve supervisory switch and waterflow-initiating device provided for each floor that is monitored by the building's fire alarm system.
+3007.4 Water protection. An approved method to prevent water from infiltrating into the hoistway enclosure from the operation of the automatic sprinkler system outside the enclosed fire service access elevator lobby shall be provided.
+3007.5 Shunt trip. Means for elevator shutdown in accor�dance with Section 3006.5 shall not be installed on elevator systems used for fire service access elevators.
+3007.6 Hoistway enclosures. The frre service access elevator hoistway shall be located in a shaft enclosure complying with Section 708.
+3007.6.1 Structural integrity of hoistway enclosures.
+The frre service access elevator hoistway enclosure shall
+comply with Sections
+403.2.3.1 through 403.2.3.4.
+access elevator shall open into a frre service
+lobby in accordance with Sections 3007.7.1 through 3007.7.5.
+
+
+
+Exception: Where a frre service access elevator has two entrances onto a floor, the second entrance shall be permit�
+
+tion 708.14.1.
+
+3007.7.1 Access. The fire service access elevator lobby
+shall have direct access from the enclosed elevator lobby
+to a smokeproof enclosure complying with Section 909.20.
+Exception: Access to a smokeproof enclosure shall be permitted to be through a protected path of travel that has a level of fire protection not less than the elevator lobby enclosure. The protected path shall be separated from the enclosed elevator lobby through an opening protected by a smoke and draft control assembly in accordance with Section 716.5.3.
+3007.7.2 Lobby enclosure. The fire service access eleva�tor lobby shall be enclosed with a smoke barrier having a fire-resistance rating of not less than 1 hour, except that lobby doorways shall comply with Section 3007.7.3.
+
+
+Exception: Enclosed fire service access elevator lob�bies are not required at the levels of exit discharge.
+3007.7.3 Lobby doorways. Other than the door to the hoistway, each doorway to a frre service access elevator lobby shall be provided with a 3/4-hour fire door assembly complying with Section 716.5. The fire door assembly
+417
+
+
+
+
+
+
+
+
+shall also comply with the smoke and draft control door assembly requirements of Section 716.5.3.1 with the UL 1784 test conducted without the artificial bottom seal.
+3007.7.4 Lobby size. Regardless of any number of fire service access elevators served by the same elevator lobby, the enclosed fire service access elevator lobby shall be not less than 150 square feet (14m2) in area with a min�imum dimension of 8 feet (2440 mm).
+
+3007.7.5 Fire service access elevator symbol. A pictorial symbol of a standardized design designating which eleva�tors are fire service access elevators shall be installed on each side of the hoistway door frame on the portion of the frame at right angles to the fire service access elevator lobby. The fire service access elevator symbol shall be designed as shown in Figure 3007.7.5 and shall comply with the following:
+
+1.
+The fire service access elevator symbol shall be not less than 3 inches (76 mm) in height.
+
+2.
+The vertical center iine of the fire service access ele�vator symbol shall be centered on the hoistway door frame. Each symbol shall not be less than 78 inches (1981 mm), and not more than 84 (2134 mm) inches above the finished floor at the threshold.
+
+
+
+
+
+
+
+3007.8 Elevator system monitoring. The fire service access elevator shall be continuously monitored at the fire command center by a standard emergency service interface system meeting the requirements of NFPA 72.
+
+
+3007.9 Electrical power. The following features serving each fire service access elevator shall be supplied by both normal power and Type 60/Class 2/Level 1 standby power:
+1.
+Elevator equipment.
+
+2. Elevator hoistway lighting.
+
+
+3.
+Elevator machine room ventilation and cooling equip�
+
+
+�
+ment.
+4. Elevator controller cooling equipment.
+3007.9.1 Protection of wiring or cables. Wires or cables
+
+that are located outside of the elevator hoistway and machine room and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning, ventilation and fire-detecting systems to fire service access elevators shall be protected by construction having a fire-resistance rating of not less than 2 hours, or shall be circuit integrity cable having a fire-resistance rating of not less than 2 hours.
+
+
+
+Exception: Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase IT emergency in-car operations.
+3007.10 Standpipe hose connection. A Class I standpipe hose connection in accordance with Section 905 shall be pro�vided in the interior exit stairway and ramp having direct access from the fire service access elevator lobby.
+3007.10.1 Access. The exit enclosure containing the standpipe shall have access to the floor without passing through the fire service access elevator lobby.
+SECTION 3008
+OCCUPANT EVACUATION ELEVATORS
+
+3008.1 General. Where elevators are to be used for occupant self-evacuation during fires, all passenger elevators for gen�eral public use shall comply with Sections 3008.1 through 3008.11. Where other elevators are used for occupant self�evacuation, they shall also comply with these sections.
+3008.1.1 Additional exit stairway. Where an additional means of egress is required in accordance with Section 403.5.2, an additional exit stairway shall not be required to be installed in buildings provided with occupant evacua�
+. tion elevators complying with Section 3008.1. 3008.1.2 Fire safety and evacuation plan. The building shall have an approved fire safety and evacuation plan in
+accordance with the applicable requirements of Section 404 of the California Fire Code. The fire safety and evac�uation plan shall incorporate specific procedures for the occupants using evacuation elevators.
+3008.2 Phase I Emergency recall operation. An indepen�dent, three-position, key-operated "Fire Recall" switch com�plying with California Code ofRegulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders shall be provided at the designated level for each occupant evacuation elevator.
+3008.2.1 Operation. The occupant evacuation elevators
+shall be used for occupant self-evacuation only in the nor�. mal elevator operating mode prior to Phase I Emergency
+Recall Operation in accordance with the requirements in
+
+California Code of Regulations, Title 8, Division 1, Chap�ter 4, Subchapter 6, Elevator Safety Orders and the build�ing's fire safety and evacuation plan.
+3008.2.2 Activation. Occupant evacuation elevator sys�tems shall be activated by any of the following:
+1.
+The operation of 	an automatic sprinkler system complying with Section 3008.3;
+
+2.
+Smoke detectors required by another provision of the code;
+
+3.
+Approved manual controls.
+
+
+
+
+
+
+
+C)
+C)
+()
+
+
+()
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+0
+0
+
+()
+
+
+()
+
+
+
+3008.3 Automatic sprinkler system. The building shall be protected throughout by an approved, electrically supervised automatic sprinkler system in accordance with Section 903.3.1.1, except as otherwise permitted by Section
+903.3.1.1.1 and as prohibited by Section 3008.3.1.
+3008.3.1 Prohibited locations. Automatic sprinklers shall not be installed in elevator machine rooms and elevator machine spaces for occupant evacuation elevators in accordance with this Section and 3006.4.1.
+3008.3.2 Sprinkler system monitoring. The sprinkler system shall have a sprinkler control valve supervisory switch and water flow-initiating device provided for each floor that is monitored by the building's frre alarm sys�tem.
+3008.4 Water protection. An approved method to prevent water from infiltrating into the hoistway enclosure from the operation of the automatic sprinkler system outside the enclosed occupant evacuation elevator lobby shall be pro�vided.
+3008.5 Shunt trip. Means for elevator shutdown in accor�dance with Section 3006.5 shall not be installed on elevator systems used for occupant evacuation elevators.
+3008.6 Hoistway enclosure protection. Occupant evacua�tion elevator hoistways shall be located in shaft enclosures complying with Section 713.
+3008.6.1 Structural integrity of hoistway enclosures.
+Occupant evacuation elevator hoistway enclosures shall comply with Sections 403.2.3.1 through 403.2.3.4.
+3008.7 Occupant evacuation elevator lobby. The occupant evacuation elevators shall open into an elevator lobby in accordance with Sections 3008.7.1 through 3008.7.7.
+3008.7.1 Access. The occupant evacuation elevator lobby shall have direct access to an interior exit stairway or ramp.
+3008.7.2 Lobby enclosure. The occupant evacuation ele�vator lobby shall be enclosed with a smoke barrier having a frre-resistance rating of not less than 1 hour, except that lobby doorways shall comply with Section 3008.7.3.
+Exception: Enclosed occupant evacuation elevator lob�bies are not required at the levels of exit discharge.
+3008.7.3 Lobby doorways. Other than the door to the hoistway, each doorway to an occupant evacuation eleva�tor lobby shall be provided with a 3/4-hour fire door assem�bly complying with Section 716.5. The frre door assembly shall also comply with the smoke and draft control assem�bly requirements of Section 716.5.3.1 with the UL 1784 test conducted without the artificial bottom seal.
+3008.7.3.1 Vision panel. A vision panel shall be installed in each fire door assembly protecting the lobby doorway. The vision panel shall consist of fire�protection-rated glazing and shall be located to furnish clear vision of the occupant evacuation elevator lobby.
+3008.7.3.2 Door closing. Each fire door assembly pro�tecting the lobby doorway shall be automatic-closing
+
+ELEVATORS AND CONVEYING SYSTEMS
+upon receipt of any fire alarm signal from the emer�gency voice/alarm communication system serving the building.
+3008.7.4 Lobby size. Each occupant evacuation elevator lobby shall have minimum floor area as follows:
+1.
+The occupant evacuation elevator lobby floor area shall accommodate, at 3 square feet (0.28 m2) per person, not less than 25 percent of the occupant load of the floor area served by the lobby.
+
+2.
+The occupant evacuation elevator lobby floor area also shall accommodate one wheelchair space of 30 inches by 48 inches (760 mm by 1220 mm) for each 50 persons, or portion thereof, of the occupant load of the floor area served by the lobby.
+
+
+Exception: The size of lobbies serving multiple banks of elevators shall have the minimum floor area approved on an individual basis and shall be consistent with the building's fire safety and evacuation plan.
+3008.7.5 Signage. An approved sign indicating elevators are suitable for occupant self-evacuation shall be posted on all floors adjacent to each elevator call station serving occupant evacuation elevators.
+3008.7.6 Lobby status indicator. Each occupant evacua�tion elevator lobby shall be equipped with a status indica�tor arranged to display all of the following information:
+1.
+An illuminated green light and the message, "Eleva�tors available for occupant evacuation," when the elevators are operating in normal service and the fire alarm system is indicating an alarm in the building.
+
+2.
+An illuminated red light and the message, "Elevators out of service, use exit stairs" when the elevators are in Phase I emergency recall operation or Phase II firefighters ' emergency operation in accordance with the requirements in California Code of Regula�tions, Title 8, Division 1, Chapter 4, Subchapter 6,
+Elevator Safety Orders.
+
+3.
+No illuminated light or message when the elevators are operating in normal service.
+
+
+
+
+3008.7.7 Two-way communication system. A two-way communication system shall be provided in each occupant evacuation elevator lobby for the purpose of initiating communication with the frre command center or an alter�nate location approved by the frre department.
+3008.7.7.1 Design and installation. The two-way communication system shall include audible and visi�ble signals and shall be designed and installed in accor�dance with the requirements in ICC Al17 .1.
+3008.7.7.2 1nstructions. Instructions for the use of the two-way communication system along with the loca�tion of the station shall be permanently located adjacent to each station. Signage shall comply with the ICC A117 .1 requirements for visual characters.
+3008.8 Elevator system monitoring. The occupant evacua�tion elevators shall be continuously monitored at the fire
+
+
+2013 CALIFORNIA BUILDING CODE
+
+
+
+command center or a central control point approved by the fire department and arranged to display all of the following information:
+1.
+Floor location of each elevator car.
+
+2.
+Direction of travel of each elevator car.
+
+3.
+Status of each elevator car with respect to whether it is occupied.
+
+4.
+Status of normal power to the elevator equipment, ele�vator controller cooling equipment, and elevator machine room ventilation and cooling equipment.
+
+5.
+Status of standby or emergency power system that pro�vides backup power to the elevator equipment, elevator controller cooling equipment, and elevator machine room ventilation and cooling equipment.
+
+6.
+Activation of any fire alarm initiating device in any ele�vator lobby, elevator machine room or machine space, or elevator hoistway.
+
+
+3008.8.1 Elevator recall. The fire command center or an alternate location approved by the fire department shall be provided with the means to manually initiate a Phase I Emergency Recall of the occupant evacuation elevators in accordance with California Code of Regulations, Title 8, Division 1, Chapter 4, Subchapter 6, Elevator Safety Orders
+
+3008.9 Electrical power. The following features serving each occupant evacuation elevator shall be supplied by both normal power and Type 60/Class 2/Level 1 standby power:
+1.
+Elevator equipment.
+
+2.
+Elevator machine room ventilation and cooling equip�ment.
+
+3.
+Elevator controller cooling equipment.
+
+
+3008.9.1 Protection of wiring or cables. Wires or cables that are located outside of the elevator hoistway and machine room and that provide normal or standby power, control signals, communication with the car, lighting, heating, air conditioning, ventilation and fire-detecting systems to fire service access elevators shall be protected by construction having a fire-resistance rating of not less than 2 hours, or shall be circuit integrity cable having a fire-resistance rating of not less than 2 hours.
+Exception: Wiring and cables to control signals are not required to be protected provided that wiring and cables do not serve Phase II emergency in-car operations.
+
+3008.10 Emergency voice/alarm communication system.
+The building shall be provided with an emergency voice/ alarm communication system. The emergency voice/alarm communication system shall be accessible to the fire depart�ment. The system shall be provided in accordance with Sec�tion 907.2.12.2.
+3008.10.1 Notification appliances. No fewer than one audible and one visible notification appliance shall be installed within each occupant evacuation elevator lobby.
+
+
+
+
+
+3008.11 Hazardous material areas. No building areas shall contain hazardous materials exceeding the maximum allow�able quantities per control area as addressed in Section 414.2.
+
+
+
+
+
+
+
+
+2013 CALIFORNIA BUILDING CODE
+
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE

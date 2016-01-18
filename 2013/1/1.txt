@@ -1,0 +1,1271 @@
+CHAPTER 1
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+
+ARTICLE 1 GENERAL
+
+1-101. Abbreviations. The following abbreviations shall apply to Title 24, California Code of Regulations. Abbreviations may also be provided in each of the other 12 parts of Title 24. Whenever an abbreviation provided in this section conflicts with an abbreviation provided within another part of Title 24, the abbreviation meaning provided in the other part shall prevail within that part.
+AGR  Department of Food and Agriculture (see Note)
+BSC  Identifies code provisions by the Building
+Standards Commission (see Note)
+BSCC  Identifies code provisions by the Board of
+State and Community Corrections (see Note)
+CA  Department of Consumer Affairs (see Note)
+CBC  California Building Code (Part 2 of Title 24)
+CCR  California Code of Regulations
+CEBC  California Existing Building Code
+(Part 10 of Title 24)
+CEC  California Electrical Code (Part 3 of Title 24)
+CEC  California Energy Code (Part 6 of Title 24)
+CEC  California Energy Commission (see Note)
+CGBSC  California Green Building Standards Code
+(Part 11 of Title 24) also known as CALGreen
+CHBC  California Historical Building Code
+(Part 8 of Title 24)
+CMC  California Mechanical Code (Part 4 of Title 24)
+CPC  California Plumbing Code (Part 5 of Title 24)
+CRC  California Residential Code (Part 2.5 of Title 24)
+CRSC  California Referenced Standards Code (Part 12
+of Title 24)
+DPH  Identifies code provisions by the Department of
+Public Health (see Note)
+DWR  Identifies code provisions by the Department of
+Water Resources (see Note)
+DSA  Division of the State Architect, a division within
+the Department of General Services
+DSA-SS  Identifies code provisions by the Division of the
+State Architect-Structural Safety (see Note)
+
+DSA-SS/CC Identifies provisions by the Division of the State Architect-Structural Safety, applicable to community colleges as specified.
+DSA-AC 	Identifies code provisions by the Division of the State Architect-Access Compliance (see Note)
+DOE 	Department of Education
+DOT 	Department of Transportation
+HCD 	Housing and Community Development
+HCD 1 	Identifies code provisions by the HCD (see Note)
+
+HCD 2 Identifies code provisions by the HCD (see Note)
+HCD 1AC Identifies code provisions by the HCD (see Note)
+
+IBC  International Building Code
+IFC  International Fire Code
+IEBC  International Existing Building Code
+IRC  International Residential Code
+NEC  National Electrical Code
+NFPA  National Fire Protection Association
+OHP  Office of Historical Preservation
+OSHPD  Office of Statewide Health Planning &
+Development
+OSHPD 1  Identifies code provisions by OSHPD (see Note)
+OSHPD 2  Identifies code provisions by OSHPD (see Note)
+OSHPD 3  Identifies code provisions by OSHPD (see Note)
+OSHPD 4  Identifies code provisions by OSHPD (see Note)
+SFM  Identifies code provisions by the Office of the
+State Fire Marshal (see Note)
+SHSB  Identifies code provisions by State Historical
+Building Safety Board (see Note)
+SL  Identifies code provisions by the State Library
+(see Note)
+SLC  Identifies code provisions by the State Lands
+Commission (see Note)
+UBC  Uniform Building Code; the UBC is no longer
+published or adopted in the current edition of
+Title 24.
+
+UBC STDS Uniform Building Code Standards;the UBC STDS is no longer published, but relevant standards are referenced in the CEBC.
+UFC 	Uniform Fire Code; the UFC is no longer published or adopted in the current edition of Title 24.
+UHC Uniform Housing Code; adopted by HCD in Chapter 1 of Title 25. UMC Uniform Mechanical Code UPC Uniform Plumbing Code Note: For information regarding the code provisions adopted by this state
+agency and the application of such adoptions, see the state agency administrative chapters in the various parts of Title 24, California Code of Regulations.
+Authority: Government Code Section 11000,and Health and Safety Code Sec
+tion 18931 (f).
+Reference: Government Code Section 11000, and Health and Safety Code
+Section 18931 (d).
+
+1-103. Definitions. The following definitions shall apply to this Chapter 1, of Part 1, of Title 24, California Code of Regulations. Definitions may also be provided in each of the other eleven parts of Title 24. Whenever a definition provided in this section conflicts with a definition provided within another part of Title 24, the definition provided in the other part shall prevail
+BUFF
+
+within that part. Additional definitions are provided in Article 5 of this chapter.
+(a)
+ADOPTING AGENCY (or state adopting agency). An agency of state government with authority in law to develop and adopt building standards for approval and publication in Title 24, California Code of Regulations, by the Commission. An adopting agency has authority to conduct public hearings aside from the public hearings conducted by the Commission. See Proposing Agency.
+
+(b)
+APPEAL. An appeal to the Commission, as provided and limited by Health and Safety Code Sections 18945 through 19849, by any person adversely affected by the application of an existing building standard or administrative regulation in Title 24, by a state agency or local agency. See Petition.
+
+(c)
+CALGreen. The California Green Building Standards in Part 11 of Title 24, California Code of Regulations.
+
+(d)
+CHALLENGE. A public comment received during a comment period and directed at a proposed change or a code advisory committee recommendation or the procedures followed by the Commission in proposing or adopting the action.
+
+(e)
+CODE ADVISORY COMMITTEE. An advisory panel or body appointed to advise the Commission with respect to building standards as authorized by Health and Safety Code Section 18927.
+
+(f)
+CODE CHANGE. A proposed change to, or addition of, a building standard as defined by Health and Safety Code Section 18909, or administrative regulation of Title
+
+
+24.
+(g)
+CODE CHANGE SUBMITTAL. A proposed code change for Title 24 and its justification submitted to the Commission by a proposing agency.
+
+(h)
+COMMISSION. The California Building Standards Commission established under Health and Safety Code, Division 13, Part 2.5, commencing with Section 18901.
+
+(i)
+ENFORCING AGENCY (or Enforcement Agency). An agency, board, commission, department, division, office or individual assigned by law or ordinance as being responsible for the enforcement of building standards.
+
+(j)
+EXECUTIVE DIRECTOR. The Chief Executive appointed by the California Building Standards Commission pursuant to Health and Safety Code Section 18925, to carry out the duties assigned by the California Building Standards Commission as designated in Health and Safety Code, Division 13, Part 2.5, commencing with Section 18901.
+
+(k)
+JUSTIFICATION. An initial statement of reasons and the information needed to complete a notice of proposed action, including a determination as to the effect of the code change on housing costs.
+
+(l)
+PETITION. A written submittal to the Commission by any person for the purpose of proposing a new building standard or administrative regulation in Title 24, or
+
+
+the amendment or repeal of an existing building standard or administrative regulation in Title 24.
+(m)
+PROPOSING AGENCY (or state proposing agency). A state agency having authority and responsibility to propose a building standard for adoption by the Commission and publication in Title 24, California Code of Regulations. A proposing agency does not have authority to conduct public hearings for the adoption of building standards. See Adopting Agency.
+
+(n)
+PUBLIC UTILITY. The California Public Utilities Commission (PUC); or which would otherwise by regulated by the PUC but are exempted by municipal charter.
+
+(o)
+SPECIAL CODE ADVISORY COMMITTEE. An ad hoc committee established by the Commission, when necessary, to advise the Commission on a subject in the code needing extensive revision or on a complex subject which needs to be regulated or to perform a review of a proposed code change that warrants special technical review.
+
+(p)
+TECHNICAL REVIEW. A review of a proposed code change and its justification conducted pursuant to Health and Safety Code Section 18930 (c), (d), (e), (f) to ensure that a code change is justified in terms of nine-point criteria of Health and Safety Code Section 18930 (a).
+
+(q)
+TITLE 24. The 24th title within the California Code of Regulations. Title 24 is reserved for building standards and administrative regulations to implement building standards approved and published by the California Building Standards Commission.
+
+
+Authority: Government Code 11000, and Health and Safety Code Sections
+18929.1, 18931(f) and 18949.6.
+Reference: Government Code 11000, and Health and Safety Code Sections
+18927, 1892918932, 18934, 18935, 18936, 18949.1, 18949.2, 18949.3,
+18949.5 and 18949.6.
+
+1-105. Use of Commission indicia.
+(a)
+Other than the Commission, no person, firm, agency or organization shall copy, duplicate, reprint or otherwise use the indicia of the Commission without the express written approval of the Commission. For the purposes of this section, the Commissions indicia shall include but not be limited to any logo, symbol or emblem used by the Commission to identify codes, standards, bulletins and other documents or properties as being issued, adopted, approved, published or maintained by the Commission.
+
+(b)
+Requests for approval to copy, duplicate, reprint or otherwise use the indicia of the Commission shall be in writing and be submitted to the Executive Director at: California Building Standards Commission, 2525 Natomas Park Drive, Suite 130, Sacramento, California 95833. The address should be confirmed at the Commissions website. Requests shall include the identification of the intended document or material that is to include the indicium or indicia of the Commission, and the time frame for the proposed usage.
+
+(c)
+The Executive Director, or his or her designee, shall provide a written response to requests received pursuant to Subsection (b). Approvals of indicia usage may include limitations to a specific usage, type of document or material,
+
+
+BUFF
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+and or time frame. Denial of indicia usage shall include the reasoning for the denial. The Commission shall consider reasonably corrected resubmittals.
+
+Authority: Health and Safety Code Section 18931(f)
+Reference: Health and Safety Code Section 18931 (f)
+ARTICLE 2
+DUTIES AND RESPONSIBILITIES OF THE
+BUILDING STANDARDS COMMISSION, THE
+EXECUTIVE DIRECTOR, COMMISSION
+PERSONNEL AND RESOURCES
+
+
+II 	1-201. Duties.
+(a)
+Commission duties. The Commission shall perform all functions relating to the adoption and publication of the California Building Standards Code in Title 24 of the California Code of Regulations prescribed by the California Building Standards Law in Health and Safety Code, Division 13, Part 2.5, commencing with Section 18901.
+
+(b)
+Executive Director duties. The Executive Director shall be the primary individual responsible for implementing the will of the Commission, and shall have the authority to:
+
+
+1.
+Recommend to the Commission policies under which the office of the Commission will operate.
+
+2.
+Interpret and implement the policies of the Commission.
+
+3.
+Provide the administrative direction for the day-to-day work of the Commission.
+
+4.
+Manage the technical and support staff of the Commission.
+
+5.
+Represent the Commission to the Legislature.
+
+6.
+Review and approve or disapprove agencies' public notices for proposed building standards per Sections 11346.4 and 11346.5 of the Government Code.
+
+7.
+Ensure that state agencies comply with Section 18930 of the Health and Safety Code and Sections 11342 through 11446 (as required) of the Government Code, when adopting building standards, prior to submission to the Commission.
+
+8.
+Negotiate and execute contractual agreements necessary to carry out the mission of the Commission.
+
+9.
+Manage the Commission's appeal and petition process.
+
+10.
+Represent the Commission to all levels 	of state and local government, and with the private sector.
+
+11.
+Perform other duties as required by the Commission
+
+
+
+and state statute(s).
+Authority: Health and Safety Code Section 18931.
+Reference: Health and Safety Code Sections 18925 and 18931.
+
+1-203. Development of standards.
+(a) The commission shall adopt, approve, codify, update and publish green building standards for occupancies that are not under the explicit authority of another state agency. The commission also may review and comment on proposals and proposed standards developed by other agencies in order to reduce or eliminate ambiguities or conflicts.
+(b)
+A list of agencies with specific authority to adopt or propose building standards to the commission includes the list of agencies identified in Title 24, Part 2, the California Building Code, Chapter 1, Division 1, Section 1.1, et al. The commission shall work with these agencies to coordinate the adoption of green building standards for residential and non-residential occupancies.
+
+(c)
+In developing green building standards, the commission shall consult with the state entities it finds to be appropriate for specific standards including, but not limited to, the following State agencies:
+
+
+1.
+Department ofResource Recycling and Recovery.
+
+2.
+The California Energy Resources Conservation and Development Commission.
+
+3.
+The California Air Resources Board.
+
+4.
+The California Department ofWater Resources.
+
+5.
+The California Department ofTransportation.
+
+6.
+The California Department ofGeneral Services.
+
+7.
+The California Department ofPublic Health.
+
+8.
+Office ofState Fire Marshal.
+
+
+
+(d) The Commission also shall consult with representatives from each of the following:
+1.
+Environmental advocacy groups.
+
+2.
+Interested local government and code enforcement entities.
+
+3.
+The building construction and design industry.
+
+4.
+Interested public parties.
+
+
+
+(e) The commission may consult with and seek input from the entities and representatives identified in Subsections (c) and (d) either by written comment or in a meeting format and shall consider all input provided during the development ofthe green building standards which is relevant to specific standards. The commission shall provide written responses to formal comments received during the public comment period for any proposed green building standards.
+Authority: Health and Safety Code Sections 18909(c), 18929, 18930.5,
+18931.6 and 18931.7.
+Reference(s): Health and Safety Code Sections 18930.5, 18931.6, and
+18931.7.
+HISTORY:
+
+1. 	(BSC 07/09) Supplement adding Section 1-1004 Development ofStandards to Chapter 1. Effective on January 1, 2011.
+1-205. Conflict of interest disclosure.
+(a) The Political Reform Act, specifically Government Code Section 87306, requires state and local governmental agencies to promulgate and adopt Conflict of Interest Codes. The Fair Political Practices Commission has adopted a regulation, Title 2, California Code of Regulations, Section 18730, containing the terms of standard Conflict of Interest Code, that can be incorporated by reference, and that may be amended by the Fair Political Practices Commission to conform to amendments in the Political Reform Act after public notice and hearings. Therefore, the terms of Title 2, California Code of Regulations, Section 18730, and amendments thereto, duly adopted by the Fair Political Practices Commission, are hereby incorporated by reference and constitute the Conflict of Interest Code of the California Building Standards Commission.
+Designated employees shall file statements of economic interest with the Commission. Upon receipt of the statements of the Commission members, the agency shall make and retain a copy and forward the miginal of these statements to the Fair Political Practices Commission. Statements of other designated employees are retained by the agency; no copies are forwarded to the Fair Political Practices Commission.
+(b) Designated Employee and Disclosure Category
+DISCLOSURE
+DESIGNATED POSITIONS  CATEGORY
+Chair of the Commission  1
+Commissioners  1
+Executive Director  1
+Deputy Executive Director  1
+Staff Services Manager I  2.3
+Senior Architect  1
+Associate Architect  1
+Architectural Associate  1
+Codes and Standards Administrator III  1
+Associate Construction Analyst  1
+
+Associate Governmental Program Analyst  3
+Contracts Analyst (Administrative Staff  2
+Service Analyst)
+Consultants  *
+
+* Consultants shall be included in the list ofdesignated positions and shall disclose pursuant to the disclosure requirements in this conflict-of-interest code subject to the following limitation:
+The Executive Director may determine in writing that a particular consultant, although a "designated position," is hired to perform a range ofduties that is limited in scope and thus is not required to fully comply with the disclosure requirements described in this section. Such written determination shall include a description ofthe consultant's duties and, based upon that description, a statement ofthe extent ofdisclosure requirements. The Executive Director's determination is a public record and shall be retained for public inspection in the same manner and location as this conflict-of interest code.
+1-207. Disclosure categories.
+(a) Disclosure Category 1:
+Individuals holding positions assigned to Disclosure Category 1 must report interests in real property located with the State of California; all investments and business positions in business entities, and income, including gifts, loans and travel payments, from all sources.
+(b) Disclosure Category 2:
+Individuals holding positions assigned to Disclosure Category 2 must report investments and business positions in business entities, and income, including gifts, loans and travel payments, from sources, of the type that are required to adhere to architectural and structural construction and building standards reviewed and approved by the Commission.
+(c) Disclosure Category 3:
+Individuals holding positions assigned to Disclosure Category 3 must report investments and business positions in business entities, and income, including gifts, loans and travel payments, from sources, of the type to provide services and goods used by the Commission.
+Authority: Health and Safety Code Section 18909(f) and Government Code
+Sections 82019 and 87306.
+Reference: Health and Safety Code Section 18909(f) and Government Code
+Sections 82019 and 87306.
+
+HISTORY:
+1.
+(BSC 2/99) Article 1-7, Conflict of Interest Code. Amend Section 1-70I. Approved by the Fair Political Practices Committee on October 29, 1999. Filed with the Secretary of State on December 31, 1999; effective January 30, 2000.
+
+2.
+(BSC 01/09) Article 1-7, Conflict of Interest Code, and Appendix. Amend Section 1-701, add Section 1-702, and repeal the Appendix. Approved by the Fair Political Practices Commission on October 13, 2009; effective on January I, 2010.
+
+
+1-209. Code advisory committees.
+(a) Standing code advisory committees. The Commission shall establish the following standing code advisory committees.
+1.
+Accessibility
+
+2.
+Plumbing, Electrical, Mechanical and Energy
+
+3.
+Building, Fire and Other Regulations
+
+4.
+Structural Design/Lateral Forces
+
+5.
+Health Facilities
+
+6.
+Green Building
+
+
+(b)
+Special code advisory committee. The Commission may establish one or more special code advisory committees when it determines that a subject in the code needs to be extensively revised or that a complex subject which needs to be regulated is not covered or that the content of a proposed code change warrants special technical review.
+
+(c)
+Quorum. A majority of the members of the code advisory committee(s) shall constitute a quorum for the transaction ofbusiness. A majority of the members present shall constitute a quorum for determining the outcome of a vote.
+
+(d)
+Members. The code advisory committees shall be limited to a maximum of nine voting members, appointed by the Commission for one triennial code adoption cycle (3 years). The Commission can extend the term beyond 3 years ifdeemed necessary, and members shall hold appointments at the pleasure of the Commission. The appointments shall be made from individuals knowledgeable in the building standards or general subjects assigned to the specific committee. Members shall be solicited by the Commission based on the representations listed in this section. However, when there are no volunteers for a specific representation following a 30-day advertisement of an available committee position, the Commission may make other appointments as deemed necessary to maintain the expertise and balance of a committee:
+
+
+1. 	Accessibility. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1) State Agency Representative(s)
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+B. Voting Member(s)
+(1)
+Disability Access Advocate Knowledgeable in Visually Impaired
+
+(2)
+Disability Access Advocate Knowledgeable in Hearing Impaired
+
+(3)
+Disability Access Advocate Knowledgeable in Mobility Impaired
+
+(4)
+Disability Access Advocate Knowledgeable in Environmental Health Network or Other Cognitively Impaired
+
+(5)
+Local Government Building Official1
+
+(6)
+Construction Industry
+
+(7)
+Architect
+
+(8)
+Fire Official
+
+(9)
+Public Member
+
+
+2. 	Plumbing, electrical mechanical and energy. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1)
+State Agency Representative(s)
+
+B.
+Voting Member(s)
+
+(1)
+Local Government Building Official1
+
+(2)
+Environmental/Energy Organization
+
+(3)
+Construction Industry
+
+(4)
+Architect
+
+(5)
+Fire Official
+
+(6)
+Public Member 	or Local Government Water Efficiency Official1
+
+(7)
+Plumbing Inspector
+
+(8)
+Mechanical Engineer
+
+(9)
+Electrical Engineer
+
+
+3. 	Building, fire and other. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1)
+State Agency Representative(s)
+
+B.
+Voting Member(s)
+
+(1)
+Local Government Building Official1
+
+(2)
+Registered Fire Protection Engineer
+
+(3)
+Construction Industry
+
+(4)
+Architect
+
+(5)
+Commercial Building Industry
+
+(6)
+Fire Official
+
+(7)
+Disability Access Advocate
+
+(8)
+Public Member
+
+
+4. 	Structural design/lateral forces. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1) State Agency Representative
+B. Voting Member(s)
+(1)
+Three (3) Structural Engineers
+
+(2)
+Architect
+
+(3)
+General Contractor
+
+(4)
+Local Government Building Official1
+
+(5)
+Public Member
+
+
+
+5. 	Health facilities. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1)
+State Agency Representative(s)
+
+B.
+Voting Member(s)
+
+(1)
+Acute Care Hospital Representative
+
+(2)
+Skilled Nursing Facility Representative
+
+(3)
+Architect
+
+(4)
+General Contractor
+
+(5)
+Mechanical Engineer
+
+(6)
+Electrical Engineer
+
+(7)
+Fire Protection Engineer
+
+(8)
+Local Government Building Official1
+
+(9)
+Primary Care or Specialty Clinic Representative
+
+
+
+6. 	Green building. The Commission shall solicit nominations from:
+A. Ex-Officio Member(s)
+(1)
+State Agency Representative(s)
+
+B.
+Voting Member(s)
+
+(1)
+Residential Construction Industry Representative
+
+(2)
+Commercial Building Industry Representatives
+
+(3)
+Architect
+
+(4)
+Environmental Organization Representative
+
+(5)
+Local Government Building Official1
+
+(6)
+Public Member 	or Local Government Water Efficiency Official1
+
+(7)
+Fire Official
+
+(8)
+Mechanical Engineer or Energy/Building Performance Specialist
+
+(9)
+Electrical Engineer or Energy/Building Performance Specialist
+
+
+
+1 May be a consultant dedicated to full-time building official service for a single city, county or city and county authorized to represent the local agency. [Footnote shall apply to each Local Government Building Official position on every committee.]
+Section 1-211. Application for code advisory committee appointment.
+(a) Application required. Persons desiring appointment to a position on a Code Advisory Committee must take application to the Commission as required by this section. A separate application is required for each advertised vacancy on
+BUFF
+a Code Advisory Committee. The Commission will not maintain applications on file for future consideration.
+(b)
+Application form. For each Code Advisory Committee vacancy, a completed Application for Code Advisory Committee Appointment, form BSC-7, shall be submitted to the office of the Executive Director, California Building Standards Commission, 2525 Natomas Park Drive, Suite 130, Sacramento, CA 95833. The current address may be verified at the Commissions web site. The application form is available from the Commission or may be obtained on the Commissions web site under Forms and Templates.
+
+The application shall be accompanied by a resume and may be further supported by attachments including letters of support or recommendation and other materials demonstrating expertise and knowledge applicable to the Code Advisory Committee position.
+
+(c)
+Application period. When advertising a vacancy on a Code Advisory Committee, the Commission may establish an application period with a closing date and may, at its discretion, consider applications received after the closing date.
+
+(d)
+Selection decision. The Commission will consider applications and make selections based on qualifications applicable to the Code Advisory Committee vacancy. All decisions by the Commission regarding appointments to Code Advisory Committees are final and are not subject to appeal.
+
+(e)
+Notice of appointment. The Executive Director, or his or her designee, shall provide written notice to applicants selected by the Commission for appointment to a Code Advisory Committee. Written notice shall also be provided to all applicants not selected for appointment to a Code Advisory Committee.
+
+(f)
+Application fee. There is no fee.
+
+
+Authority: Health and Safety Code Sections 18909(c), 18929, 18930.5,
+18949.6 and 18931(f).
+Reference: Health and Safety Code Sections 18927, 18929, 18930.5, 18931
+(f), 18934, 18936 and 18949.6.
+
+HISTORY:
+1.
+(BSC 2/92) Regular order by the California Building Standards Commission to adopt Section 1-901, Part 1, Title 24, California Code of Regulations. Filed with the Secretary of State February 10, 1994; effective March 12, 1994. Approved by the Office of Administrative Law on February 10, 1994.
+
+2.
+(BSC 02/08) Article 1-9, Code Adoption Process. Amend Section 1-902. Effective June 21, 2009.
+
+
+
+
+
+ARTICLE 3
+APPEALS AND PETITION PROCEDURES
+
+1-301. Appeals and petitions. The public may submit appeals and petitions to the Commission as prescribed in this Article.
+1-303. Scope of appeals and types of appellants. Appeals to the Commission and the matters which can be appealed are as follows:
+(a) An appeal may be submitted by any person adversely affected by the administration of building standards or administrative regulations of Title 24, or the enforcement or the lack of enforcement of Title 24, by any state agency as prescribed in Health and Safety Code Section 18945(a) and this article.
+(b)
+An appeal may be submitted by any person adversely affected by the enforcement of Title 24 by a local enforcement agency, in the company of the local enforcement agency, as prescribed in Health and Safety Code Section 18945(b) and this article. Such joint appeals must have statewide significance.
+
+(c)
+An appeal may be filed by any person, including a state or local agency adversely affected by an apparent conflict, duplication or overlap of any current Title 24 provision, or any other matter of statewide significance relating to the application of Title 24.
+
+(d)
+The Commission may accept appeals relating to actions and decisions by state and local agencies to enforce building standards, but may only make recommendations for reconsideration. The Commission has no authority to overturn a decision by a state or local agency when the matter is within the jurisdiction of that state or local agency.
+
+(e)
+When the basis of an appeal is the action of a state agency other than the Commission, the appellant must obtain a final determination from the state agency in question relating to the issue under appeal before the Commission will hear the appeal.
+
+
+Exception: An apparent conflict, duplication or overlap in other available state appeals procedures or within the regulations or code.
+Authority: Health and Safety Code Sections 18931, 18945, 18946 and 18949. Reference: Health and Safety Code Sections 18931,18945, 18946and 18949. HISTORY:
+1. 	(BSC 1/89) Regular order by the California Building Standards Commission to amend Section 1-601, Part 1, Title 24, California Code of Regulations. Filed with the Secretary of State April 1990; effective April 17, 1990. Approved as a regular order by the California Building Standards Commission on April 16, 1990.
+1-305. (a) Time limitations for appeals. Appeals will be accepted by the Commission only within:
+1.
+Six months of when the act, interpretation, decision or practice complained of occurred, or
+
+2.
+As determined by the Commission if special circumstances are found to exist.
+
+
+1-307. Appeal form and filing fee.
+(a) The appeal shall be in writing and shall specifically set forth:
+1.
+The specific regulation, rules, interpretation or decision of any state agency respecting the administration of any building standard being appealed.
+
+2.
+The dates of any act, interpretation or decision of any state agency related to the complaint.
+
+3.
+The nature of any act, interpretation or decision of any state agency related to the complaint.
+
+4.
+The reasons for the appeal.
+
+5.
+Documentation of the official action of the applicable state agency with respect to the agencys final determination on the issue.
+
+
+BUFF
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+6. 	Identification of witnesses, experts and other representatives of the appellant.
+
+(b)
+The appeal shall be filed with the Executive Director at: CALIFORNIA BUILDING STANDARDS COMMISSION, 2525 Natomas Park Drive, Suite 130, Sacramento, California 95833. The address should be confirmed at the Commission's website.
+
+(c)
+Filing Fee: Health and Safety Code Section 18949 requires the Commission to recover the cost of administrating appeals. Accordingly, a nonrefundable fee of $450.00 shall be submitted with the initial request for appeal. In addition, any and all costs for an administrative law judge or costs related to a hearing before the appeals subcommittee will be the responsibility of the appellants.
+
+
+Authority: Health and Safety Code Sections 18931 and 18945.
+Reference: Health and Safety Code Sections 18931 and 18945.
+1-309. Receipt and processing appeals.
+(a)
+Receipt of any appeal shall be acknowledged in writing by the Executive Director within 30 days ofreceipt advising the appellant and the state agency of the acceptance or rejection of the appeal as filed. The reply shall also set forth the planned action of the Commission in response to the application together with reasons for the proposed actions.
+
+(b)
+If the Executive Director determines that additional information is needed in order to process the appeal, the Executive Director may request such additional information and defer action on the appeal until such additional information is received. If the Executive Director requests additional information, the appellant shall have 30 days from the date of the Executive Director's request within which to submit the information. If the requested information is not received within 30 days, the Executive Director may treat the appeal as having been abandoned or may, upon written notice to the appellant and any state agency a part of the appeal, process the appeal on such information as is available. Upon written request the Executive Director may, for good cause, extend the 30-day period by one additional 30-day period.
+
+(c)
+The Executive Director and the Chair of the three-member Appeals Committee, appointed by the Chair of the Commission, shall, acting together, recommend to the Commission whether the appeal should be heard by the Appeals Committee or the full Commission. Suggested schedules for such hearings shall also be submitted. The recommendations shall be contained in the consent calendar ofthe next Commission meeting. The Executive Director shall advise the appellant and any state agency a part of the appeal, in writing within 15 days of the Commission's determination and the procedures and schedules to be followed for the hearing.
+
+
+Authority: Health and Safety Code Section 18945.
+Reference: Health and Safety Code Sections 18931 and 18946.
+HISTORY:
+1. 	(BSC 2/93) Regular order by the California Building Standards Commission to amend Section 1-603, Part 1, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; Jiled at the Secretary of State on January 2'/, 199:i; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+
+1-311. Hearings for appeals.
+(a) If it is determined by the Commission that the appeal shall be heard by the Appeals Committee, the following provisions shall apply:
+1.
+Time and place of hearing as determined by the Commission shall be noticed to the appellant and any state agency a part of the appeal, within 15 days of its determination; date ofsaid hearing shall be within 60 days of date of said notice.
+
+2.
+The Executive Director shall provide written notice of the date, time and location of hearing to interested parties and may invite experts or other witnesses as necessary for the hearing.
+
+3.
+The Appeals Committee shall not be bound by the rules of evidence or procedure applicable in the courts. Appellant, appellant's witnesses, and any other interested persons may present testimony, argument and/or documentary material concerning the matter(s) under consideration.
+
+4.
+The Appeals Committee shall prepare its finding(s) and decision within 30 days after the appeal hearing.
+
+5.
+The Executive Director shall, in writing, advise the appellant and any state agency a part of the appeal, of the decision within 15 days and shall advise the Commission of the decision by memorandum at the next Commission meeting.
+
+6.
+If an appeal is heard by the Appeals Committee, either party may request a reconsideration by the Commission. Said request must be submitted to the Executive Director no less than 30 days after the determination by the Appeals Committee and shall be acted upon by the Commission no later than 60 days after said request is received. Reconsideration by the Commission shall be based upon the record of the appeal hearing and additional information or testimony that is specifically requested by the Commission. Notice ofthe determination ofthe Commission upon reconsideration shall be sent to all parties involved within 15 days of the action by the Commission.
+
+
+(b) If an appeal is not delegated, or if the Commission elects to conduct the hearing, or if the appellant appeals a decision of the Appeals Committee to the Commission, the following procedure will be used:
+1.
+Time and place ofthe hearing as determined by the Commission shall be noticed to the appellant and any state agency a part of the appeal within 15 days. The date of the hearing shall be within 60 days of date of notice.
+
+2.
+The Executive Director shall provide written notice the time, date and location of the hearing to interested parties and invite expert or other witnesses as necessary for the hearing.
+
+3.
+The hearing shall be conducted at a regularly scheduled or specially designated Commission meeting, under its own rules, accepting evidence as it requires, and chaired by its regular Chairperson. Appellant and other interested parties may present relevant testimony, argument or documentary material as acceptable to the Commission consistent with the requirements of Section 1-306(a).
+
+
+4.
+The Commission shall make a decision on the appeal at an open meeting thereof, provided that the matter may be continued or taken under advisement for decision at a later meeting of the Commission, or re-referred to the Appeals Committee for further consideration and report to the Commission. No Commissioner may cast a vote on the determination of an appeal unless the Commissioner was present at the hearing held for appeal.
+
+5.
+Notwithstanding the foregoing, the appeal may be withdrawn at any time by the appellant upon written notice to the Executive Director. Upon withdrawal, no further proceedings as specified above shall take place. The withdrawal of the appeal shall be accepted with or without prejudice, as determined by the Commission.
+
+6.
+The Executive Director shall, in writing, advise the appellant, and any state agency a part of the appeal, of the decision ofthe Commission within 15 days from the date ofthe official Commission decision in the appeal.
+
+
+(c)
+The Commission may elect to refer the appealing parties to a hearing officer appointed by the Office of Administrative Hearings as described in Health and Safety Code Section 18946.
+
+(d)
+Action by the Commission on the appeal of a building standards issue within the authority of the Commission shall exhaust the administrative relief of the appellant.
+
+
+Authority: Health and Safety Code Section 18945.
+Reference: Health and Safety Code Sections 18931 and 18946.
+HISTORY:
+1. 	(BSC 2/93) Regular order by the California Building Standards Commission to amend Section 1-604, Part 1, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-313. Petitions.
+(a)
+Any local governmental agency, firm or member of the public may petition either the Commission or the authoritative agency for the proposal, adoption, amendment or repeal of any building standard or administrative regulation in Title 24 of the California Code of Regulations.
+
+(b)
+The Commission may refer received petitions to the state agency, or multiple agencies, having specific jurisdiction for the subject of the adopted building standard or for the subject of the proposed building standard as proposed by the petitioner. A state agency receiving a petition referred by the Commission shall process the petition as required by this Article, including the reporting of actions and decisions by the agency to the Commission.
+
+(c)
+Petitions are not to be used to address matters relating to currently proposed buildings standards. Any concerns relating to currently proposed building standards should be brought forward during the public comment period designated for the proposed building standard.
+
+
+Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6. HISTORY:
+1-315. Criteria for petition. A petition for the adoption, amendment or repeal of a state building standard must meet the following criteria:
+(a)
+The subject issue must have statewide significance and must have implications for a whole category of projects or a broad range of project types, and:
+
+(b)
+The rationale for the petition must take the form of at least one of the following criteria:
+
+
+1.
+A current building standard conflicts with pertinent statute(s). To substantiate this criterion, the petitioner must cite the subject building standard and the conflicting statute(s), and provide a clear written description of why the two are inconsistent.
+
+2.
+Compliance with a current building standard is routinely impossible or onerous. To substantiate this criterion, the petitioner must cite the current building standard, present written or photographic evidence of the difficulty in complying with it, and clearly show that the problem is common or potentially common to many different projects or project types in many different circumstances. This criterion shall not be used to justify a petition for the repeal or amendment of a current building standard that poses difficulty to a single project.
+
+3.
+A current building standard is inefficient or ineffective. To substantiate this criterion, the petitioner must cite the subject building standard, provide clear and concise written or photographic evidence of its ineffectiveness or inefficiency, describe a proposed alternative, and provide clear and convincing written or photographic evidence that it is more efficient or effective.
+
+4.
+A current building standard is obsolete. To substantiate this criterion, the petitioner must show at least one of the following facts:
+
+
+A. A material or product specified in the building standard is not available, or
+B. There is no statute authorizing the subject building standard, or
+C. Significant developments in procedures, materials or other issues subject to the building standard have created a need for amendment or deletion of the building standard; that current state statutes permit amendment or deletion of the building standards; and that the building standard has the effect of prohibiting the use of a material or procedure that has demonstrated satisfactory performance and meets the intended purpose of building standards.
+5. 	There is a need for a new building standard. To substantiate this criterion, the petitioner must provide a clear written description of the proposed building standard, explain why it is necessary, and cite the statute(s) that require or authorize the new building standard.
+Note: The California Building Standards Commission provides a petition form available at the website http://www.bsc.ca.gov/pubs/forms.aspx.
+1.  (BSC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-801, Part 1, Title 24, California Code of Regula Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6.
+tions. Approved by Office of Administrative Law on January 27, 1995;  HISTORY:
+filed at the Secretary ofState on January 27, 1995; effective 30 days there 1. (BSC 2/93) Regular order by the California Building Standards Com
+after, which will be February 26, 1995. Publication date April24, 1995.  mission to adopt Section 1-802, Part 1, Title 24, California Code of
+
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+
+1-317. Emergency petition.
+(a)
+A petitioner may assert that the petition requires immediate action because there is imminent danger to the public health, safety or welfare. To substantiate the existence of a potential danger, the petitioner must include in the petition a written description of the specific facts showing the need for immediate action.
+
+(b)
+Ifthe emergency petition is approved by the Commission and if the petition is accepted pursuant to this Article, the proposing agency or adopting agency shall develop and/or adopt new or amended building standards necessary to satisfy the cause for the petition. The new or amended building standards shall be proposed and adopted as emergency regulations as permitted by Health and Safety Code Sections 18934.8 and 18937.
+
+
+Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6. HISTORY:
+1. 	(BSC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-803, Part 1, Title 24, California Code of Regulations. Approved by Office of Administrative Law on January 27, 1995; filed at the Secretary ofState on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April24, 1995.
+
+1-319. Petition processing by the Commission and agencies.
+(a)
+Within 45 days after receiving a petition, the Commission shall determine whether the petition meets the requirements of this article for petitions and provide the petitioner written notification.
+
+(b)
+If the Commission determines that the petition does not meet the requirements of this article for petitions, the petition shall be returned to the petitioner without action but with written notification including itemization of the missing or incomplete items.
+
+(c)
+Ifthe Commission determines that the petition meets the requirements of this article for petitions, the Commission shall provide the petitioner notification of the acceptance of the petition and planned action.
+
+(d)
+The Commission shall act on the accepted petition by commencing a rulemaking process, or shall forward a complete petitions to the appropriate proposing agency or adopting agency having specific jurisdiction for the subject ofthe petition.
+
+(e)
+The proposing agency or adopting agency shall have 45 days following receipt of the petition from the Commission to dispute the determination of completeness and/or the Commission's determination of jurisdiction. If the agency determines that the petition is incomplete, it shall, by the close of business on the 45th day following receipt of the petition, return the petition to the Commission, with an itemization of the missing or incomplete items, and the Commission shall return the petition to the petitioner within 30 days of receiving the returned petition without action in accordance with the procedures provided in subparagraph (b) above.
+
+(f)
+The Commission shall maintain records relating to the submittal and disposition of petitions received by the Commission.
+
+
+Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6.
+HISTORY:
+I. 	(BSC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-804, Part 1, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-321. Petition processing by agencies. Upon receiving a petition referred by the Commission, or a petition received directly from a petitioner, the proposing agency or adopting agency shall be responsible for the following duties:
+(a)
+If the proposing agency or adopting agency disagrees with the Commission's determination that a petition is complete, or if the proposing agency or adopting agency believes the petition is in the jurisdiction of a different agency, the proposing agency or adopting agency shall notify the Commission no more than 45 days after receiving a petition.
+
+(b)
+If the proposing agency or adopting agency determines that a petition received directly from the public does not meet the requirements of this article for petitions, the agency shall provide the petitioner written notification of the determination with itemization of the missing or incomplete items. The agency shall provide the Commission a copy of the notification.
+
+(c)
+If the proposing agency or adopting agency determines that it has jurisdiction and that a received petition is complete, it shall take one of the following actions, communicating with the petitioner and Commission, within the noted time lines:
+
+
+1.
+The agency may reject, accept or approve a petition in part and may grant such other relief or take such other action as it may determine to be warranted by the petition and shall notify the petitioner and Commission in writing of such action.
+
+
+2.
+If the agency denies the petition for cause pursuant to Section 1-323 of this article [Criteria for Denying a Public Petition for Cause], it shall do so in writing within 45 days after the date of receiving the petition from the petitioner, or the referral by the Commission.
+
+3.
+Ifthe agency accepts the petition, it shall notify the petitioner and Commission in writing within 45 days after the date of receiving the petition. For the purposes of this section, accepting the petition indicates that the agency believes the issue(s) merit proceeding to code development as prescribed in this chapter.
+
+4.
+If the approved petition contains an emergency clause, the agency shall also rule on the existence of an emergency, and if it concurs that an emergency exists, shall schedule code development and adoption procedures on an emergency basis.
+
+
+Authority: Health and Safety Code Sections 18931, 18949.1, 18949.2,
+18949.3, 18949.5 and 18949.6, Statutes of 1990.
+Reference: Health and Safety Code Section 18931 and 18949.6.
+
+HISTORY:
+1. 	(BSC 2/93) Regular order by the California Building Standards Commi~~iuu lu adupl Secliuu 1-805, Part I, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-323. Criteria for denying a petition. The Commission, proposing agency or adopting agency, whichever is processing a petition, may deny a petition for cause using at least one of the following criteria:
+(a)
+The subject building standard is already scheduled for review at the next regular triennial or other scheduled adoption. To substantiate this criterion, the Commission or agency shall include in its written denial a schedule for the planned review. Alternatively, the agency may approve a petition but defer its implementation until the next scheduled adoption.
+
+(b)
+The issues cited by the petitioner are factually incorrect. To substantiate this criterion, the Commission or agency shall identify in its written denial the incorrect facts.
+
+(c)
+The issues cited by the petitioner are not within the State's jurisdiction. To substantiate this criterion, the Commission or agency shall show in its written denial why the issues are outside its jurisdiction.
+
+(d)
+The issues cited by the petitioner have been raised and answered through another petition or during the previous rulemaking. To substantiate this criterion, the Commission or agency shall include with its written denial a copy of the previous petition and its response or the pertinent rulemaking file information.
+
+Note: Ifnew facts or substantiating data, pertinent to a petition, are provided, this criterion shall not be grounds for denying a petition.
+
+(e)
+Resolving the issues raised by the petitioner would compromise the agency's ability to carry out its legal mandate. To substantiate this criterion, the Commission or agency shall include with its denial the specific ways in which its legal mandate would be compromised.
+
+(f)
+The building standard proposed by the petitioner would create unnecessary hardship or expense; inappropriately exclude materials, equipment or brands; include only specific brands; conflict with federal or state laws or regulations or existing building standards; or the building standard is otherwise without merit and public benefit.
+
+
+Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6. HISTORY:
+1. 	(ESC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-806, Part 1, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-325. Reconsideration of denied petition. A petitioner may request reconsideration of any part or all of a decision of any proposing or adopting agency or the Commission on any denied petition. Any such request shall be submitted in accordance with these petition procedures and shall include the reason or reasons why the decision to deny the petition should be reconsidered. Such request for reconsideration must be submitted no later than 60 days after the date of the decision involved. The agency's or Commission's reconsideration of any matter relating to a petition shall be subject to the provisions of this article.
+Authority: Health and Safety Code Sections 18931, 18945, and 18949.6.
+Reference: Health and Safety Code Sections 18931, 18945, and 18949.6. HISTORY:
+1. 	(ESC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-807, Part I, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-327. Reconsideration by the commission.
+(a)
+The Commission shall have no authority to reevaluate or reverse the decisions on petitions made by a proposing agency or adopting agency when the subject of the petition is within the specific jurisdiction of the proposing agency or adopting agency.
+
+(b)
+Requests for the reconsideration of a decision by the commission shall meet the requirements of Section 1-325 of this article.
+
+(c)
+Should the Commission reverse its previous decision made on a petition, the petition shall be considered accepted and a rulemaking process shall begin as provided in this chapter.
+
+
+Authority: Health and Safety Code Sections 18931, 18945, and 18949.6. Reference: Health and Safety Code Sections 18931, 18945, and 18949.6. HISTORY:
+1. 	(ESC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-808, Part I, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+1-329. Substitution ofor supplementation by agency procedures.
+(a)
+The provisions of this article pertaining to petitions shall not apply when an agency notifies the Commission that a petition process is mandated by specific statutes in addition to Government Code Sections 11340.6 and 11340.7, and/or that it has adopted its own regulations or procedures complying with Government Code Sections 11340.6 and 11340.7, and that it has notified the public of the existence of these statutes, regulations or procedures. Notification to the Commission shall consist of a written copy of such statutes, regulations or procedures and a description of the methods used to make the public aware of their existence. Upon such notification, the Commission shall exclude the agency from compliance with this Article pertaining to Petitions. If the Commission receives a petition pertaining to an excluded agency's jurisdiction, the Commission shall forward the petition without undertaking any of the duties prescribed by this Article pertaining to petitions directly to the agency and shall notify the petitioner of that fact.
+
+(b)
+These regulations are not intended to be the sole means by which the proposing agency or adopting agencies and the interested public can raise, discuss and resolve issues pertaining to building standards. Agency procedures such as public participation meetings, advisory committees, written and verbal correspondence between members of the public and agency personnel, and other methods are considered alternatives that may be chosen by a member of the public instead of or in addition to the petition procedures described in this Article.
+
+
+Authority: Health and Safety Code Sections 18931 and 18949.6. Reference: Health and Safety Code Sections 18931 and 18949.6.
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+HISTORY:
+I. 	(BSC 2/93) Regular order by the California Building Standards Commission to adopt Section 1-809, Part I, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+
+ARTICLE 4
+RULEMAKING FOR THE ADOPTION OF BUILDING
+STANDARDS BY PROPOSING AGENCIES
+
+1-401. Purpose. This article establishes basic minimum procedural requirements for a code adoption cycle for proposing agencies to ensure adequate public participation in the development of building standards, to ensure adequate technical review and adequate time for technical review by code advisory committees and to ensure adequate notice to the public of compiled code change submittals prior to adoption by the Commission.
+1-403. Public participation. Every state agency with authority to propose or adopt building standards shall develop proposed building standards in a manner to ensure public participation. Methods for ensuring public participation may include but are not limited to the following:
+(a)
+Identify and maintain a listing of all interested groups or persons affected by building standards of the type within the jurisdiction of the agency.
+
+(b)
+Prior to commencing the development ofproposed building standards, notify all interested groups and persons that building standards are to be developed, and solicit suggestions and a means for participation.
+
+(c)
+Conduct workshops to solicit input where the proposals are complex or large in number and cannot easily be reviewed during the comment period.
+
+(d)
+Make available draft proposals to interested groups or persons expressing interest.
+
+(e)
+Establish a procedure to provide interested groups or persons the opportunity to advise the agency of the impact of the proposed standards.
+
+
+Authority: Health and Safety Code Sections 18929.1 and 18934.
+Reference: Government Code Section 11346.45, Health and Safety Code Sec
+tions 18929.1 and 18934.
+HISTORY:
+
+I. 	(BSC 2/93) Regular order by the California Building Standards Commission to amend Section 1-501, Part I, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will be February 26, 1995. Publication date April 24, 1995.
+
+1-405. Commencement of rulemaking. The Commission shall notify a proposing agency of the deadline for acceptance of code change submittals a minimum of 180 days prior to the deadline. A proposing agency shall submit a code change submittal for the Commission's adoption on or before the deadline for acceptance specified in the notice.
+Authority: Health and Safety Code Sections 18929.1 and 18930.
+Reference: Health and Safety Code Sections 18930, 18931 and 18933.
+1-407. Rulemaking file approval.
+(a) Proposing agencies developing building standards, or administrative regulations to support building standards, to be published in Title 24, shall prepare a rulemaking file for submittal to the office of the Commission, which shall comply with Article 5 (commencing with Section 11346) of Chapter
+3.5 of Part 1 of Division 3 of Title 2 of the Government Code. The proposed Notice of Proposed Action required by this section shall be approved by the Commission prior to any official notice to conduct a hearing or comment period regarding the proposed rulemaking.
+(b) File content. The rulemaking file submitted to the Commission shall include the following:
+1.
+A Building Standards Face Sheet (BSC-1 ), with original signature of a person authorized to certify documents on behalf of the submitting agency shall accompany all submittals to the Commission pursuant to this section.
+
+2.
+Two printed copies and one electronic file of the proposed Notice of Proposed Action. The electronic file shall be suitable for immediate placement on the webpage of the Commission for public viewing.
+
+3.
+One electronic file of the Express Terms showing the proposed building standards or amendments to existing building standards in strikeout/underline format. The file shall be in a form suitable for immediate placement on the webpage of the Commission for public viewing. The language, including numbering and punctuation, of proposed new building standards or amendments to existing building standards shall be shown underlined. Proposed deletions ofexisting building standards shall be shown in strikeout type. Existing building standards to remain without amendment shall be shown without underlining or strikeout or other highlighting.
+
+4.
+One electronic file 	of the Initial Statement of Reasons suitable for immediate placement on the webpage of the Commission for public viewing.
+
+
+(c)
+Upon approval of the proposed Notice of Proposed Action for proposed building standards the Executive Director will forward the approved proposed Notice of Proposed Action to the Office of Administrative Law for the sole purpose of publication in the California Regulatory Notice Register before the start of the public comment period, and return an approved copy to the proposing agency. Ifa proposed Notice ofProposed Action is found to be incomplete or incorrect by Commission staff, the Executive Director shall return it to the proposing agency within 10 days with a written listing of the found deficiencies to enable the proposing agency to make corrections for resubmittal to the office of the Commission.
+
+(d)
+Any Notice of Proposed Action not acted upon within 20 days shall be considered automatically approved and may be published.
+
+
+Authority: Health and Safety Code Sections 18931 and 18935. Reference: Health and Safety Code Sections 18931 Rnd 18935.
+1-409. Code advisory committee review.
+(a)
+Prior to conducting any hearing or public comment period as part of the rulemaking proceeding required by the Administrative Procedure Act, the Commission shall assign a code change submittal received on or before the deadline established under Section 405 of this article, to one or more code advisory committees specifically knowledgeable in the building standard being proposed for change and schedule the submittal for a noticed public hearing to ensure adequate opportunity for public participation and technical review.
+
+(b)
+Code advisory committee reviews. A code advisory committee shall conduct a public hearing to perform a technical review of all code change submittals assigned to it by the Commission. A code advisory committee meeting shall be scheduled by the Commission and shall be open to the public.
+
+(c)
+Code advisory committee meetings. The location and date of a code advisory committee meeting shall be noticed by the Commission in accordance with Government Code Sections 11120 through 11132, the Bagley-Keene Open Meeting Act.
+
+(d)
+Code advisory committee recommendations. A code advisory committee shall make a recommendation on each code change submittal. A recommendation other than "approve" shall include a substantiating reason based on Health and Safety Code Section 18930. The recommendations to the Commission shall be based on one of the following and shall become part of the rulemaking file:
+
+
+1.
+Approve. Approval of a proposed code change as submitted.
+
+2.
+Disapprove. A proposed code change does not meet one or more specified criteria of Health and Safety Code Section 18930.
+
+3.
+Furtherstudy required. A proposed code change has merit but does not meet one or more specified criteria of Health and Safety Code Section 18930. The proposed code change requires further study by the proposing agency. The committee may recommend that the proposing agency submit the proposed code change in the next code adoption cycle after further study, or, if the matter can be resolved in time, submit the proposed code change for a comment period in the current cycle.
+
+4.
+Approve as amended. Approval as amended as suggested by the committee for organization, cross-referencing, clarity and editorial improvements or as amended and submitted for committee review by the agency. Modifications are justified in terms ofHealth and Safety Code Section 18930.
+
+
+
+(e) Code advisory committee reports. The code advisory committee report ofrecommendations to the Commission shall be made available to the public for review and comment and be included in the Commission's rulemaking file.
+II 1-411. Hearing date approval. Adopting agencies planning to conduct hearings relative to building standards shall, prior to giving public notice, acquire the written approval of the Commission as to the date, time and place of the hearing(s). Such approval may be in the form of the Commission's approval of the proposed Notice of Proposed Action submitted by an adopting agency, when the date, time and place for the hearing is included in the proposed Notice of Proposed Action.
+Authority: Health and Safety Code Sections 18931 and 18935. Reference: Health and Safety Code Sections 18931 and 18935.
+1-413. Public written comment period and related actions. Anyone wishing to contest a recommendation ofthe code advisory committee(s) and/or comment on a proposed code change may submit a comment to the Commission during the written comment period established by the notice of proposed action. Upon written request received, no later than 15 days prior to the close ofthe written comment period, a public hearing pursuant to Government Code Section 11346.8 shall be held by the Commission on the proposed code changes, its justification and code advisory recommendations at which time statements, arguments, or comments, either oral or in writing, or both, shall be permitted.
+1.
+A challenge shall refer to a specific objection or recommendation to a proposed code change and clearly indicate what is being contested. The challenge shall specify the action desired: approve, disapprove, return for further study or approve as amended. A challenge shall specify a concise substantiating reason for the challenge.
+
+2.
+Following the close of the comment period and/or public hearing, the Commission shall make available to the public upon request a record of comments received at the Commission office by the close of the written comment period and/or comments received at the public hearing.
+
+3.
+The Commission or proposing agency, whichever is appropriate, shall consider the comments received from the public pursuant to this section. Amendments and determinations shall be provided in the Final Statement of Reasons.
+
+4.
+No new issues will be raised before the Commission that were not included in the record of comments.
+
+5.
+Items not challenged but affected as a result of an action on another item may also be considered at the Commission meeting to eliminate conflict, duplication or overlap.
+
+
+1-415. Final actions by the commission and proposing agency.
+(a) Following the close of the public comment period, and any public hearing, the Commission shall take one of the following actions on each item of the rulemaking to adopt new, repeal, or amend building standards.
+1.
+Approve. The Commission approves a proposed code change as submitted. The change is justified in terms of Health and Safety Code Section 18930.
+
+2.
+Disapprove. The Commission disapproves a proposed code change as not justified in terms ofHealth and Safety Code Section 18930.
+
+3.
+Further study required. The Commission finds that a proposed code change has merit but does not meet specified criteria of Health and Safety Code Section 18930.
+
+
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+The change requires further study and justification by the proposing agency. The proposed code change may be submitted in a future code adoption cycle with further study and justification.
+4. 	Approve as amended. The Commission approves a proposed code change as modified by the proposing agency director or written authorized representative. No modification shall be made that materially alters a requirement, right, responsibility, condition or prescription in the text made available to the public for comment in accordance with this chapter. The proposing agency shall justify the modification pursuant to Health and Safety Code Section 18930 in an amended justification consistent with the approval action submitted to the Commission within 15 days. Failure to submit the amended justification within that time is cause for disapproval.
+
+(b)
+Withdrawal. A proposing agency may withdraw a proposed code change as determined appropriate.
+
+(c)
+The proposing agencies shall complete their respective documents for the rulemaking file as specified in Section 419.
+
+
+Authority: Health and Safety Code Sections 18929.1, 18949.6 and 18931(t). Reference: Health and Safety Code Sections 18927, 18929 through 18932, 18934, 18935, 18936, 18949.1, 18949.2, 18949.3, 18949.5 and 18949.6.
+1-417. Emergency building standards.
+(a)
+Emergency building standards may be developed as provided in the California Building Standards Law, Part 2.5, Division 13, Section 18930, et seq., of the Health and Safety Code, and shall not be effective until approved by the Building Standards Commission and filed with the Secretary of State.
+
+(b)
+Rulemaking files for emergency building standard(s) submitted to the Commission prior to public hearing shall include:
+
+
+1.
+An original signed Building Standards Face Sheet (BSC-1)
+
+2.
+The Finding of Emergency.
+
+3.
+An analysis which shall justify the approval of the building standard(s) in terms of the criteria as set forth in the State Building Standards Law, Part 2.5, Division 13, Section 18930, et seq., of the Health and Safety Code.
+
+4.
+The Express Terms illustrating the proposed 	emergency building standards.
+
+5.
+A delegation order if the Face Sheet (BSC-1) is signed by other than the Agency Director/Chief.
+
+6.
+Any supporting documentation as determined by the Executive Director.
+
+
+
+(c)
+The number of copies of proposed emergency building standards packages will be determined by the Executive Director.
+
+(d)
+Following the filing with the Secretary ofState, the Commission shall notify the affected Agency in writing of the filing date of the building standard.
+
+(e)
+Agencies adopting emergency building standards following an Agency public hearing shall submit a rulemaking file as prescribed in this article.
+
+(f)
+The Commission shall forward the required number of copies of the filing order to the Office of Administrative Law
+
+
+for the sole purpose ofpublication in the California Regulatory Notice Register.
+Authority: Government Code Sections 11346.1 and 11346.5 and Health and
+Safety Code Section 18937.
+Reference: Government Code Section 11346.1 and 11346.5 and Health and
+Safety Code Sections 18913 and 18937.
+
+HISTORY:
+1. 	(BSC 2/93) Regular order by the California Building Standards Commission to amend Section 1-402, Part 1, Title 24, California Code of Regulations. Approved by Office ofAdministrative Law on January 27, 1995; filed at the Secretary of State on January 27, 1995; effective 30 days thereafter, which will beFebruary26, 1995. Publication date April 24, 1995.
+1-419. Final rulemaking file.
+(a) After hearing or close of comment period a final rulemaking file shall be submitted to the Commission for approval, in a format as prescribed by the Commission. Each final rulemaking file shall include:
+1.
+Building Standards Face Sheet (BSC-1) with the original signature of a person authorized to certify documents on behalf of the submitting agency.
+
+2.
+Copies of the Public Notice, Informative Digest, Initial Statement of Reasons and Express Terms to illustrate the proposed building standards.
+
+3.
+Finding of Emergency Statement (submitted only with Emergency Regulations).
+
+4.
+Copies of Department of Finance Fiscal Impact Statement (Std. 399) together with fiscal analysis prepared by the submitting Agency.
+
+5.
+Copies of the written transcript or recorded minutes of the public hearing.
+
+6.
+Copies of exhibits submitted at the public hearing.
+
+7.
+Copies of correspondence received during public comment period.
+
+8.
+Copies of the Updated Informative Digest and Final Statement of Reasons.
+
+9.
+Copies ofthe proposed standards with any post hearing changes indicated, and a memo attesting to the 15-day public availability period.
+
+10.
+Agencies shall certify when the public comment period was closed, and that the submitted rulemaking is complete.
+
+11.
+An analysis which shall justify the approval 	of the building standard (s) in terms of the criteria as set forth in the State Building Standards Law, Part 2.5, Division 13, Section 18930, et seq., of the Health and Safety Code.
+
+12.
+Any referenced documentation relevant to the hearing as determined by the Executive Director ofthe Building Standards Commission.
+
+13.
+The number of copies of the proposed building standards packages to be forwarded to the Commission shall be determined by the Executive Director of the Building Standards Commission.
+
+14.
+All proposed building standards packages shall be indexed.
+
+15.
+If other than the Agency Director/ Chief signs a Face Sheet (BSC-1 ), a delegation order shall be attached to the Face Sheet.
+
+
+16. 	Ifthe building standards were filed as an emergency, a certification that the requirements ofGovernment Code Section 11346.1 have been complied with.
+(b) The proposed building standards shall be submitted in the strikeout/underline format. If the proposed building standards amend existing building standards, all deletions must be shown in strikeout type and all additions, including punctuation, must be underlined. The provisions of this section may be waived by the Executive Director through written notification to the adopting agency.
+Authority: Health and Safety Code Section 1893l(t). Reference: Health and Safety Code Section 18931 (f).
+1-421. Change without regulatory effect.
+(a)
+Notwithstanding the rulemaking procedures specified in Sections 407 and 415 of this chapter, a state adopting agency or state proposing agency may add to, revise or delete text published in Title 24 of the California Code of Regulations, with the approval of the Commission, when the change has no regulatory effect as provided in this section.
+
+(b)
+A state adopting agency or state proposing agency acting pursuant to this section on provisions of Title 24 that are also adopted by other state agencies, shall obtain the written concurrence of the other agencies in regard to the change without regulatory effect.
+
+(c)
+A "Change without Regulatory Effect" is a change to the provisions of Title 24 that does not impose any new requirement for the design or construction of buildings and associated structures and equipment. A Change without Regulatory Effect may include, but is not limited to:
+
+
+1.
+Renumbering, reordering or relocating a regulatory provision;
+
+2.
+Deleting a regulatory provision for which all statutory or constitutional authority has been repealed;
+
+3.
+Deleting a regulatory provision held invalid in a judgment that has become final, entered by a California court of competent jurisdiction, a United States District Court located in the State of California, the United States Court of Appeals for the Ninth Circuit, or the United States Supreme Court; however, the Commission shall not approve any proposed change without regulatory effect if the change is based on a superior court decision which invalidated the regulatory provision solely on the grounds that the underlying statute was unconstitutional;
+
+4.
+Revising structure, syntax, cross-reference, grammar or punctuation;
+
+5.
+Changing an "authority" or "reference" citation for a regulation; and
+
+6.
+Making a regulatory provision consistent with a changed California statute if both of the following conditions are met:
+
+
+(A)
+The regulatory provision is inconsistent with and superseded by the changed statute, and
+
+(B)
+The state adopting agency 	or state proposing agency has no discretion to adopt a change which differs in substance from the one chosen.
+
+
+
+(d) The rulemaking file for a change without regulatory effect to be submitted to the Commission for adoption or approval, and publication in Title 24 shall include the following:
+1.
+A completed Building Standards Face Sheet (BSC-1) as required by Section 1-419 of this chapter; and
+
+2.
+Express Terms illustrating the change in the form required by Section 1-419 of this chapter; and
+
+3.
+A written statement for each section explaining how the change meets the requirements of Subsection (c) above; and
+
+4.
+Pursuant to Subsection (b) above, a written statement by each state agency that has adopted the provision being changed, concurring with the regulatory change. All such statements shall be signed by a duly authorized representative of the agency.
+
+
+(e) The Commission shall make a determination regarding a change submitted pursuant this section within thirty (30) days of its receipt. Within ten (10) days of making a determination, the Commission shall send written notification of the determination to the agency that submitted the change.
+1.
+When the Commission determines that the submitted change meets the requirements of this section for a regulatory change without effect, the regulatory change shall be filed with the Secretary of State and the Commission shall publish the change in Title 24, California Code of Regulations.
+
+2.
+When the Commission determines that the submitted change does not meet the requirements of this section for a regulatory change without effect, or does not comply with the rulemaking requirements of this section, the written determination by the Commission shall provide sufficient itemization of the deficiencies. The agency may correct the rulemaking file for reconsideration by the Commission, or begin proceeding with a regulatory action pursuant to Section 407 of this chapter.
+
+
+(f) An adoption or approval by the Commission of a change without regulatory effect shall be effective 30 days after tiling with the Secretary of State. Health and Safety Code Section 18938(c) establishes the effective as being 30 days after filing the amendment or repeal by the commission with the Secretary of State.
+Note: Authority cited: Health and Safety Code Sections 18909, 18930 and 18931(t).
+Reference: Health and Safety Code Sections 18909, 18930 and 18931(f).
+ARTICLE 5
+CITY, COUNTY, AND CITY AND COUNTY
+BUILDING PERMIT FEES
+
+1-501. Purpose. This article establishes regulations for implementation of Health and Safety Code Sections 18931.6 and 18931.7, to require a surcharge on building permits in order to provide funds, upon appropriation, for the California Building Standards Commission, Department of Housing and Community Development and Office of the State Fire Marshal to use in carrying out the provisions of California Building Standards
+2013 CALIFORNIA ADMINISTRATIVE CODE
+
+ADMINISTRATIVE REGULATIONS OF THE CALIFORNIA BUILDING STANDARDS COMMISSION
+Law and of State Housing Law relating to building standards, with emphasis placed on the adoption, publication and educational efforts associated with green building standards. The fees are to be collected by cities, counties, and cities and counties and transmitted to the California Building Standards Commission. The fees are based on building permit valuation.
+1-503. Definitions. The words defined in this article shall have the meaning stated therein throughout California Code of Regulations, Title 24, Part 1, Chapter 1, Article 5.
+(a)
+Building Standards Administration Special Revolving Fund (the Fund). The fund established in the State Treasury to receive funds submitted by the Commission pursuant to the provisions of Health and Safety Code Section 18931.6 and this article.
+
+(b)
+Department. The Department of Housing and Community Development.
+
+(c)
+Fees, appropriate fractions thereof. Fee increments for permit values less than one-hundred thousand dollars ($100,000) as described in Section 1-505.
+
+(d)
+Office. The Office of the State Fire Marshal.
+
+
+
+1-505. Fee assessment.
+(a)
+Fees shall be levied on building permits required for all disciplines covered by Title 24, including, but not limited to, building, electrical, mechanical and plumbing, and for which a valuation is made.
+
+(b)
+Fees are assessed at a rate of $4 per $100,000 of permit valuation, but not less than one dollar, with appropriate fractions thereof shown in the following table:
+
+
+1 and ending March 31, 2009, due on the fifteenth day of the following month.
+1. Each quarter, a city, county, and city and county shall submit a Fee Report Form (BSC-2), Contact Information Form (BSC-3), and a check made payable to the California Building Standards Commission, with the fees collected for that quarter.
+Note: The form templates are available for downloading at the Commissions website at http://www.bsc.ca.gov/proc_rsltn/pr_tmplts.html.
+
+(b) The Commission shall deposit the moneys collected into the Building Standards Administration Special Fund for use, upon appropriation, by the Commission, the Department, and the Office for use as specified in Section 1-501.
+Authority: Health and Safety Code Sections 18909(c), 18929, 18930.5,
+18931.6 and 18931.7
+Reference: Health and Safety Code Sections 18930.5, 18931.6 and 18931.7
+HISTORY:
+
+1. 	(BSC 02/08) Add new Article 1-10, City, County, and City and County Building Permit Fees. Effective on June 21, 2009.
+PERMIT VALUATION  FEE
+$1  25,000  $1
+$25,001  50,000  $2
+$50,001  75,000  $3
+$75,001  100,000  $4
+Every $25,000 or fraction thereof above $100,000  Add $1
+
+1.
+Cities, counties, and cities and counties may retain up to ten percent (10%) of the fees for related administrative costs, code enforcement, and education as permitted by Health and Safety Code Section 18931.6.
+
+2.
+Cities, counties, and cities and counties may exempt from fee assessment permits for which no valuation is made.
+
+
+
+(c) The Commission may reduce the rate of the fee by regulation upon determination that a lesser fee is sufficient to carry out the programs of the Commission, the Department and the Office. The Commission may establish a termination date or duration for the fee reduction period.
+1-507. Fee collection.
+(a) Cities, counties, and cities and counties shall submit fees each quarter, commencing with the quarter beginning January
+BUFF
+
+
+
+
+HISTORY NOTE APPENDIX FOR CHAPTER 1
+Administrative Regulations for the
+California Building Standards Commission
+(Title 24, Part 1, California Code of Regulations)
+
+The format of the history notes has been changed to be consistent with the other parts of the California Building Standards Code. The history notes for prior changes remain within the text of this code.
+1.
+(BSC 03/10) Repeal, amend and reformat Chapter 1 of the 2010 California Administrative Code, CCR Title 24, Part 1, effective on August 28, 2011.
+
+2.
+(BSC 05/10) Add new Section 1-105 to Article 1 Use of Commission Indicia, effective on November 20, 2011.
+
+3.
+(BSC 02/12) Amend Chapter 1, Article 1, Section 1-101, 1-105, Article 2, Section 1-201, 1-207, 1-209, 1-211, Article 4, Section 1-411, 1-421, Article 5, Section 1-503. Approved by the California Building Standards Commission on January 23, 2013, filed with the Secretary of State on January 28, 2013, and effective 30 days after filing with Secretary of State.
+
+4.
+Errata to correct editorial errors within the preface and Chapter 1 of this code. Effective January 1, 2014.
+
+
+BUFF
