@@ -1,0 +1,12 @@
+# Site settings
+title: mycalcode.com
+email: webmaster@mycalcode.com
+description: > # this means to ignore newlines until "baseurl:"
+  California Code of Regulations Title 24
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mycalcode.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
