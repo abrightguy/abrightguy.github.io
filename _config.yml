@@ -9,9 +9,10 @@
 title: California Building Standards Code # Your awesome title
 email: webmaster@mycalcode.com # your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  California's Code of Regulations Title 24
+  Coding the Code
 # Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
+name: mycalcode.com
 url: "http://mycalcode.com" # the base hostname & protocol for your site
 # twitter_username:
 # github_username: abrightguy
@@ -28,8 +29,81 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: pages
     values:
       layout: "default"
+  -
+    scope:
+      path: "Part1" # an empty string here means all files in the project
+      type: Part1
+    values:
+      layout: "Part1"
+  -
+    scope:
+      path: "Part2" # an empty string here means all files in the project
+      type: Part2
+    values:
+      layout: "Part2"
+  -
+    scope:
+      path: "Part2.5" # an empty string here means all files in the project
+      type: Part2.5
+    values:
+      layout: "Part2.5"
+  -
+    scope:
+      path: "Part3" # an empty string here means all files in the project
+      type: Part3
+    values:
+      layout: "Part3"
+  -
+    scope:
+      path: "Part4" # an empty string here means all files in the project
+      type: Part4
+    values:
+      layout: "Part4"
+  -
+    scope:
+      path: "Part5" # an empty string here means all files in the project
+      type: Part5
+    values:
+      layout: "Part5"
+  -
+    scope:
+      path: "Part6" # an empty string here means all files in the project
+      type: Part6
+    values:
+      layout: "Part6"
+  -
+    scope:
+      path: "Part8" # an empty string here means all files in the project
+      type: Part8
+    values:
+      layout: "Part8"
+  -
+    scope:
+      path: "Part9" # an empty string here means all files in the project
+      type: Part9
+    values:
+      layout: "Part9"
+  -
+    scope:
+      path: "Part10" # an empty string here means all files in the project
+      type: Part10
+    values:
+      layout: "Part10"
+  -
+    scope:
+      path: "Part11" # an empty string here means all files in the project
+      type: Part11
+    values:
+      layout: "Part11"
+  -
+    scope:
+      path: "Part12" # an empty string here means all files in the project
+      type: Part12
+    values:
+      layout: "Part12"
 
 # Collections
 collections:

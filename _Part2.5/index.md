@@ -1,7 +1,6 @@
 ---
 ---
 
-# [Residential Code (pdf)](CBSCPart2.5.pdf)
-
-## [Chapter 1](1.md)
-
+{% for Chapter in site.Part2.5 %}
+  <h2><a href="{{ Chapter.url }}">{{ Chapter.title }}</a></h2>
+{% endfor %}

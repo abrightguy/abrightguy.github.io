@@ -8,7 +8,7 @@ layout: default
 
 # [Residential Code](Part2.5)
 
-# [Electric Code](Part3)
+# [Electrical Code](Part3)
 
 # [Mechanical Code](Part4)
 
