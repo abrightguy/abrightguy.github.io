@@ -1,12 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: mycalcode.com
-email: webmaster@mycalcode.com
+title: California Building Standards Code # Your awesome title
+email: webmaster@mycalcode.com # your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  California Code of Regulations Title 24
-baseurl: "" # the subpath of your site, e.g. /blog/
+  California's Code of Regulations Title 24
+# Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mycalcode.com" # the base hostname & protocol for your site
-twitter_username:
-github_username:
+# twitter_username:
+# github_username: abrightguy
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+
+# Default Settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Collections
+collections:
+  Part1:
+    output: true
+  Part2:
+    output: true
+  Part2.5:
+    output: true
+  Part3:
+    output: true
+  Part4:
+    output: true
+  Part5:
+    output: true
+  Part6:
+    output: true
+  Part8:
+    output: true
+  Part9:
+    output: true
+  Part10:
+    output: true
+  Part11:
+    output: true
+  Part12:
+    output: true

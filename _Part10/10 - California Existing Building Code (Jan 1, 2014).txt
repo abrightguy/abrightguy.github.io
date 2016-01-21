@@ -1,0 +1,1695 @@
+0
+
+
+Californi Title 24, 
+California Build Based on the 20 
+0 
+0 
+0 
+
+
+
+
+
+0 
+
+0 
+0 
+0 
+
+
+
+
+CALIFORNIA CODE OF REGULATIONS, TITLE 24 
+() 
+California Agency Information Contact List 
+
+
+
+
+www.bs cc.ca.gov ............................ (916) 445-5073 Lo cal Adult Jail Standards Lo cal Juvenile Fa cility Standar ds 
+
+www.bs c.ca.gov ............................. (916) 263-0916 
+
+
+www.enre gy.ca.gov ............. Energy Hotline (800) 772-3300 Building Efficiency Standards Appliance Efficiency Standar ds Compliance ManuaVForms 
+
+www.sl c.ca.gov ............................. (562) 499-6312 Marine Oil Terminals 
+
+www.library.ca.gov .......................... (916) 654-0266 
+
+
+
+Acupuncture Board 
+www.a cupuncture.ca.gov ................... (916) 515-5200 Office Standards 
+Board of Pharmacy 
+www.pharma cy.ca.gov ..................... (916) 574-7900 Pharma cy Standards 
+Bureau of Barbering and Cosmetology 
+www.barbercosmo.ca.gov .................. (916) 952-5210 Barber and Beauty Shop, and Colle ge Standards 
+Bureau of Electronic and Appliance Repair, 
+Home Furnishings and Thermal Insulation 
+
+www.bearhfti.ca.gov ....................... (916) 999-2041 Insulation Testing Standards 
+Structural Pest Control Board 
+www.pestboard.ca.gov ..................... (800) 737-8188 Stru ctural Standards 
+Veterinary Medical Board 
+
+www.vmb.ca.gov .......................... (916) 263-2610 Veterinary Hospital Standards 
+
+
+www.c dfa.ca.gov Meat & Poultry Pa cking Plant Standards (916) 654-0509 
+Dairy Standards (916) 654-0773 
+( 
+
+
+Resi dential-Hotels, Motels; Apartments, Single-Family Dwellings; and Permanent Stru ctures in Mobilehome & Spe cial Oc cupancy Parks 
+(9I6) 445-3338 Fa ctory-Built Housing, Manufa ctured Housing & Commercial Mo dular 
+
+Mobilehome-Permits & Inspe ctions Northern Re gion-(916) 255-2501 Southern Re gion-(951) 782-4420 
+(916) 445-9471 Employee Housing Standards 
+
+www.dph.ca.gov ............................. (916) 449-5661 Organized Camps Standards Publi c Sw imming Pools Standards 
+
+www.d gs.ca.gov/dsa .......................... (916) 445-8100 
+
+Access Compliance 
+Structural Safety 
+
+Publi c Schools Standards Essential Servi ces Buil ding Standards Community Colle ge Standards 
+State Historical Building Safety Board 
+Alternative Buil ding Standards 
+
+www.oshpd.ca.gov ........................... (916) 440-8356 
+
+Hospital Standards Skille d Nursing Fa cility Standar ds & Clini c Standards Permits 
+
+osfm.fire.ca.gov ............................. (916) 445-8200 
+
+Co de Development and Analysis Fire Safety Standards 
+
+
+
+
+
+
+
+HOW TO DETERMINE WHERE 
+
+()
+CHANGES HAVE BEEN MADE 
+Symbols in the margins indicate where changes have been made or language has been deleted. 
+II This symbol indicates that a change has been made. 
+
+> This symbol indicates deletion of language. 
+
+
+
+
+TABLE OF CONTENTS 
+0 
+APPENDIX CHAPTER Al 
+
+0 
+SEISMIC STRENGTHENING PROVISIONS FOR UNREINFORCED MASONRY BEARING WALL BUILDINGS •••••••••••••• 3 
+Section 
+AI00 Application ............................... 3 
+
+A101 Purpose .................................. 3 
+
+A102 Scope ................................... 3 
+
+0 
+A103 Definitions ............................... 3 
+A104 Symbols and Notations ...................... 4 
+A105 General Requirements ...................... 5 
+A106 Materials Requirements ..................... 5 
+A107 Quality Control. ...... ..................... 7 
+A108 Design Strengths ........................... 8 
+A109 Analysis and Design Procedure ............... 8 
+AllO General Procedure .... ..................... 8 
+A111 Special Procedure ..... ..................... 9 
+Al12 Analysis and Design ....................... 10 
+Al13 Detailed System Design Requirements ........ 11 
+Al14 Wails of Unburned Clay, 
+Adobe or Stone Masonry .................. 12 
+
+
+REFERENCED STANDARDS ...•.•.•....•••.••... 19 
+CHAPTER A3 
+PRESCRIPTIVE PROVISIONS FOR 
+SEISMIC STRENGTHENING OF CRIPPLE 
+WALLS AND SILL PLATE ANCHORAGE 
+OF UGHT WOOD-FRAME RESIDENTIAL 
+BUIWINGS .................•.•...•...•. 27 
+
+Section 
+0 
+A301 General ................................. 27 
+A302 Definitions .......... .................... 27 
+A303 Structural Weaknesses ..................... 28 
+A304 Strengthening Requirements ................ 28 
+
+0 
+HISTORY NOTE ............•.•••••....•.•...•.. 45 
+
+0 
+
+2013 CALIFORNIA EXISTING BUILDING CODE 
+
+
+
+
+
+0 
+0 
+0 
+
+
+APPENDIX CHAPTER A 1 
+SEISMIC STRENGTHENING PROVISIONS FOR UNREINFORCED MASONRY BEARING WALL BUILDINGS 
+0 SECTION A 100 APPLICATION 
+0 
+
+AlOO.l Vesting authority. When adopted by a state agency, the provisions of these regulations shall be enforced by the appropriate enforcing agency, but only to the extent of author­ity granted to such agency by the state legislature. 
+Following is a list of the state agencies that adopt building standards, the specific scope of application of the agency responsible for enforcement, and the specific statutory author­ity of each agency to adopt and enforce such provisions of building standards of this code, unless otherwise stated. 
+1. ESC-California Building Standards Commission. 
+Application-Existing buildings as specified in Section Al02 having at least one unreinforced masonry bearing wall, with the exception of buildings subject to building standards pursuant to Health and Safety Code, com­mencing with Section 17910. 
+Enforcing Agency-State or local agency specified by the applicable provisions of the law. 
+() Authority Cited-Health and Safety Code Section 
+II 18934.7. 
+Reference-Health and Safety Code Sections 18901 through 18949. 
+2. HCD 1-The Department of Housing and Community Development. 
+Application-Hotels, motels, lodging houses, apartment houses, dwellings, employee housing and factory-built 
+
+Enforcing Agency-The local building department or the Department of Housing and Community Develop­ment. 
+0 
+Authority Cited-Health and Safety Code Sections 17040, 17921, 17922 and 19990. 
+Reference-Health and Safety Code Sections 17000 through 17060, 17910 through 17990, 19960 through 19997; and Government Code Section 12955.1. 
+
+3. HCD 2-The Department ofHousing and Community Development. 
+Application-Permanent buildings and permanent accessory buildings or structures constructed within mobilehome parks and special occupancy parks. 
+
+Enforcing Agency-The local building department or the Department of Housing and Community Develop­ment. 
+Authority Cited-Health and Safety Code Sections 18300, 18620, 18640, 18865, 18873 and 18873.2. 
+2013 CALIFORNIA EXISTING BUILDING CODE 
+
+
+
+
+Reference-Health and Safety Code Sections 18200 through 18700 and 18860 through 18874. 
+
+SECTION A 101 PURPOSE 
+The purpose of this chapter is to promote public safety and welfare by reducing the risk of death or injury that may result from the effects of earthquakes on existing unreinforced masonry bearing wall buildings. 
+The provisions of this chapter are intended as minimum standards for structural seismic resistance, and are established primarily to reduce the risk of life loss or injury. Compliance with these provisions will not necessarily prevent loss of life or injury, or prevent earthquake damage to rehabilitated build­
+ings. 
+SECTION A 102 SCOPE 
+
+A102.1 General. The provisions of this chapter shall apply to all existing buildings having at least one unreinforced masonry bearing wall. The elements regulated by this chapter shall be determined in accordance with Table Al-A. Except as pro­vided herein, other structural provisions of the building code shall apply. This chapter does not apply to the alteration of existing electrical, plumbing, mechanical or fire safety sys­tems. 
+
+
+A102.2 Essential and hazardous facilities. The provisions of this chapter shall not apply to the strengthening of buildings or structures in Occupancy Category ill when assigned to Seismic Design Category C, D, orE or buildings or structures in Occu­pancy Category IV. Such buildings or structures shall be strengthened to meet the requirements of the California Build­ing Code for new buildings of the same occupancy category or other such criteria that have been established by the jurisdic­tion. 
+
+SECTION A103 
+DEFINITIONS 
+
+
+For the purpose of this chapter, the applicable definitions in the California Building Code as adopted by the California Building Standards Commission (BSC) shall also apply: 
+BUILDING CODE. [BSC, HCD 1 and HCD 2] "Building Code" shall mean the most current edition of the California 
+·· 
+Building Code, Title 24, Part 2 as adopted by the California Building Standards Commission (BSC). 
+COLLAR JOINT. The vertical space between adjacent wythes. A collar joint may contain mortar or grout. 
+
+
+CROSSWALL. A new or existing wall that meets the require­ments of Section Alll.3 and the definition of Section Alll.3. A crosswall is not a shear wall. 
+CROSSWALL SHEAR CAPACITY. The unit shear value times the length of the crosswall, v ;Lc. 
+DIAPHRAGM EDGE. The intersection of the horizontal dia­phragm and a shear wall. 
+DIAPHRAGM SHEAR CAPACITY. The unit shear value times the depth of the diaphragm, v,/). 
+NORMAL WALL. A wall perpendicular to the direction of seismic forces. 
+OPEN FRONT. An exterior building wall line without vertical elements of the lateral-force-resisting system in one or more stories. 
+POINTING. The partial reconstruction of the bed joints of an unreinforced masonry wall as defined in UBC Standard 21-8. 
+RIGID DIAPHRAGM. A diaphragm of reinforced concrete construction supported by concrete beams and columns or by structural steel beams and columns. 
+UNREINFORCED MASONRY. Includes burned clay, con­crete or sand-lime brick; hollow clay or concrete block; plain concrete; and hollow clay tile. These materials shall comply with the requirements of Section A106 as applicable. 
+UNREINFORCED MASONRY BEARING WALL. A URM wall that provides the vertical support for the reaction of floor or roof-framing members. 
+UNREINFORCED MASONRY (URM) WALL. A masonry wall that relies on the tensile strength of masonry units, mortar and grout in resisting design loads, and in which the area of reinforcement is less than 25 percent of the minimum ratio required by the building code for reinforced masonry. 
+
+YIELD STORY DRIFT. The lateral displacement of one level relative to the level above or below at which yield stress is first 
+developed in a frame member. 
+SECTION A 104 
+SYMBOLS AND NOTATIONS 
+
+
+For the purpose of this chapter, the following notations sup­plement the applicable symbols and notations in the building code. 
+an = 	Diameter of core multiplied by its length or the area of the side of a square prism. 
+A = 	Cross-sectional area of unreinforced masonry pier or wall, square inches (10-6m2). 
+Ab = 	Total area of the bed joints above and below the test 
+specimen for each in-place shear test, square inches (10-6m2). 
+D = 	In-plane width dimension of pier, inches (10-3m), or depth of diaphragm, feet (m). 
+DCR= 	Demand-capacity ratio specified in Section Alll.4.2. 
+
+f'm 	= Compressive strength of masonry. = Tensile-splitting strength of masonry. 
+/.p 
+Fwx = Force applied to a wall at level x,pounds (N). 
+H = 	Least clear height of opening on either side of a pier, inches (10-3m). 
+hit = 	Height-to-thickness ratio of URM wall. Height, h, is measured between wall anchorage levels and/or slab-on-grade. 
+L = 	Span of diaphragm between shear walls, or span between shear wall and open front, feet (m). 
+
+Lc 	= Length of crosswall, feet (m). 
+L; = 	Effective span for an open-front building specified in Section Alll.8, feet (m). 
+
+p = 	Applied force as determined by standard test method of ASTM C 496 or ASTM E 519, pounds (N). 
+Pv = 	Superimposed dead load at the location under con­sideration, pounds (kN). For determination of the rocking shear capacity, dead load at the top of the pier under consideration shall be used. 
+PD+L = 	Press resulting from the dead plus actual live load in place at the time of testing, pounds per square inch (kPa). 
+pw = Weight of wall, pounds (N). 
+R = 	Response modification factor for Ordinary plain masonry shear walls in Bearing Wall System from Table 12.2-1 of ASCE 7, where R= 1.5. 
+Svs = 	Design spectral acceleration at short period, in g units. 
+SDJ = 	Design spectral acceleration at 1-second period, in g units. 
+Va = 	The shear strength of any URM pier, vmN1.5 pounds (N). 
+
+vc = 	Unit shear capacity value for a crosswall sheathed with any of the materials given in Table Al-D or Al-E, pounds per foot (N/m). 
+vm = 	Shear strength of unreinforced masonry, pounds per square inch (kPa). 
+
+= The shear strength of any URMpier 
+orwall, pounds 
+Va 
+(N). 
+Vca = 	Total shear capacity of crosswalls in the direction of analysis immediately above the diaphragm level being investigated, v;Lc, pounds (N). 
+vcb = Total shear capacity of crosswalls in the direction of analysis immediately below the diaphragm level 
+
+being investigated, v ;Lc, pounds (N). 
+vp = 	Shear force assigned to a pier on the basis of its rel­ative shear rigidity, pounds (N). 
+v, = 	Pier rocking shear capacity of any URM wall or wall pier, pounds (N). 
+
+:8 
+
+
+
+0 
+
+0 
+
+
+
+
+v, = Mortar shear strength as specified in Section A106.3.3.5, pounds per square inch (kPa). 
+v, 
+•• , = Load at incipient cracking for each in-place shear test per UBC Standard 21-6, pounds (kN). 
+Vro = 	Mortar shear test values as specified in Section A106.3.3.5, pounds per square inch (kPa). 
+Vu = 	Unit shear capacity value for a diaphragm sheathed with any of the materials given in Table Al-D or Al-E, pounds per foot (N/m). 
+Vwx = 	Total shear force resisted by 
+a shear wall at the level under consideration, pounds (N). 
+w = 	Total seismic dead load as defined in the building code; pounds (N). 
+
+wd = 	Total dead load tributary to a diaphragm level, pounds (N). 
+
+Ww = 	Total dead load of a URM wall above the level un­der consideration or above an open-front building, pounds (N). 
+wwx = 	Dead load of a URM wall assigned to level xhalf-w,ay above and below the level under consider­ation, pounds (N). 
+v,/J 
+= Sum of diaphragm shear capacities of both ends of the diaphragm, pounds (N). 
+v,JJ = For diaphragms coupled with cross walls, v ,P in­cludes the sum of shear capacities of both ends of diaphragms coupled at and above the level under consideration, pounds (N). 
+
+Wd = Total dead load of all the diaphragms at and above 
+
+the level under consideration, pounds (N). 
+SECTION A105 GENERAL REQUIREMENTS 
+
+
+
+AlOS.l General. The seismic-force-resisting system specified in this chapter shall comply with the building code, except as modified herein. 
+
+0 
+A105.2 Alterations and repairs. Alterations and repairs required to meet the provisions of this chapter shall comply with applicable structural requirements of the building code unless specifically provided for in this chapter. 
+A105.3 Requirements for plans. The following construction information shall be included in the plans· required by this chapter: 
+
+1. Dimensioned floor and roof plans showing existing walls and the size and spacing of floor and roof-framing 
+members and sheathing materials. The plans shall indi­cate all existing and new crosswalls and shear walls and their materials of construction. The location of these 
+
+walls and their openings shall be fully dimensioned and drawn to scale on the plans. 
+
+0 
+2. Dimensioned wall elevations showing openings, piers, wall classes as defined in Section A106.3.3.8, thickness, 
+heights, wall shear test locations, cracks or damaged por­tions requiring repairs, the general condition of the mor­tar joints, and if and where pointing is required. Where 
+
+
+
+APPENDIX CHAPTER A1 
+the exterior face is veneer, the type of veneer, its thickness and its bonding and/or ties to the structural wall masonry shall also be noted. 
+3. 
+The type of interior wall and ceiling materials, and fram­ing. 
+
+4. 
+The extent and type of existing wall anchorage to floors and roof when used in the design. 
+
+5. 	
+The extent and type of parapet corrections that were pre­viously performed, if any. 
+
+
+
+6, Repair details, if any, of cracked or damaged unreinforced masonry walls required to resist forces specified in this chapter. 
+7. 
+All other plans, sections and details necessary to delin­eate required retrofit construction. 
+
+8. 
+The design procedure used shall be stated on both the plans and the permit application. 
+
+9. 
+Details of the anchor prequalification program required by UBC Standard 21-7, if used, including location and results of all tests. 
+
+
+A105.4 Structural observation, testing and inspection. 
+
+Structural observation, in accordance with Section 1709 of the California Building Code, shall be required for all structures in which seismic retrofit is being performed in accordance with this chapter. Structural observation shall include visual observation of work for conformance with the approved con­struction documents and confirmation of existing conditions assumed during design. 
+Structural testing and inspection for new construction mate­rials shall be in accordance with the California Building Code, except as modified by this chapter. 
+SECTION A 106 
+MATERIALS REQUIREMENTS 
+
+A106.1 General. Materials permitted by this chapter, includ­ing their appropriate strength design values and those existing configurations of materials specified herein, may be used to meet the requirements of this chapter. 
+A106.2 Existing materials. Existing materials used as part of the required vertical-load-carrying or lateral-force-resisting system shall be in sound condition, or shall be repaired or removed and replaced with new materials. All other unreinforced masonry materials shall comply with the follow­ing requirements: 
+1. 
+The lay-up of the masonry units shall comply with Sec­tion A106.3.2, and the quality of bond between the units has been verified to the satisfaction of the building offi­cial; 
+
+2. 
+Concrete masonry units are verified to be load-bearing units complying with UBC Standard 21-4 or such other standard as is acceptable to the building official; and 
+
+3. 
+The compressive strength of plain concrete walls shall be determined based on cores taken from each class of con­crete wall. The location and number of tests shall be the same as those prescribed for tensile-splitting strength 
+
+
+
+
+
+
+
+
+
+must be performed in conjunction with the installation of ten­sion roof anchors. 
+The minimum height of a parapet above any wall anchor shall be 12 inches (305 
+mm). 
+Exception: If a reinforced concrete beam is provided at the top of the wall, the minimum height above the wall anchor may be 6 inches (152 mm). 
+
+A113.7 Veneer. 
+1. 	Veneer shall be anchored with approved anchor ties con­forming to the required design capacity specified in the building code and shall be placed at a maximum spacing of 24 inches (610 mm) with a maximum supported area of 4 square feet (0.372 m2). 
+Exception: Existing anchor ties for attaching brick veneer to brick backing may be acceptable, provided the ties are in good condition and conform to the fol­lowing minimum size and material requirements. 
+Existing veneer anchor ties may be considered ade­quate if they are of corrugated galvanized iron strips not less than 1 inch (25.4 mm) in width, 8 inches (203 mm) in length and 
+1/16inch (1.6 mm) in thickness, or the equivalent. 
+2. 	The location and condition of existing veneer anchor ties shall be verified as follows: 
+2.1. An approved testing laboratory shall verify the location and spacing of the ties and shall submit a report to the building official for approval as part of the structural analysis. 
+2.2. The veneer in a selected area shall be removed to expose a representative sample of ties (not less than four) for inspection by the building official. 
+
+A113.8 Nonstructural masonry walls. Unreinforced masonry walls that carry no design vertical or lateral loads and that are not required by the design to be part of the lateral-force resisting system shall be adequately anchored to new or exist­ing supporting elements. The anchors and elements shall be designed for the out-of-plane forces specified in the building code. The height-or length-to-thickness ratio between such supporting elements for such walls shall not exceed nine. 
+A113.9 Truss and beam supports. Where trusses and beams other than rafters or joists are supported on masonry, independ­ent secondary columns shall be installed to support vertical loads of the roof or floor members. 
+
+Exception: Secondary supports are not required where Sm is less than 0.3g. 
+Al13.10 Adjacent buildings. Where elements of adjacent buildings do not have a separation of at least 5 inches (127 mm), the allowable height-to-thickness ratios for "all other buildings" per Table A1-B shall be used in the direction of con­sideration. 
+
+
+
+SECTION A 114 WALLS OF UNBURNED CLAY, ADOBE OR STONE MASONRY 
+
+A114.1 General. Walls of unburned clay, adobe or stone masonry construction shall conform to the following: 
+1. 
+Walls of unburned clay, adobe or stone masonry shall not 
+exceed a height-or length-to-thickness ratio specified in 
+Table A1-G. 
+
+
+2. Adobe may be allowed a maximum value of 9 pounds per 
+square inch (62.1 kPa) for shear unless higher values are 
+justified by test. 
+
+
+3. 
+Mortar for repointing may be of the same soil composi­
+tion and stabilization as the brick, in lieu of cement-mor­
+tar. 
+
+
+
+
+
+
+
+
+0 
+
+0 
+0 
+0 
+
+
+
+APPENDIX CHAPTER A1 
+
+TABLE A1-A-ELEMENTS REGULATED BY THIS CHAPTER 
+
+a. 
+Applies only to buildings designed according to the general procedures of Section AllO. 
+
+b. 
+Applies only to buildings designed according to the special procedures of Section Alll. 
+
+
+0 
+
+TABLE A1 -B-ALLOWABLE VALUE OF HEIGHT-TO-THICKNESS 
+RATIO OF UNREINFORCED MASONRY WALLS 
+
+WALL TYPES  0.139 501 < 0.259  0.259 501 < 0.49  501 0.49 BUILDINGS WITH CROSSWALLS"  S01 >0.49ALL OTHER BUILDINGS  
+Walls of one-story buildings  20  16  16b,c  
+First-story wall of multistory building  20  18  16  
+Walls in top story of multistory building  14  14  14b,c  
+All other walls  20  16  16  
+
+
+
+
+a. 
+Applies to the special procedures of Section Alll only. See Section Alll. 7 for other restrictions. 
+
+b. 
+This value of height -to-thickness ratio may be used only where mortar shear tests establish a tested mortar shear strength, v"of not less than 100 pounds per square inch (690 k:Pa). This value may also be used where the tested mortar shear strength is not less than 60 pounds per square inch ( 414 k:Pa), and where a visual exami­nation of the collar joint indicates not less than 50-percent mortar coverage. 
+
+c. 	
+Where a visual examination of the collar joint indicates not less than 50-percent mortar coverage, and the tested mortar shear strength, v 1, is greater than 30 pounds per square inch (207 k:Pa) but less than 60 pounds per square inch (414 k:Pa), the allowable height-to-thickness ratio may be determined by linear interpolation between the larger and smaller ratios in direct proportion tothe tested mortar shear strength. 
+
+
+
+
+
+CONFIGURATION OF MATERIALS Roofs with straight or diagonal sheathing and roofing applied directly to the sheathing, or floors with straight tongue-and-groove sheathing. Diaphragms with double or mulitple layers of boards with edges offset, and blocked plywood systems. Diaphragms of metal deck without topping: Minimal welding or mechanical attachment. Welded or mechanically attached for seismic resistance.  cp 0.50 0.75 0.6 0.68  
+
+TABLE A1-C-HORIZONTAL FORCE FACTOR 
+( \
+\___) 
+/ 
+
+\ 
+\_____) 
+
+
+
+
+
+
+Horizontal 
+diaphragms 
+Crosswalls 
+Tension bolts0 
+Shear bolts0 
+Combined tension and shear bolts 
+Infilled walls 
+Reinforced masonryd 
+Reinforced concreted 
+APPENDIX CHAPTER A1 
+
+TABLE A1-E-5TRENGTH VALUES OF NEW MATERIALS USED IN CONJUNCTION WITH EXISTING CONSTRUCTION 
+NEW MATERIALS OR CONFIGURATION OF MATERIALS 
+Plywood sheathing applied directly over existing straight sheathing with ends of plywood sheets bearing on joists or rafters and edges of plywood 
+located on center of individual sheathing boards. 
+Plywood sheathing applied directly over wood studs; no value should be given to plywood applied over existing plaster or wood sheathing. 
+Drywall or plaster applied directly over wood studs. 
+Drywall or plaster applied to sheathing over existing wood studs. 
+Bolts extending entirely through unreinforced masonry wall secured with bearing plates on far side of a three-wythe-minimum wall with at least 30 square inches of area. b,c 
+Bolts embedded a minimum of 8 inches into unreinforced masonry walls; bolts should be centered in 21/2-inch-diameter holes with dry-pack or nonshrink grout around the circumference of the bolt. 
+Through-bolts-:-bolts meeting the requirements for shear and for tension bolts.b,c 
+Embedded bolts-bolts extending to the exterior face of the wall with a 21/2-inch round plate under the head and drilled at an angle of 221/2 degrees to the horizontal; installed as specified for shear bolts.a.b,c 
+Reinforced masonry infilled openings in existing unreinforced masonry walls; provide keys or dowels to match reinforcing. 
+Masonry piers and walls reinforced per the current building code. 
+Concrete footings, walls and piers reinforced as specified in the current building code. 
+STRENGTH VALUES 
+675 lbs. per ft. 
+1.2 times the value specified in the current building code. 
+The value specified in the current building code. 
+50 percent of the value specified in the current building code. 
+5,400 lbs. per bolt 2,700 lbs. for two-wythe walls 
+The value for plain masonry specified for solid masonry in the current building code; no value larger than those given for 3/4-inch bolts should be used. 
+Tension-same as for tension bolts Shear-same as for shear bolts 
+Tension-3,600 lbs. per bolt Shear-same as for shear bolts 
+Same as values specified for unreinforced masonry walls 
+The value specified in the current building code for strength design. 
+The value specified in the current building code for strength design. 
+For SI: 1 inch= 25.4 mm,1 square inch= 645.16 IIIIIl, 1 pound= 4.4 N. 
+
+a. 
+Embedded bolts to be tested as specified in Section A107.4. 
+
+b. 
+Bolts to be 1/2 inch (12.7 mm) minimum in diametet: 
+
+
+c. 
+Drilling for bolts and dowels shall be done with an electric rotary drill; impact tools should not be used for drilling holes or tightening anchors and shear bolt nuts. 
+
+d. 
+No load factors or capacity reduction factor shall be used. 
+
+
+e. 	
+Other bolt sizes, values and installation methods may be used, provided a testing program is conducted in accordance with UBC Standard 21-7. The useable value shall be determined by multiplying the calculated allowable value, as determined by UBC Standard 21-7, by 3.0, and the useable value shall be limited to a maxi­mum of 1.5 times the value given in the table. Bolt spacing shall not exceed 6 feet (1829 mm) on center and shall not be less than 12 inches (305 mm) on center. 
+
+
+TABLE A1·F-MAXIMUM ALLOWABLE HEIGHT-TO-THICKNESS RATIOS FOR PARAPETS 
+Sm  
+0.139 501 <0.259  0.259 501 <0.49  501 0.49  
+Maximum allowable height-to-thickness ratios  2.5  2.5  1.5  
+
+TABLE A1·G-MAXIMUM HEIGHT-TO-THICKNESS RATIOS FOR ADOBE OR STONE WALLS 
+So1  
+0.139 501 < 0.259  0.259 S01 < 0.49  501 0.49  
+One-story buildings  12  10  8  
+Two-story buildings  
+First story  14  11  9  
+Second story  12  10  8  
+
+
+
+
+COMPRESSIVE STRENGTH, MIN, psi (MPa)  WATER ABSORPTION, MAX, lbJft. (kg/m) (Average of 3 Units)  
+Average Net Area  Weight Classification-Oven-dry Weight of Concrete, lbJft. (kg/m )  
+Average of 3 Units  Individual Unit  Lightweight, Less than 105 (1680)  Medium Weight, 105 to less than 125 (1680-2000)  Normal Weight, 125 (2000) or more  
+1900 (13.1)  1700 (11.7)  18 (288)  15 (240)  13 (208)  
+
+inch (3.2 rom) from the specified standard dimensions. On faces that are split, overall dimensions will vary. Lo­cal suppliers should be consulted to determine dimen­sional tolerances achievable. 
+
+3. 	For slumped units, no overall height dimension shall dif­fer by more than 1/8 inch (3.2 rom) from the specified standard dimension. On faces that are slumped, overall dimensions will vary. Local suppliers shopld be con­sulted to determine dimension tolerances achievable. 
+Note: Standard dimensions of units are the manufacturer's des­ignated dimensions. Nominal dimensions of modular size units, except slumped units, are equal to.the standard dimen­sions plus 3fs inch (9.5 mm), the thickness of one standard mor­tar joint. Slumped units are equal to the standard dimensions plus 1/2 inch (13 rom), the thickness of one standard mortar joint. Nominal dimensions of nonmodular size units usually exceed the standard dimensions by 1/8 inch to 1/4 inch (3.2 rom 
+
+
+
+
+Where units are to be used in exposed wall construction, the face or faces that are to be exposed shall be free of chips, cracks or other imperfections when viewed from 20 feet (6100 mm), except that not more than 5 percent of a shipment may have slight cracks or small chips not larger than 1 inch (25.4 rom). 
+
+
+
+Sectio n 21.408 -Methods of Sampling and Testing 
+The purchaser or authorized representative shall be accorded proper facilities to inspect and sample the units at the place of manufacture from the lots ready for delivery. 
+Sample and test units in accordance with ASTM C140. 0 
+Total linear drying shrinkage shall be based on tests of con­
+
+0 
+0 
+
+
+0 
+
+
+
+REFERENCED STANDARDS 
+
+TABLE 21 -4-C 0 MINIMUM THICKNESS OF FACE-SHELLS AND WEBS 
+0 
+
+1Average of measurements on three units taken at the thinnest point. 
+
+2Sum of the measured thickness of all webs in the unit, multiplied by 12 (305 when using metric), and divided by the length of the unit. In the case of open-ended units where the open-ended portion is solid grouted, the length of that open-ended portion shall be deducted from the 01erall length of the unit. 
+3This face-shell thickness (FST) is applicable where allowable design load is reduced in proportion to the reduction in thicknesses shown, except that allowable design load onsolid-grouted units shall not be reduced. 
+4For split-faced units, a maximum of 10 percent of a shipment may have face-shell thicknesses less than those shown, but in no case less than 3/4 inch (19 mm). 
+( \ 
+\_____) 
+
+
+
+
+
+
+UNIFORM BUILDING CODE STANDARD 21-6 IN-PLACE MASONRY SHEAR TESTS 
+See Appendix Chapter 1, Sections A1 06.3.3 and A1 07.2, Uniform Code for Building Conservation Note: See Appendix Chapter A 1, Section A 104, California Existing Building Code. 
+Section 21.60 1 -Scope 
+This standard applies when the Uniform Code for Building Con­servation (California Existing Building Code) requires in-place testing of the quality of masonry mortar. 
+Section 21.602-Preparation of Sample 
+The bed joints of the outer wythe of the masonry shall be tested in shear by laterally displacing a single brick relative to the adja­cent bricks in the same wythe. The head joint opposite the loaded end of the test brick shall be carefully excavated and cleared. The brick adjacent to the loaded end of the test brick shall be care­fully removed by sawing or drilling and excavating to provide space for a hydraulic ram and steel loading blocks. 
+Section 21.603 -Application of Load and Determination of Results 
+Steel blocks, the size of the end of the brick, shall be used on each end of the ram to distribute the load to the brick. The blocks shall not contact the mortar joints. The load shall be applied horizontally, in the plane of the wythe, until either a crack can be seen or slip occurs. The strength of the mortar shall be calculated by dividing the load at the first cracking or movement of the test brick by the nominal gross area of the sum of the two bed joints. 
+
+
+
+
+UNIFORM BUILDING CODE STANDARD 
+21-7 
+TESTS OF ANCHORS IN UNREINFORCED MASONRY WALLS 
+
+See Appendix Chapter 1, Section A 1 07.3 and A 1 07.4, Uniform Code for Building Conservation 
+Note: See Appendix Chapter A 1, Section A 105, A 107.3, A 107.4 and 
+Table A 1-E, California Existing Building Code. 
+
+
+
+Section 21.70 1 -Scope 
+Shear and tension anchors in existing masonry construction shall be tested in accordance with this standard when required by the Uniform Code for Building Conservation (California Existing Building Code). 
+Section 21.702-Direct Tension Testing of Existing Anchors and New Bolts 
+The test apparatus shall be supported by the masonry wall. The distance between the anchor and the test apparatus support shall not be less than one half the wall thickness for existing anchors and 75 percent of the embedment for new embedded bolts. Existing wall anchors shall be given a preload of 300 pounds (1335 N) prior to establishing a datum for recording elongation. The tension test load reported shall be recorded at 1/8 inch (3.2 rom) relative movement of the existing anchor and the adjacent masonry surface. New embedded tension bolts shall be subject to a direct tension load of not less than 2. 5 times the design load but not less than 1,500 pounds ( 6672 N) for five minutes (10 percent deviation). 
+
+
+Section 21.703-Torque Testing of New Bolts 
+Bolts embedded in unreinforced masonry walls shall be tested using a torque-calibrated wrench to the following minimum torques: 
+1/2-inch-diameter (13 rom) bolts-40 foot pounds (54.2 N · m) %-inch-diameter (16 rom) bolts-50 foot pounds (67.8 N · m) 3/4-inch-diameter (19 rom) bolts-60 foot pounds (81.3 N · m) 
+Section 21.704 -Prequalification Test for Bolts and Other Types of Anchors 
+
+This section is applicable when it is desired to use tension or shear values for anchors greater than those permitted by Table A-1-E of the Uniform Code for Building Conservation (Cali­fornia Existing Building Code). The direct-tension test proce­dure set forth in Section 2 1. 702 for existing anchors may be used to determine the allowable tension values for new embedded or through bolts, except that no preload is required. Bolts shall be installed in the same manner and using the same materials as will be used in the actual construction. A mini­mum of five tests for each bolt size and type shall be per­formed for each class of masonry in which they are proposed to be used. The allowable tension values for such anchors shall be the lesser of the average ultimate load divided by a 
+factor of safety of 5.0 or the average load of which 1/8 inch (3 .2 rom) elongation occurs for each size and type of bolt and class 0 
+of masonry. 
+Shear bolts may be similarly prequalified. The test procedure 
+shall comply with ASTM E 488-90 or another approved pro­
+cedure. 
+The allowable values determined in this manner may exceed 
+
+those set forth in Table A-1-E of the Uniform Code for Build­
+ing Conservation (California Existing Building Code). 
+Section 21.705-Reports 
+Results of all tests shall be reported. The report shall include 
+CJ 
+the test results as related to anchor size and type, orientation 
+of loading, details of the anchor installation and embedment, 
+wall thickness, and joist orientation. 
+
+REFERENCED STANDARDS 
+
+
+
+
+UNIFORM BUILDING CODE STANDARD 21-8 
+POINTING OF UNREINFORCED MASONRY WALLS 
+
+See Appendix Chapter 1, Section A 1 06.3.3.2, Uniform Code for Building Conservation Note: See Appendix Chapter A 1, Section A 103 and A 1 06.3.3.9, California Existing Building Code. 
+
+
+Section 21.80 1 -Scope 
+
+Pointing of deteriorated mortar joints when required by the Uni­form Code for Building Conservation (California Existing 
+
+Building Code) shall be in accordance with this standard. 
+
+Section 21.802 -Joint Preparation 
+
+The old or deteriorated mortar joint shall be cut out, by means of a toothing chisel or nonimpact power tool, to a uniform depth of 3/4 inch (19 mm) until sound mortar is reached. Care shall be taken not to damage the brick edges. After cutting is complete, 
+all loose material shall be removed with a brush, air or water 
+stream. 
+
+
+
+Section 21.803 -Mortar Preparation 
+
+The mortar mix shall be Type N 
+or Type S proportioned as required by the construction specifications. The pointing mortar shall be pre-hydrated by first thoroughly mixing all ingredi­ents dry and then mixing again, adding only enough water to produce a damp unworkable mix which will retain its form when pressed into a ball. The mortar shall be kept in a damp condition for one and one-half hours; then sufficient water shall be added to bring it to a consistency that is somewhat drier than conventional masonry mortar. 
+
+Section 21.804 -Packing 
+The joint into which the mortar is to be packed shall be damp but without freestanding water. The mortar shall be tightly packed into the joint in layers not exceeding 1/4 inch (6.4 mm) in depth until it is filled; then it shall be tooled to a smooth sur­face to match the original profile. 
+
+
+
+UNIFORM BUILDING CODE STANDARD 21-13 
+HYDRATED LIME FOR MASONRY PURPOSES 
+
+Based on Standard Specification C 207-91 (Reapproved 1992) of the ASTM International. 
+Extracted, with permission, from the Annual Book of ASTM Standards, copyright 
+ASTM International, 100 Barr Harbor Drive, West Conshohocken, PA 19428 
+
+See Section 21 02.2, Item 3, Uniform Building Code 
+Note: See Referenced Standard UBC 21-4 
+
+Section 21.130 1 -Scope 
+
+This standard covers four types of hydrated lime. Types N and S are suitable for use in mortar, in the scratch and brown coats of cement plaster, for stucco, and for addition to port­land-cement concrete. Types NA and SA are air-entrained hydrated limes that are suitable for use in any of the above uses where the inherent properties of lime and air entrainment are desired. The four types of lime sold under this specification shall be designated as fgllows: 
+Type N-Normal hydrated lime for masonry purposes. 
+Type S-Special hydrated lime for masonry purposes. 
+
+Type NA-Normal air-entraining hydrated lime for masonry purposes. 
+Type SA-Special air-entraining hydrated lime for masonry purposes. 
+Note: Type S, special hydrated lime, and Type SA, special air-entraining hydrated lime, are differentiated from Type N, normal hydrated lime, and Type NA, normal air-entrain­ing hydrated lime, principally by their ability to develop high, early plasticity and higher water retentivity and by a limitation on their unhydrated oxide content. 
+2013 CALIFORNIA EXISTING BUILDING CODE 
+Section 21.1302 -Definition 
+
+HYDRATED LIME. The hydrated lime covered by Type N or S in this standard shall contain no additives for the purpose of entraining air. The air content of cement -lime mortars made with Type N or S shall not exceed 7 percent. Types NA and SA shall contain an air -entraining additive as specified by Section 21.1305. The air content of cement-lime mortars made with Type NA or SA shall have a minimum of 7 percent and a maximum of 14 percent. 
+Section 21. 1303 -Additions 
+Types NA and SA hydrated lime covered by this standard shall contain additives for the purpose of entraining air. 
+Section 21. 1304 -Manufacturer's Statement 
+Where required, the nature, amount and identity of the air-entraining agent used and of any processing addition that may have been used shall be provided, as well as test data showing compliance of such air-entraining addition. 
+
+
+
+
+
+
+
+
+
+
+Section 21.1305 -Chemical Requirements Composition 
+Hydrated lime for masonry purposes shall conform to the requirements as to chemical composition set forth in Table 
+21-13-A. 
+
+
+Section. 21.1306 -Residue, Popping and Pitting 
+The four types of hydrated lime for masonry purposes shall conform to one of the following requirements: 
+1. 
+The residue retained on a No. 30 ( 600 IJID) sieve shall not be more than 0.5 percent, or 
+
+
+2. 
+If the residue retained on a No. 30 (600 IJID) sieve is over 
+
+
+0.5 percent, the lime shall show no pops and pits when tested. 
+
+
+Sectio n 21.1307 -Plasticity 
+The putty made from TypeS, special hydrate, or Type SA, spe­cial air-entraining hydrate, shall have a plasticity figure of not less than 200 within 30 minutes after mixing with water, when tested. 
+Sectio n 21. 1308 -Water Retention 
+Hydrated lime mortar made with 'JYpe N, normal hydrated 
+· 
+
+lime, or Type NA, normal air-entraining hydrated lime, after 
+suction for 60 seconds, shall have a water-retention value of not less than 75 percent when tested in a standard mortar made from the dry hydrate or from putty made from the hydrate which has been soaked for a period of 16 to 24 
+hours. 
+Hydrated lime mortar made with Type S, special hydrated lime, or 'JYpe SA, special air-entraining hydrated lime, after suction for 60 seconds, shall have a water-retention value of 
+not less than 85 percent when tested in a standard mortar made from the dry hydrate. 
+
+Section 21. 1309 -Special Marking 
+
+
+When 'JYpe NA or SA air-entraining hydrated lime is deliv­ered in packages, the type under this standard and the words "air-entraining" shall be plainly indicated thereon or, in case of bulk shipments, so indicated on shipping notices. 
+
+Section 21.1310 -Quality Control 
+Every 90 days, each lime producer shall retain an approved 
+agency to obtain a random sample from a local point of sup­ply in the market area served by the producer. 
+The agency shall test the lime for compliance with the physical requirements of Sections 21.1306, 21.1307 and 
+21.1308. 
+Upon request of the building official, the producer shall fur­nish (at no cost) test results to the building official, architect, structural engineer, general contractor and masonry contrac­tor. 
+ASTM 653/A & 653M-08 [HCD] 
+Standard specifications for steel sheet, zinc-coated (galva­nized) or zinc-iron alloy-coated (galvannealed) by the hot-dip process. 
+
+
+
+
+
+
+
+TABLE 21-13-A-CHEMICAL REQUIREMENTS 
+
+
+
+u 
+
+24 
+
+
+
+
+
+
+CALIFORNIA BUILDING CODE-MATRIX ADOPTION TABLE 
+CHAPTER A3 
+
+PRESCRIPTIVE PROVISIONS FOR SEISMIC STRENGTHENING OF CRIPPLE WALLS 
+AND SILL PLATE ANCHORAGE OF LIGHT, WOOD-FRAME RESIDENTIAL BUILDINGS 
+
+
+The Office of the State Fire Marshal's adoption of this chapter or individual sections is applicable to structures regulated by other state agencies pursuant to Section 1.11. 
+
+
+
+
+
+
+
+
+
+
+
+u 
+
+
+
+
+CHAPTER A3 
+PRESCRIPTIVE PROVISIONS FOR SEISMIC STRENGTHENING 
+
+OF CRIPPLE WALLS AND SILL PLATE ANCHORAGE OF LIGHT, 
+WOOD-FRAME RESIDENTIAL BUILDINGS 
+
+
+
+0 
+SECTION A301 GENERAL 
+
+
+[B] A301.1 Purpose. The provisions of this chapter are intended to promote public safety and welfare by reducing the risk of earthquake-induced damage to existing woodframe0 residential buildings. The requirements contained in this chap­ter are prescriptive minimum standards intended to improve the seismic performance of residential buildings; however, they will not necessarily prevent earthquake damage. 
+This chapter sets standards for strengthening that may be approved by the code official without requiring plans or calcu­lations prepared by a registered design professional. The provi­sions of this chapter are not intended to prevent the use of any material or method of construction not prescribed herein. The code official may require that construction documents for strengthening using alternative materials or methods be pre­pared by a registered design profession
+al. 
+[B] A301.2 Scope. The provisions of this chapter apply to resi­dential buildings of light-frame wood construction containing 
+() 	one or more of the structural weaknesses specified in Section A303. 
+Exception: The provisions of this chapter do not apply to the buildings, or elements thereof, listed below. These buildings or elements require analysis by a registered design professional in accordance with Section A301.3 to deter­mine appropriate strengthening: 
+1. 
+Group R-1, R-2 or R-4 occupancies with more than four dwelling units. 
+
+2. 
+Buildings with a lateral force-resisting system using poles or columns embedded in the ground. 
+
+3. 
+Cripple walls that exceed 4 feet ( 1219 mm) in height. 
+
+
+4. 
+Buildings exceeding three stories in height and any three-story building with cripple wall studs exceeding 14 inches (356 mm) in height. 
+
+5. 
+Buildings where the code official determines that conditions exist that are beyond the scope of the pre­scriptive requirements ofthis chapter. 
+
+6. 
+Buildings or portions thereof constructed on concrete slabs on grade. 
+
+
+[B] A301.3 Alternative design procedures. The details and prescriptive provisions herein are not intended to be the only acceptable strengthening methods permitted. Alternative details and methods may be used where designed by a regis­
+\ tered design professional and approved by the code official. 
+<J 	Approval of alternatives shall be based on a demonstration that the method or material used is at least equivalent in terms of strength, deflection and capacity to that provided by the pre­scriptive methods and materials. 
+2013 CALIFORNIA EXISTING BUILDING CODE 
+
+
+
+
+
+Where analysis by a registered design professional is required, such analysis shall be in accordance with all require­ments of the building code, except that the seismic forces may be taken as 7 5 percent of those specified in the building code. 
+
+SECTION A302 DEFINITIONS 
+For the purpose of this chapter, in addition to the applicable definitions in the building code, certain additional terms are defined as follows: 
+[B] ADHESIVE ANCHOR. An assembly consisting of a threaded rod, washer, nut, and chemical adhesive approved by 
+the code official for installation in existing concrete or masonry. 
+CODE OFFICIAL "Code Official " shall have the same meaning as Enforcing Agency. 
+
+II 
+[B] 
+COMPOSITE PANEL. A wood structural panel product composed of a combination of wood veneer and wood-based material, and bonded with waterproof adhesive. 
+
+[B] 
+CRIPPLE WALL. A wood-frame stud wall extending from the top of the foundation to the underside of the lowest floor framing. 
+
+
+ENFORCING AGENC Y. The designated department or agency as specified by statute or regulation. 
+
+II 
+[B] 
+EXPANSION ANCHOR. An approved post-installed anchor, inserted into a pre-drilled hole in existing concrete or masonry, that transfers loads to or from the concrete or masonry by direct bearing or friction or both. 
+
+[B] 
+ORIENTED STRAND BOARD (OSB). A mat-formed wood structural panel product composed of thin rectangular wood strands or wafers arranged in oriented layers and bonded 
+with waterproof adhesive. 
+
+[B] 
+PERIMETER FOUNDATION. A foundation system that is located under the exterior walls of a building. 
+
+[B] 
+PLYWOOD. A wood structural panel product composed of sheets of wood veneer bonded together with the grain of adjacent layers oriented at right angles to one another. 
+
+[B] 
+SNUG-TIGHT. As tight as an individual can torque a nut on a bolt by hand, using a wrench with a 10-inch-long (254 mm) handle, and the point at which the full surface of the plate washer is contacting the wood member and slightly indenting the wood surface. 
+
+[B] 
+WAFERBOARD. A mat-formed wood structural panel product composed of thin rectangular wood wafers arranged in random layers and bonded with waterproof adhesive. 
+
+
+27 
+
+
+
+
+
+[B] WOOD STRUCTURAL PANEL. A structural panel product composed primarily of wood and meeting the require­ments of United States Voluntary Product Standard PS 1 and United States Voluntary Product Standard PS 2. Wood struc­tural panels include all-veneerplywood, composite panels con­taining a combination of veneer and woodbased material, and mat-formed panels such as oriented strand board and waferboard. 
+SECTION A303 
+STRUCTURAL WEAKNESSES 
+
+
+[B] A303.1 General. For the purpose of this chapter, structural weaknesses shall be as specified below. 
+1. Sill plates or floor framing that are supported directly on the ground without a foundation system that conforms to the building code. 
+
+2. 
+A perimeter foundation system that is constructed only of wood posts supported on isolated pad footings. 
+
+3. 
+Perimeter foundation systems that are not continuous. 
+
+
+
+Exceptions: 
+1. 
+Existing single-story exterior walls not exceed­ing 10 feet (3048 mm) in length, forming an extension of floor area beyond the line of an existing continuous perimeter foundation. 
+
+
+2. 
+Porches, storage rooms and similar spaces not containing fuel-burning appliances. 
+
+
+
+4. 
+A perimeter foundation system that is constructed of unreinforced masonry or stone. 
+
+5. 	
+Sill plates that are not connected to the foundation or that are connected with less than what is required by the building code. 
+
+Exception: Where approved by the code official, connections of a sill plate to the foundation made with other than sill bolts may be accepted if the capacity of the connection is equivalent to that required by the building code. 
+
+
+6. 	
+Cripple walls that are not braced in accordance with the requirements of Section A304.4 and Table A3-A, or cripple walls not braced with diagonal sheathing or wood structural panels in accordance with the building code. 
+
+
+SECTION A304 
+STRENGTHENING REQUIREMENTS 
+
+
+
+
+A304.1 General. 
+
+[B] A304.1.1 Scope. The structural weaknesses noted in Section A303 shall be strengthened in accordance with the requirements of this section. Strengthening work may include both new construction and alteration of existing construction. Except as provided herein, all strengthening work and materials shall comply with the applicable provi­sions of the building code. 
+A304.1.2 Condition of existing wood materials. All exist­ing wood materials that will be a part of the strengthening 
+
+
+
+
+
+
+
+work (sills, studs, sheathing, etc.) shall be in a sound condi­
+tion and free from defects that substantially reduce the 
+capacity of the member. Any wood material found to con­
+tain fungus infection shall be removed and replaced with 
+new material. Any wood material found to be infested with 
+insects or to have been infested with insects shall be 
+strengthened or replaced with new materials to provide a net 
+dimension of sound wood at least equal to its undamaged 
+original dimension. 
+
+
+0 
+[B] A304.1.3 Floor joists not parallel to foundations. 
+Floor joists framed perpendicular or at an angle to perimeter 
+
+foundations shall be restrained either by an existing nominal 
+2-inch-wide (5 1 mm) continuous rim joist or by a nominal 
+2-inch-wide (5 1 mm) full-depth block between alternate 
+joists in one-and two-story buildings, and between each 
+
+
+0 
+joist in three-story buildings. Existing blocking for multi­
+story buildings must occur at each joist space above a braced 
+cripple wall panel. 
+
+Existing connections at the top and bottom edges of an 
+existing rim joist or blocking need not be verified in 
+one-story buildings. In multistory buildings, the existing top 
+edge connection need not be verified; however, the bottom 
+edge connection to either the foundation sill plate or the top 
+plate of a cripple wall shall be verified. The minimum exist­
+ing bottom edge connection shall consist of 8d ·toenails 
+spaced 6 inches (152 mm) apart for a continuous rim joist, or 
+
+
+three 8d toenails per block. When this minimum bottom 
+edge-connection is not present or cannot be verified, a sup­
+plemental connection installed as shown in Figure A3-8A or ()
+A3-8C shall be provided. 
+
+Where an existing continuous rim joist or the minimum 
+existing blocking does not occur, new 3/4-inch (19 mm) or 
+23/32-inch (18 mm) wood structural panel blocking installed 
+tightly between floor joists and nailed as shown in Figure 
+A3-9 shall be provided at the inside face of the cripple wall. 
+In lieu of wood structural panel blocking, tight fitting, 
+full-depth 2-inch (5 1 mm) blocking may be used. New 
+blocking may be omitted where it will interfere with vents or 
+plumbing that penetrates the wall. 
+
+[B] A304.1.4 Floor joists parallel to foundations. Where 
+existing floor joists are parallel to the perimeter founda­
+tions, the end joist shall be located over the foundation and, 
+except for required ventilation openings, shall be continu­()
+ous and in continuous contact with the foundation sill plate 
+or the top plate of the cripple wall. Existing connections at 
+the top and bottom edges of the end joist need not be verified 
+in one-story buildings. In multistory buildings, the existing 
+top edge connection of the end joist need not be verified; 
+however, the bottom edge connection to either the founda­
+
+u
+tion sill plate or the top plate of a cripple wall shall be veri­
+fied. The minimum bottom edge connection shall be 8d 
+toenails spaced 6 inches (152 mm) apart. If this minimum 
+bottom edge connection is not present or cannot be verified, 
+a supplemental connection installed as shown in Figure 
+A3-8B, A3-8C or A3-9 shall be provided. 
+
+
+
+A304.2 Foundations. 
+
+[B] A304.2.1 New perimeter foundations. New perimeter 
+foundations shall be provided for structures with the struc­
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 
+tural weaknesses noted in Items 1 and 2 of Section A303. Soil investigations or geotechnical studies are not required 
+for this work unless the building is located in a special study zone as designated by the code official or other authority having jurisdiction. 
+[B] A304.2.2 Evaluation of existing foundations. Partial perimeter foundations or unreinforced masonry founda­tions shall be evaluated by a registered design professional for the force levels specified in Section A301.3. Test reports or other substantiating data to determine existing founda­tion material strengths shall be submitted to the code offi­cial. Where approved by the code official, these existing foundation systems may be strengthened in accordance with the recommendations included with the evaluation in lieu of being replaced. 
+
+
+
+Exception: In lieu of testing existing foundations to determine material strengths, and where approved by the code official, a new nonperimeter foundation system designed for the forces specified in Section A301.3 may be used to resist lateral forces from perimeter walls. A registered design professional shall confirm the ability of the existing diaphragm to transfer seismic forces to the new nonperimeter foundations. 
+
+[B] 
+A304.2.3 Details for new perimeter foundations. All new perimeter foundations shall be continuous and con­structed according to either Figure A3-1 or A3-2. All new construction materials shall comply with the requirements of building code. Where approved by the code official, the existing clearance between existing floor joists or girders and existing grade below the floor need not comply with the building code. 
+
+Exception: Where designed by a registered design pro­fessional and approved by the code official, partial per­imeter foundations may be used in lieu of a continuous perimeter foundation. 
+
+
+[B] 
+A304.2.4 New concrete foundations. New concrete foundations shall have a minimum compressive strength of 2,500 pounds per square inch (17 .24 MPa) at 28 days. 
+
+
+
+[B] A304.2.5 New hollow-unit masonry foundations. 
+0 
+New hollow-unit masonry foundations shall be solidly grouted. The grout shall have minimum compressive strength of2,000 pounds per square inch (13. 79 MPa). Mor­
+tar shall be Type M or S. 
+[B] A304.2.6 New sill plates. Where new sill plates are used in conjunction with new foundations, they shall be mini­mum 2x nominal thickness and shall be preservative-treated wood or naturally durable wood permitted by the building 
+
+(_) 	code for similar applications, and shall be marked or branded by an approved agency. Nails in contact with pre­servative-treated wood shall be hot-dip galvanized or other material permitted by the building code for similar applica­tions. Metal framing anchors in contact with preservative treated wood shall be galvanized in accordance with ASTM A 653 with a G185 coating. 
+
+[B] A304.3 Foundation sill plate anchorage. 
+[B] A304.3.1 Existing perimeter foundations. Where the building has an existing continuous perimeter foundation, 
+
+
+
+
+
+
+
+
+CHAPTER A3 
+
+
+all perimeter wall sill plates shall be anchored to the foundation with adhesive anchors or expansion anchors in accordance with Table A3-A. 
+Anchors shall be installed in accordance with Figure A3-3, with the plate washer installed between the nut and the sill plate. The nut shall be tightened to a snug-tight con­dition after curing is complete for adhesive anchors and 
+after expansion wedge engagement for expansion anchors. All anchors shall be installed in accordance with manufac­turer's recommendations. Where existing conditions pre­vent anchor installations through the sill plate, this connection may be made in accordance with Figure A3-4A, A3-4B, or A3-4C. The spacing of these alternate connec­tions shall comply with the maximum spacing requirements of Table A3-A. Expansion anchors shall not be used where the installation causes surface cracking of the foundation wall at the locations of the bolt. 
+[B] A304.3.2 Placement of anchors. Anchors shall be placed within 12 inches (305 
+mm), but not less than 9 inches (229 mm), from the ends of sill plates and shall be placed in the center of the stud space closest. to the required spacing. New sill plates may be installed in pieces where necessary 
+because of existing conditions. For lengths of sill plates greater than 12 feet (3658 mm), anchors or bolts shall be 
+spaced along the sill plate as specified in Table A3-A. For other lengths of sill plate, anchor placement shall be in accordance with Table A3-B. 
+Exception: Where physical obstructions such as fire­places, plumbing or heating ducts interfere with the placement of an anchor, the anchor shall be placed as close to the obstruction as possible, but not less than 9 inches (229 mm) from the end of the plate. Cen­ter-to-center spacing of the anchors shall be reduced as necessary to provide the minimum total number of anchors required based on the full length of the wall. Center-to-center spacing shall not be less than 12 inches (305 mm). 
+
+
+[B] A304.3.3 New perimeter foundations. Sill plates for new perimeter foundations shall be anchored in accordance with Table A3-A and as shown in Figure A3-1 or A3-2. 
+
+A304.4 Cripple wall bracing. 
+
+
+[B] A304.4.1 General. Exterior cripple walls not exceed­ing 4 feet (1219 mm) in height shall be permitted to be speci­fied by the prescriptive bracing method in Section A304.4. Cripple walls over 4 feet (1219 mm) in height require analy­sis by a registered design professional in accordance with Section A301.3. 
+[B] A304.4.1.1 Sheathing installation requirements. 
+Wood structural panel sheathing shall not be less than 15/32-inch (12 mm) thick and shall be installed in accor­dance with Figure A3-5 or A3-6. All individual pieces of wood structural panels shall be nailed with 8d common nails spaced 4 inches ( 102 mm) on center at all edges and 12 inches (305 mm) on center at each intermediate sup­port with not less than two nails for each stud. Nails shall be driven so that their heads are flush with the surface of the sheathing and shall penetrate the supporting member a minimum of 11/2 inches (38 mm). When a nail fractures the surface, it shall be left in place and not counted as part of the required nailing. A new 8d nail shall be located within 2 inches (5 1 mm) of the discounted nail and be hand-driven flush with the sheathing surface. Where the installation involves horizontal joints, those joints shall occur over nominal 2-inch by 4-inch (5 1 mm by 102 mm) blocking installed with the nominal 4-inch (102 mm) dimension against the face of the plywood. 
+
+
+
+
+
+
+
+
+
+Vertical joints at adjoining pieces of wood structural 
+panels shall be centered on studs such that there is a mini­
+mum 1/8 inch (3.2 mm) between the panels, and such that 
+the nails are placed a minimum of 1/2 inch (12.7 mm) 
+from the edges of the existing stud. Where such edge dis­
+tances cannot be maintained because of the width of the 
+existing stud, a new stud shall be added adjacent to the 
+existing studs and connected in accordance with Figure 
+A3-7. 
+
+
+
+[B] 
+A304.4.2 Distribution and amount of bracing. See Table A3-A and Figure A3-10 for the distribution and amount of bracing required for each wall line. Each braced panel length must be at least two times the height of the crip­ple stud. Where the minimum amount of bracing prescribed in Table A3-A cannot be installed along any walls, the brac­ing must be designed in accordance with Section A301.3. 
+
+Exception: Where physical obstructions such as fire­places, plumbing or heating ducts interfere with the placement of cripple wall bracing, the bracing shall then be placed as close to the obstruction as possible. The total amount of bracing required shall not be reduced because of obstructions. 
+
+
+[B] 
+A304.4.3 Stud space ventilation. When bracing mate­rials are installed on the interior face of studs forming an enclosed space between the new bracing and the existing exterior finish, each braced stud space must be ventilated. Adequate ventilation and access for future inspection shall be provided by drilling one 2-inch to 3-inch-diameter (5 1 
+mm to 76 mm) round hole through the sheathing, nearly centered between each stud at the top and bottom of the crip­ple wall. Such holes should be spaced a minimum of 1 inch (25 mm) clear from the sill or top plates. In stud spaces con­taining sill bolts, the hole shall be located on the center line of the sill bolt but not closer than 1 inch (25 mm) clear from the nailing edge of the sheathing. When existing blocking occurs within the stud space, additional ventilation holes shall be placed above and below the blocking, or the existing 
+
+
+block shall be removed and a new nominal 2-inch by 4-inch 
+(51 mm by 102 mm) block shall be installed with the nomi­
+nal4-inch (102 mm) dimension against the face of the ply­
+wood. For stud heights less than 18 inches (457 mm), only 
+one ventilation hole need be provided. 
+
+
+
+
+[B] A304.4.4 Existing underfloor ventilation. Existing 
+underfloor ventilation shall not be reduced without provid­
+ing equivalent new ventilation as close to the existing venti­
+lation as possible. Braced panels may include underfloor 
+ventilation openings when the height of the opening, mea­
+sured from the top of the foundation wall to the top of the 
+opening, does not exceed 25 percent of the height of the 
+cripple stud wall; however, the length of the panel shall be 
+increased a distance equal to the length of the opening or 
+one stud space minimum. Where an opening exceeds 25 
+percent of the cripple wall height, braced panels shall not be 
+located where the opening occurs. See Figure A3-7. 
+
+
+
+
+
+Exception: For homes with a post and pier foundation system where a new continuous perimeter foundation system is being installed, new ventilation shall be pro­vided in accordance with the building code. 
+[B] A304.5 Inspections. All work shall be subject to inspection I I by the code official including, but not limited to: 
+1. 
+Placement and installation of new adhesive or expansion 
+anchors installed in existing foundations. Special inspec­
+tion may be required for adhesive anchors installed in 
+existing foundations regulated by the prescriptive provi­
+sions of this chapter. 
+
+
+2. 
+Installation and nailing of new cripple wall bracing. 
+
+3. 
+Any work may be subject to special inspection when 
+required by the code official in accordance with the 
+building code. 
+
+
+
+
+
+[B] A304.5.1 Nails. All nails specified in this chapter shall be common wire nails of the following diameters and lengths: 8dnails shall be0.131 inch by21/2inches. lOdnails shall be0.148 inch by 3 inches. l2dnails shall be0.148 inch by 31/4 inches. 16d nails shall be 0.162 inch by 31/2 inches. Nails used to attach metal framing connectors directly to wood members shall be as specified by the connector manu­facturer in an approved report. 
+·)-. 
+A304. 6 Phasing of the strengthening work. When approved by the Enforcing Agency, the strengthening work contained in this chapter may be completed in phases. 
+II 
+
+
+
+
+u 
+
+
+CHAPTERA3 
+
+0 
+[B] TABLE A3·A SILL PLATE ANCHORAGE AND CRIPPLE WALL BRACING 
+
+
+
+0 
+("'---) 
+NUMBER OF STORIES ABOVE CRIPPLE WALLS  MINIMUM SILL PLATE CONNECTION AND MAXIMUM SPACING"· b  AMOUNT OF BRACING FOR EACH WALL LINEc,d,o  
+A Combination of Exterior Walls Finished with Portland Cement Plaster and Roofing Using Clay Tile or Concrete Tile WelghinMore than 6 psf {287 N/m  All Other Conditions  
+One story  1/2 inch (12.7 mm) spaced 6 feet, 0 inch (1829 mm) center-to-center with washer plate  Each end and not less than 50 percent of the wall length  Each end and not less than 40 percent of the wall length  
+Two stories  1/2 inch (12.7 mm) spaced 4 feet, 0 inch (1219 mm) center-to-center with washer plate; or 5fs inch (15.9 mm) spaced 6 feet, 0 inch (1829 mm) center-to-center with washer plate  Each end and not less than 70 percent of the wall length  Each end and not less than 50 percent of the wall length  
+Three stories  5fs inch (15.9 mm) spaced 4 feet, 0 inch (1219 mm) center-to-center with washer plate  100 percent of the wall lengthf  Each end and not less than 80 percent of the wall lengthf  
+
+Sill plate anchors shall be adhesive anchors or expansion anchors in accordance with Section A304.3.1. 
+II a. 
+b. All washer plates shall be 3 inches by 3 inches by .229 inch (76 mm by 76 mm by 5. 8 mm) minimum. 
+c. 
+See Figure A3-10 for braced panel layout. 
+
+d. 
+Braced panels at ends of walls shall be located as near tothe end as possible. 
+
+e. 
+All panels along a wall shall be nearly equal in length ail.d shall be nearly equal in spacing along the length of the will. 
+
+f. 
+The minimum required underfloor ventilation openings arepermitted in accordance with Section A304.4.4. 
+
+
+[B] TABLE A3·B SILL PLATE ANCHORAGE FOR VARIOUS LENGTHS OF SILL PLATE"·b 
+
+
+
+
+
+
+
+MINIMUM FOUNDATION DIMENSIONS 	MINIMUM FOUNDATION REINFORCING 
+
+
+Footing poured separate from wall 
+#4@ 32 inches 
+(813 mm) on center 
+
+#4@ 32 inches 
+(8 13 mm) on center 
+
+#4 @ 18 inches 
+( 457 mm) on center 
+
+a. 
+Where frost conditions occur, the minimum depth shall extend below the frost line. 
+
+b. 
+The ground surface along the interior side of the foundation may be excavated to the elevation of the top of the footing. 
+
+c. 
+When expansive soil is encountered, the foundation depth and reinforcement shall be as directed by the enforcing agency. 
+
+
+11 (). 
+EXISTING 2x BLOCKING 
+OR RIM JOIST WITH 
+EXISTING 
+EXISTING 2-2x 
+OR 1-2x 
+EXISTING CRIPPLE STUD 
+· 	EXISTING OR NEW 2x SILL 
+C>
+z 
+ a::
+
+w0 ww zw
+(.) a 
+ z
+
+w 
+ ­
+::>
+1-0 
+
+0
+0 :z:: 
+z ­:z:: 3:: 
+
+\ 
+EXISTING STUD WALL WITH SOLE PLATE 
+EXISTING SHEATHING OVER EXISTING 
+FLOOR FRAMING 
+
+EXISTING FLOOR FRAMING 
+ANCHORS SPACED AS 
+REQUIRED BY TABLE A3-A. 
+SEE FIGURE A3-3 FOR PLATE 
+WASHER REQUIREMENTS 
+
+
+
+EXISTING GROUND LEVEL 
+COLD JOINT WHEN FOOTING AND STEM 
+WALL ARE PLACED SEPARATELY. CLEAN 
+AND ROUGHEN 
+
+u 
+2-#4 CONTINUOUS 
+IN FOOTING 
+
+
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm. 
+
+[B) FIGURE A3-1 
+NEW REINFORCED CONCRETE FOUNDATION SYSTEM 
+
+CHAPTER A3 
+MINIMUM FOUNDATION DIMENSIONS MINIMUM FOUNDATION REINFORCING 
+
+0 
+
+a. 
+Where frost conditions occur, the minimum depth shall ex:tend below the frost line. 
+
+b. 
+The ground surface along the interior side of the foundation may be excavated to the elevation of the top of the footing. 
+
+
+c.When expansive soil is encountered, the foundation depth and reinforcement shall be as directed by the enforcing agency. 
+
+
+
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm. 
+
+[B] FIGURE A3·2 NEW HOLLOW-UNlTMASONRY FOUNDATION 
+
+
+
+
+/·---EXISTING STUD WALL WITH SOLE PLATE 
+-·/ ""··""·"' 
+EXISTING SHEATHING MATERIAL OVER EXISTING FLOOR FRAMING 
+EXISTING 2x BLOCKING 
+OR RIM JOIST WITH 
+EXISTING 2-2x OR 1-2x PLATE --·---·--··­
+/----· ADHESIVE ANCHOR OR EXPANSION / ANCHOR WITH PLATE WASHER & NUT, 
+/ 
+WITH SIZE & SPACING AS REQUIRED. FILL 
+/ 
+
+ANNULAR SPACE IN SILL PLATE WITH 
+/ 
+ADHESIVE (ADHESIVE ANCHORS ONLY) 
+;I'
+// 
+SEE TABLE A3-A FOR QUANTITY 
+TO CLEAR ANY EXISTING REINFORCING 
+
+For SI: 1 inch = 25.4 mm. 
+NOTES: 
+1. 	Plate washers shall comply with the following: 1/2 in. anchor or bolt-3 x3 x0.229 in. (76 mm x76mm x5.8mm) 518 in. anchor or bolt-3 x3 x0.229 in. (76 mm x76mm x5.8mm) 
+II U 
+
+
+2. See Figure A3-5 or A3-6 for cripple wall bracing. 
+[B) FIGURE A3-3 SILL PLATE BOLTING TO EXISTING FOUNDATION 
+
+CHAPTERA3 
+0 
+STUD WALL WITH SOLE 
+SHEATHING OVER FLOOR FRAMING 
+
+9" LONG PLATE WITH )f' DIAMETER ADHESIVE ANCHORS OR BOLTS TO FOUNDATION WALL ANDK" DIAMETER LAG SCREWS INTO SILL PLATE. PROVIDE PIECE WOOD STRUCTURAL PANEL MULTIPLE LAYERS OF WOOD 
+PANEL BETWEEN PLATE AND SILL WHEN SPACING EXCEEDS a" AND IS LESS THAN OR EQUAL TO 1Jf'. SEE TABLE
+. 
+A3-A FOR SPACING OF ANCHORS 
+
+
+
+}4"-DIAMETER LAG SCREW 
+2"MIN · MIN. INTO SILL PLATE FOR SHIM ATTACHMENT 
+SINGLE PIECE SHIM (AS REQUIRED) 
+!)fs"-DIAMETER HOLES 
+FOR }4" LAG SCREWS 
+7" x9" PLATE 
+HOLE DIAMETER SHALL NOT CONNECTION WHEN SHIM EXCEED CONNECTOR SPACE EXCEEDS 3/4 1NCH 0 DIAMETER BY MORE THAN 1/6" WIDTH UP TO 11/2 " 
+1
+
+
+/ ·. 
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm. NOTES: 
+1. 
+If shim space exceeds 21/2 in., alternate details will be required. 
+
+2. 
+Where required, single piece shim shall be naturally durable or preservative-treated wood. If perservative-treated wood is used, it shall be isolated from the foun­
+
+
+I I 
+
+dation system with a moisture barrier. 
+[B] FIGURE A3-4A 
+SILL PLATE BOLTING IN EXISTING FOUNDATION-ALTERNATE 
+
+() 
+EXISTING END JOIST SEE SEQTIOI''"'-.®4.1 .4 
+
+·SEE: 2,
+.
+CJ
+
+EX(STING GROUND 
+· 
+. . 
+For SI: 1 inch = 25.4 mm. 
+[B) FIGURE A3-4B 
+SILL PLATE BOLTING TO EXISTING FOUNDATION WITHOUT CRIPPLE WALL 
+AND FRAMING PARALLEL TO THE FOUNDATION WALL 
+
+0 
+SHIM PLACED FOR FULL CONTACT, EXISTING SILL. SEE NOTE 2, FIGURE A3-4A FOR SHIM REQUIREMENTS. 
+
+0 
+BEVELED WASHER REQUIRED 
+7" x'/,." x9" LONG PLATE SEE FIGURE A3-4A FOR ATTACHMENT INFORMATION. 
+
+CJ 
+For SI: 1 inch = 25.4 mm. 
+
+[B] FIGURE A3-4C 
+SILL PLATE BOLTING IN EXISTING FOUNDATION-ALTERNATE 
+
+
+CHAPTER A3 
+() 
+0 
+EXISTING 2x BLOCKING OR RIM 
+JOIST WITH EXISTING TOENAILS 
+SEE SECTION A304.1 .3 
+0 8d GALVANIZED NAILS AT 4" ON 
+'"!..'' THICK WOOD STRUCTURAL 
+PANEL. SEE FIGURE A3-7 FOR 
+PANEL AND NAILING 
+8d GALVANIZED NAILS 
+AT 4" ON 
+
+EXISTING STUD WALL WITH SOLE PLATE 
+EXISTING SHEATHING OVER EXISTING FLOOR FRAMING 
+
+EXISTING 2-2x 
+OR 1-2x PLATE 
+EXISTING 2x SILL PLATE. SEE FIGURES A3-3, A3-4A, A3-4B OR A3-4C FOR NEW CONNECTION 
+EXISTING FOUNDATION WALL 
+.., 
+"' .... 
+•t! 
+.A 
+f:J".. 
+ru m .,­1:<1 
+-
+.., 
+15 
+* 
+"' "" 
+..
+-
+ f:l".....f)'*..
+..
+•15 "'.t! 
+
+For SI: 1 inch = 25.4 mm. 
+NOTE: See Figure A3-3 for sill plate anchoring. 
+
+[B] FIGURE A3-5 
+CRIPPLE WALL BRACING WITH WOOD STRUCTURAL PANEL ON EXTERIOR FACE OF CRIPPLE STUDS 
+
+
+
+
+EXISTING 2x BLOCKING OR RIM 
+JOIST WITH EXISTING TOENAILS 
+SEE SECTION A304.1 .3 
+EXISTING 2-2x OR 1-2x PLATE 
+NEW 2x BLOCKING WITH 4-10d 
+NAILS EACH BLOCK TO SILL 
+PRE DRILL HOLES AS NEEDED 
+TO PRECLUDE 
+EXISTING STUD WALL WITH SOLE PLATE 
+EXISTING SHEATHING OVER EXISTING FLOOR FRAMING 
+'"M' THICK WOOD STRUCTURAL PANEL. SEE FIGURE A3-7 FOR PANEL AND NAILING LAYOUT 
+EXISTING FOUNDATION WALL 
+EXISTING GROUND LEVEL 
+a ...,. u"' ..8 ....." "" 
+,.:I 
+"'It!i "'mi) 
+For SI: 1 inch = 25.4 mm. 
+[B] FIGURE A3-6 
+CRIPPLE WALL BRACING WITH WOOD STRUCTURAL PANEL ON INTERIOR FACE OF CRIPPLE STUDS 
+.,..
+b ... 'tJ" 
+
+
+CHAPTERA3 
+2x BLOCKING FLAT ABOVE VENT 2x BLOCKING FLAT ABOVE VENT 
+OPENING. CONNECT TO STUDS WITH 
+OPENING. CONNECT TO STUDS 
+SHEET METAL 
+WITH SHEET METAL CONNECTORS Bd NAILS AT 12" ON CENTER 
+Bd NAILS AT 4" ON 
+AT INTERMEDIATE STUDS. MIN. 
+CENTER ON ALL EDGES OF 
+2 NAILS EACH 
+EACH INDIVIDUAL EXISTING CRIPPLE STUDS 
+2" TO 3" DIAMETER SEE ALTERNATES BELOW VENTILATION HOLES. SEE FOR VERTICAL PANEL JOINTS SECTIOIN A304.4.3 
+() 
+.. .. _., : 
+'tf:. > .
+ tio:l' ¥
+" "" 
+" 
+-
+' 
+NEW 2x CRIPPLE STUD NAILED EXISTING STUD 2" 
+TO EXISTING STUD WITH 10d MIN. OR PROVIDE 
+COMMON NAILS AT 4" ON NEW STUD AT 
+CENTER AT WOOD STRUCTURAL PANEL JOINTS PANEL JOINT. 3 NAILS MIN. 
+C) '"'':>":... 
+
+%'' MIN Y:l' MIN 
+'!a" MIN VERTICAL SPLICE VERTICAL SPLICE AT DOUBLE STUD AT SINGLE STUD 
+
+For SI: 1 inch = 25.4 mm. 
+[B] FIGURE A3-7 PARTIAL CRIPPLE STUD WALL ELEVATION CHAPTER A3 
+
+
+
+AN EXISTING RIM JOIST OR BLOCKING NAILING CAN NOTBE VERIFIED, PROVIDE A NEWFRAMING CLIP FROM BLOCKS TO TOP PLATE WITH A MINIMUM HORIZONTAL CAPACITY OF 450 POUNDS AS FOLLOWS: 3-8TORY: 16" O.C. 
+EXISTING RIM JOIST OR BLOCKING 
+2-STORY: 32" O.C. 
+WITH EXISTING NAILING TO BE 1-STORY: 48" O.C. 
+VERIFIED PERA304.1.3 
+WHERE AN EXISTING RIM JOIST 
+OR BLOCKING IS NOT PRESENT,
+PROVIDE NEW 2x SOLID BLOCKING
+AS FOLLOWS: 
+3-STORY: EVERY JOIST SPACE
+2·STORY: EVERY JOIST SPACE
+
+
+ABOVE BRACED PANELS, 
+AlTERNATE JOIST SPACES 
+AT OTHER LOCATIONS 
+
+1 -STORY: AL 
+II 
+EXISTING 2-2x OR 1-2x PlATE 
+EXISTING CRIPPLE STUD II SEE FIGURES A3-5AND A3-6 FOR BRACING 0 
+
+NEW 2x SOLID BLOCKING INSTALLED
+TO FIT TIGHTLY BETWEEN FLOOR 
+JOISTS 
+NEW FRAMING CLIP (FLAT) AT EACH BLOCK TO PLATE WITH A MINIMUM HORIZONTAL CAPACITY OF 450 POUNDS. SPACE AS INDICATED ABOVE 
+0 
+
+
+ALTERNATE DETAIL FOR FLUSH CONDITION 
+u 
+For SI: 1 inch = 25.4 mm, 1 pound = 4.4 N. 
+NOTE: See manufacturing instructions for nail sizes associated with metal framing clips. 
+
+[B] FIGURE A3-8A u TYPICAL FLOOR TO CRIPPLE WALL CONNECTION (FLOOR JOISTS NOT PARALLEL TO FOUNDATIONS) 
+
+
+
+CHAPTER A3 
+WHERE BE 
+0 
+AS . . 
+0 EXISTING RIM 
+SEE II 
+.RIM JOIST iNSTALLE.D !=IT 
+FLOOR 
+APO!.)NDS 
+0 
+ALTERNATE.CONNECTION FOR FLUSH CONNECTION 
+For SI: 1 inch = 25.4 mm, 1 pound = 4.4 N. 
+NOTE: See manufacturing instructions for nail sizes associated with metal framing clips. 
+
+[B] FIGURE A3-8B / ' TYPICAL FLOOR TO CRIPPLE WALL CONNECTION (FLOOR JOISTS PARALLEL TO FOUNDATIONS) 
+\,_) 
+
+
+For SI: 1 inch = 25.4 mm. NOTES: 
+1. 
+See Section A304.3 for sill plate anchorage. 
+
+2. 
+See manufacturing instructions for nail sizes associated with metal framing clips. 
+
+
+
+[B] FIGURE A3·8C 
+TYPICAL FLOOR TO MUDSILL CONNECTIONS 
+
+CHAPTER A3 
+(J 
+
+
+
+
+
+NEW 2x BLOCK 3-10d NAILS PRE-DRILL BLOCK TO PRECLUDE SPLITTING 
+EXISTING 2-2x OR 12x PLATE 
+2xBLOCK STUD WHEN EXISTING CRIPPLE STUD WALL HAS SINGLE TOP PLATE. NAIL TO TOP PLATE WITH 3-tod WHERE AN EXISTING RIM JOIST BLOCKING NAILS. (PRE-DRILL IS NOT PRESENT, PROVIDE NEW%" WOOD 
+STRUCTURAL PANEL BLOCKING INSTALLED TO FIT TIGHTLY BETWEEN FLOOR JOISTS. NAIL Sd NAILSAT 4" ON CENTER TO TOP
+CRIPPLE STUD WALL 
+AND SILL PLATE. SPACE BLOCKS A$ 
+SEE FIGURES A3·6 FOLLOWS:EVERY JOIST SPACE 
+·EVERY JOIST SPACE BRACED PANELS, ALTERNATE JOIST SPACES OTHER LOCATIONS 
+1-STORY: ALTERNATE JOIST SPACE 
+FLOOR JOISTS NOT PARALLELTO FOUNDATION 
+NEW 2x BLOCKING. SEE. REQUIREMENTS ABOVE
+EXISTING RIM JOIST WITH 
+EXISTING NAILING BE 
+VERIFIED PERA304,1 .4 
+
+WHERE EXISTING FROM EXISTING RIM JOIST TO TOP PLATE CAN. NOT BE VERIFIED, PROVIDE NEW WOOD STRUCTURAL PANELBLOCKING. SEE REQUIREMENTS ABOVE. 
+FLOOR JOISTS PARALLEL TO FOUNDATION 
+For SI: 1 inch = 25.4 mm, 1 pound = 4.4N. NOTE: See Section A304.4 for cripple wall bracing. 
+
+[B] FIGURE A3·9 ALTERNATE FLOOR FRAMING TO CRIPPLE WALL CONNECTION 
+
+
+
+
+
+CJ 
+() 
+u 
+
+
+
+psf (287 Nlm"). 
+Bracing determination: 1-story and not less than 40% of waii iMglh.l wall-30 ft. x0.40 = 12 fl. Minimum panel length = 4 ft. 0 in. 2-story end and not less than 50% of wall wall--40 ft. x0.50 =20 ft. 0 minimum of bracing. 3·story end and not less than 80% of wall length.' 
+
+
+For SI: 1 inch = 25.4 mm, 1 foot = 304.8 mm. NOTE: See Section A304.4 for cripple wall bracing. 
+
+[B] FIGURE A3-10 FLOOR PLAN-CRIPPLE WALL BRACING LAYOUT 
+
+
+
+HISTORY NOTE CALIFORNIA EXISTING BUILDING CODE 
+(Title 24, Part 10, California Code of Regulations} 
+For prior history, see the History Note Appendix to the Califor­
+nia Code for Building Conservation, 201 1 Triennial Edition, 
+effective January 1, 2011. 
+
+1. 	(BSC 06/12, HCD 07 /12) Adoption of Appendix Chapter 
+A1 of the 2012 International Existing Building Code with 
+necessary California amendments, effective January 1, 
+2014. 
+
+II 
+2. (HCD 07 /12) Adoption of Appendix Chapter A3 of the 
+International Existing Building Code with necessary 
+
+California amendments, effective January 1, 2014. 
+
+
+
+
+
+
+
+0 
+
+0 
+
+
+
+46 
+
