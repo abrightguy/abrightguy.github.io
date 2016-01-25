@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="part-content">
+  <h1><a href="{{ page.partfile }}">{{ page.description }} (pdf)</a></h1>
+</div>
+
+{% assign path = page.partname %}
+{% assign pages = site.pages | where:"partname", path %}
+{% for page in pages %}
+  {% if page.edition == "current" %}
+  <h2><a href="{{ page.url }}">{{ page.chapter }}</a></h2>
+  {% endif %}
+{% endfor %}

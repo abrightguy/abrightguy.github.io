@@ -24,110 +24,118 @@ markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
-# Default Settings
+# Exculsions
+exclude: ["_posts"]
+
+# Defaults
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
       type: pages
     values:
-      layout: "default"
+      layout: default
   -
     scope:
-      path: "Part1" # an empty string here means all files in the project
-      type: Part1
+      path: "codes/2013"
+      type: pages
     values:
-      layout: "Part1"
+      year: (2013)
+      edition: current
+      layout: chapter
   -
     scope:
-      path: "Part2" # an empty string here means all files in the project
-      type: Part2
+      path: "codes/2013/1"
+      type: pages
     values:
-      layout: "Part2"
+      partname: Part 1
+      partfile: part01.pdf
+      description: Administrative Code
   -
     scope:
-      path: "Part2.5" # an empty string here means all files in the project
-      type: Part2.5
+      path: "codes/2013/2"
     values:
-      layout: "Part2.5"
+      partname: Part 2
+      partfile: part02.pdf
+      description: Building Code
+      layout: volumechapter
   -
     scope:
-      path: "Part3" # an empty string here means all files in the project
-      type: Part3
+      path: "codes/2013/2/1"
     values:
-      layout: "Part3"
+      volume: Volume 1
   -
     scope:
-      path: "Part4" # an empty string here means all files in the project
-      type: Part4
+      path: "codes/2013/2/2"
     values:
-      layout: "Part4"
+      volume: Volume 2
   -
     scope:
-      path: "Part5" # an empty string here means all files in the project
-      type: Part5
+      path: "codes/2013/2.5"
     values:
-      layout: "Part5"
+      partname: Part 2.5
+      partfile: part025.pdf
+      description: Residential Code
   -
     scope:
-      path: "Part6" # an empty string here means all files in the project
-      type: Part6
+      path: "codes/2013/3"
     values:
-      layout: "Part6"
+      partname: Part 3
+      partfile: part03.pdf
+      description: Electrical Code
   -
     scope:
-      path: "Part8" # an empty string here means all files in the project
-      type: Part8
+      path: "codes/2013/4"
     values:
-      layout: "Part8"
+      partname: Part 4
+      partfile: part04.pdf
+      description: Mechanical Code
   -
     scope:
-      path: "Part9" # an empty string here means all files in the project
-      type: Part9
+      path: "codes/2013/5"
     values:
-      layout: "Part9"
+      partname: Part 5
+      partfile: part05.pdf
+      description: Plumbing Code
   -
     scope:
-      path: "Part10" # an empty string here means all files in the project
-      type: Part10
+      path: "codes/2013/6"
     values:
-      layout: "Part10"
+      partname: Part 6
+      partfile: part06.pdf
+      description: Energy Code
   -
     scope:
-      path: "Part11" # an empty string here means all files in the project
-      type: Part11
+      path: "codes/2013/8"
     values:
-      layout: "Part11"
+      partname: Part 8
+      partfile: part08.pdf
+      description: Historic Building Code
   -
     scope:
-      path: "Part12" # an empty string here means all files in the project
-      type: Part12
+      path: "codes/2013/9"
     values:
-      layout: "Part12"
-
-# Collections
-collections:
-  Part1:
-    output: true
-  Part2:
-    output: true
-  Part2.5:
-    output: true
-  Part3:
-    output: true
-  Part4:
-    output: true
-  Part5:
-    output: true
-  Part6:
-    output: true
-  Part8:
-    output: true
-  Part9:
-    output: true
-  Part10:
-    output: true
-  Part11:
-    output: true
-  Part12:
-    output: true
+      partname: Part 9
+      partfile: part09.pdf
+      description: Fire Code
+  -
+    scope:
+      path: "codes/2013/10"
+    values:
+      partname: Part 10
+      partfile: part10.pdf
+      description: Existing Building Code
+  -
+    scope:
+      path: "codes/2013/11"
+    values:
+      partname: Part 11
+      partfile: part11.pdf
+      description: Green Building Standards Code
+  -
+    scope:
+      path: "codes/2013/12"
+    values:
+      partname: Part 12
+      partfile: part12.pdf
+      description: Referenced Standards Code
