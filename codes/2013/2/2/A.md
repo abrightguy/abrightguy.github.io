@@ -1,5 +1,8 @@
-APPENDIX A
-EMPLOYEE QUALIFICATIONS
+---
+chapter: Appendix A
+title: EMPLOYEE QUALIFICATIONS
+---
+
 The provisions contained in this appendix arenot mandatory unless specifically referenced in the adopting ordinance.
 
 SECTION A 101
@@ -46,4 +49,4 @@ IFGC-12 California Fuel Gas Code A101.2
 
 
 
-CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE 
+CALIFORNIA BUILDING CODE -MATRIX ADOPTION TABLE
